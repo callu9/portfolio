@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 export default async function BlogPage() {
   const posts = await getAllPostsFromGitHub();
-  const visibleConfigs = getVisibleBlogs();
+  // const visibleConfigs = getVisibleBlogs();
 
   // Map posts with their configs, only include visible ones
   const postsWithConfig = posts

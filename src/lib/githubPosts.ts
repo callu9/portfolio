@@ -24,7 +24,20 @@ async function mdToHtml(md: string) {
 export async function listMarkdownPathsRecursive(): Promise<string[]> {
   const url = `${GITHUB_API}/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
   const res = await fetch(url, { headers: getHeaders() });
-  if (!res.ok) throw new Error(`Failed to fetch repo tree: ${res.status}`);
+  if (!res.ok) {
+    // If we hit a 403 (rate limit or API restriction), fallback to the
+    // Contents API which lists directories and files and is often more
+    // forgiving for public repos. If that also fails, throw.
+    if (res.status === 403) {
+      console.warn(
+        "GitHub tree API returned 403; falling back to Contents API",
+      );
+      // Fallback: traverse repo via the Contents API
+      const paths = await listMarkdownPathsViaContents();
+      return paths;
+    }
+    throw new Error(`Failed to fetch repo tree: ${res.status}`);
+  }
   const data = await res.json();
   const tree = data.tree as Array<{ path: string; type: string }>;
   // Return all .md / .mdx files
@@ -35,6 +48,30 @@ export async function listMarkdownPathsRecursive(): Promise<string[]> {
         (t.path.endsWith(".md") || t.path.endsWith(".mdx")),
     )
     .map((t) => t.path);
+}
+
+async function listMarkdownPathsViaContents(dir = ""): Promise<string[]> {
+  const results: string[] = [];
+  const apiUrl = `${GITHUB_API}/repos/${OWNER}/${REPO}/contents/${dir}?ref=${BRANCH}`;
+  const res = await fetch(apiUrl, { headers: getHeaders() });
+  if (!res.ok) {
+    throw new Error(`Contents API failed for ${dir}: ${res.status}`);
+  }
+  const data = await res.json();
+  // If the path is a file, GitHub returns an object, otherwise an array for directory
+  const items = Array.isArray(data) ? data : [data];
+  for (const item of items) {
+    if (item.type === "file") {
+      if (item.path.endsWith(".md") || item.path.endsWith(".mdx")) {
+        results.push(item.path);
+      }
+    } else if (item.type === "dir") {
+      const child = await listMarkdownPathsViaContents(item.path);
+      results.push(...child);
+    }
+    // skip other types (symlink, submodule)
+  }
+  return results;
 }
 
 type TreeNode = {
@@ -122,23 +159,43 @@ function rawUrlForPath(path: string) {
 }
 
 export async function getAllPostsFromGitHub() {
-  const paths = await listMarkdownPathsRecursive();
-  const posts = await Promise.all(
-    paths.map(async (p) => {
+  let paths: string[] = [];
+  try {
+    paths = await listMarkdownPathsRecursive();
+  } catch (err) {
+    console.error("Failed to list markdown paths from GitHub:", err);
+    return [];
+  }
+
+  const posts: Array<{
+    slug: string;
+    path: string;
+    frontmatter: any;
+    html: string;
+    raw: string;
+  }> = [];
+
+  // Fetch files one-by-one with per-file error handling so a single
+  // bad/missing/temporarily-failing file doesn't cause the whole page
+  // render to throw (which produces a 500).
+  for (const p of paths) {
+    try {
       const url = rawUrlForPath(p);
       const res = await fetch(url);
-      if (!res.ok)
-        throw new Error(`Failed to fetch raw file ${p}: ${res.status}`);
+      if (!res.ok) {
+        console.error(`Skipping ${p}: failed to fetch raw file: ${res.status}`);
+        continue;
+      }
       const raw = await res.text();
       const { data: frontmatter, content } = matter(raw);
       const htmlContent = await mdToHtml(content);
-      // Generate a unique slug based on the full path (without extension).
-      // Replace path separators with `--` so files with the same name in
-      // different directories produce different slugs (e.g. "docs/readme.md" -> "docs--readme").
       const slug = p.replace(/\.mdx?$/, "").toLowerCase();
-      return { slug, path: p, frontmatter, html: htmlContent, raw };
-    }),
-  );
+      posts.push({ slug, path: p, frontmatter, html: htmlContent, raw });
+    } catch (err) {
+      console.error(`Error processing ${p}, skipping.`, err);
+      continue;
+    }
+  }
   // sort by date if available
   posts.sort((a, b) => {
     const da = new Date(a.frontmatter?.date || 0).getTime();

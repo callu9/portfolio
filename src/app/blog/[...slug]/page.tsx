@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllPostsFromGitHub } from "@/lib/githubPosts";
+import { getBlogConfig, getVisibleBlogs } from "@/data/blogs";
 
 interface Props {
   params: Promise<{
@@ -9,20 +10,46 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  const posts = await getAllPostsFromGitHub();
-  // Return params as arrays of path segments (without extension)
-  return posts.map((p) => ({
-    slug: p.path.replace(/\.mdx?$/, "").split("/") as string[],
+  try {
+    const posts = await getAllPostsFromGitHub();
+    if (posts && posts.length > 0) {
+      // Return params as arrays of path segments (without extension)
+      return posts.map((p) => ({
+        slug: p.path.replace(/\.mdx?$/, "").split("/") as string[],
+      }));
+    }
+  } catch (err) {
+    console.error("Failed to list markdown paths from GitHub:", err);
+  }
+
+  // Fallback to local blog config if GitHub is inaccessible (e.g., 403).
+  const configs = getVisibleBlogs();
+  return configs.map((c) => ({
+    slug: c.path.replace(/\.mdx?$/, "").split("/") as string[],
   }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const pathWithoutExt = slug.join("/");
-  const posts = await getAllPostsFromGitHub();
-  const post = posts.find(
-    (p) => p.path.replace(/\.mdx?$/, "") === pathWithoutExt,
-  );
+  let post = null as any;
+  try {
+    const posts = await getAllPostsFromGitHub();
+    post = posts.find((p) => p.path.replace(/\.mdx?$/, "") === pathWithoutExt);
+  } catch (err) {
+    console.error("Failed to list markdown paths from GitHub:", err);
+  }
+
+  // If not found from GitHub, fall back to local config for title/description
+  if (!post) {
+    const cfg = getBlogConfig(pathWithoutExt);
+    if (cfg) {
+      return {
+        title: `${cfg.title || "포스트"} | 개발 블로그`,
+        description: cfg.description || "",
+      };
+    }
+  }
   return {
     title: `${post?.frontmatter?.title || "포스트"} | 개발 블로그`,
     description: post?.frontmatter?.description || "",
@@ -32,9 +59,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BlogPostPage({ params }: Props) {
   const { slug } = await params;
   const pathWithoutExt = slug.join("/");
-  const posts = await getAllPostsFromGitHub();
-  const post =
-    posts.find((p) => p.path.replace(/\.mdx?$/, "") === pathWithoutExt) ?? null;
+  let post = null as any;
+  try {
+    const posts = await getAllPostsFromGitHub();
+    post =
+      posts.find((p) => p.path.replace(/\.mdx?$/, "") === pathWithoutExt) ??
+      null;
+  } catch (err) {
+    console.error("Failed to list markdown paths from GitHub:", err);
+  }
+
+  // Fallback: if GitHub data unavailable, check local config to provide at least metadata
+  if (!post) {
+    const cfg = getBlogConfig(pathWithoutExt);
+    if (cfg) {
+      // synthetic minimal post using local config when remote MD is unavailable
+      post = {
+        frontmatter: {
+          title: cfg.title || cfg.path.split("/").pop(),
+          description: cfg.description || "",
+        },
+        html: `<p>원격 저장소에서 포스트 내용을 불러올 수 없습니다. 로컬 메타데이터만 표시됩니다.</p>`,
+      } as any;
+    }
+  }
 
   if (!post) {
     return (
