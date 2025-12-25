@@ -11,9 +11,9 @@ const Navigation: React.FC = () => {
   const links: NavigationLink[] = [
     { label: "홈", href: "/" },
     { label: "경력", href: "/#experience" },
-    { label: "프로젝트", href: "/#projects" },
+    // { label: "프로젝트", href: "/#projects" },
     { label: "리뷰", href: "/#reviews" },
-    { label: "블로그", href: "/#blog" },
+    // { label: "블로그", href: "/#blog" },
   ];
 
   return (
