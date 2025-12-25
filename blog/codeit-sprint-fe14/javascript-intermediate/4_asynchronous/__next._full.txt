@@ -1,0 +1,460 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","javascript-intermediate","4_asynchronous"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/javascript-intermediate/4_asynchronous","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-sage","style":{"left":"81.45125830781419%","top":"31.465256294136857%","width":"295.1567942148718px","height":"295.1567942148718px","animation":"float 16.566983168160355s ease-in-out infinite","animationDelay":"8.85220085696469s"}}],["$","div","1",{"className":"dot dot-coral","style":{"left":"77.50125030365898%","top":"67.71308458514955%","width":"277.2557795271774px","height":"277.2557795271774px","animation":"float 18.39287398403238s ease-in-out infinite","animationDelay":"9.84060657182584s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"47.21702623282202%","top":"53.79691556718704%","width":"268.2454035699703px","height":"268.2454035699703px","animation":"float 16.48659055651696s ease-in-out infinite","animationDelay":"12.770900256119845s"}}],["$","div","3",{"className":"dot dot-peach","style":{"left":"83.20584266815439%","top":"26.642916964228537%","width":"474.02661343397665px","height":"474.02661343397665px","animation":"float 19.96871676677971s ease-in-out infinite","animationDelay":"3.6823124641885308s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"25.983856382884163%","top":"84.13610958998552%","width":"275.2521217543816px","height":"275.2521217543816px","animation":"float 16.155695666815344s ease-in-out infinite","animationDelay":"7.37891353091747s"}}],["$","div","5",{"className":"dot dot-peach","style":{"left":"47.77667146238698%","top":"13.19624635751644%","width":"288.1634616393536px","height":"288.1634616393536px","animation":"float 18.06799683421128s ease-in-out infinite","animationDelay":"6.575824068670131s"}}],["$","div","6",{"className":"dot dot-sage","style":{"left":"22.091519693198602%","top":"16.03097378163143%","width":"210.09644620633614px","height":"210.09644620633614px","animation":"float 16.539856775920153s ease-in-out infinite","animationDelay":"0.8896195799259656s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"97.20344585468447%","top":"57.06181694188683%","width":"455.65198747252634px","height":"455.65198747252634px","animation":"float 18.579812375821778s ease-in-out infinite","animationDelay":"10.450125328862349s"}}],["$","div","8",{"className":"dot dot-mint","style":{"left":"6.947544222596513%","top":"31.891846244347178%","width":"454.91970543243485px","height":"454.91970543243485px","animation":"float 15.589724074963643s ease-in-out infinite","animationDelay":"10.295623724861185s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"8.344544343151949%","top":"84.90919853559087%","width":"434.7439652757777px","height":"434.7439652757777px","animation":"float 15.806916340901152s ease-in-out infinite","animationDelay":"7.642870916665263s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"54.49136171187947%","top":"68.82867897454443%","width":"432.5951214718766px","height":"432.5951214718766px","animation":"float 15.96509222297345s ease-in-out infinite","animationDelay":"15.451486954341068s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"57.722476321551476%","top":"12.39849017320056%","width":"395.23950222202785px","height":"395.23950222202785px","animation":"float 16.861493069430722s ease-in-out infinite","animationDelay":"3.6297958978041116s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L4","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+4:["$","$Lc",null,{}]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$@12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$@14"}]}]}],null]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:T5cd8,<h1>비동기 프로그래밍</h1>
+<p>비동기 실행이란 <strong>처리가 오래 걸리거나 결과를 나중에 받아야 하는 작업을 현재의 순차적(동기) 흐름에서 분리</strong>해서 <strong>프로그램이 멈추지 않게</strong> 만드는 방식으로, 이 때문에 자바스크립트 엔진은 이벤트 루프를 돌리는 메인 스레드가 1개인 <strong>단일 스레드</strong>임에도 여러 작업이 동시에 진행되는 것처럼 보이는 <strong>동시성</strong>(concurrency)을 가진다.</p>
+<ul>
+<li>다만 실제로는 작업의 일부는 브라우저/OS(또는 libuv)에 의해 병렬로 처리될 수 있지만, JS 콜백 자체는 기본적으로 메인 스레드에서 실행된다는 점과, 진짜 병렬 JS 실행을 하려면 워커를 써야 한다</li>
+</ul>
+<h2>1. Callback</h2>
+<p>콜백이란, 어떤 함수의 argument로 또 다른 함수를 전달하는 것</p>
+<ul>
+<li>즉, argument로 전달되는 함수가 <strong>콜백 함수</strong>다.</li>
+</ul>
+<h3>1-1. 콜백과 비동기 프로그래밍의 연관성</h3>
+<ul>
+<li>비동기 함수 (Asynchronous Function): 함수의 내용을 끝까지 쭉 실행하지 않고, 중간에 다른 작업을 처리하다가 다시 돌아와서 마무리하는 함수</li>
+<li>나중에 처리해야 하는 작업을 함수 형태로 전달하는 콜백을 이용해 비동기 함수를 구현할 수 있다.</li>
+</ul>
+<pre><code class="language-js">setTimeout(() => console.log("Hello World!"), 3000);
+</code></pre>
+<h4>cf. 화살표 함수 (Arrow Function)</h4>
+<p>화살표 함수는 기존의 함수 선언 방식을 간결하게 만들어주는 문법으로,
+콜백에서 <strong>컨텍스트 유지</strong>를 위해 화살표 함수를 사용한다.</p>
+<p>| 차이             | 일반 함수 (function)                      | 화살표 함수 (arrow function)                                                                  |
+| ---------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 호이스팅         | ✅                                        | ❌변수 선언 규칙을 따르기 때문                                                           |
+| 스코프           | 함수 스코프를 가짐.                       | 상위 스코프를 따름. let/const로 할당된 화살표 함수는 블록 스코프(block scope) 영향 받음. |
+| this 바인딩      | 호출 맥락에 따른 동적 바인딩              | 선언된 위치의 상위 스코프를 따름                                                              |
+| 생성자 가능 여부 | ✅<code>new</code> 키워드로 인스턴스 생성 가능 | ❌<code>new</code>키워드 사용시 TypeError                                                          |</p>
+<p>콜백에서 컨텍스트 유지란, 정의된 스코프의 this를 사용하여 컨텍스트를 의도대로 사용한다는 의미이다.
+즉, “<strong>Arrow function은 새로운 this를 바인딩하지 않고, 정의된 스코프의 this를 그대로 사용하기 때문에 콜백이나 비동기 작업 안에서 객체 컨텍스트를 안전하게 유지할 수 있다.</strong>”</p>
+<ol>
+<li>
+<p>컨텍스트(Context) = this 바인딩</p>
+<ul>
+<li>자바스크립트에서 this는 <strong>함수를 어떻게 호출했는지</strong>에 따라 값이 달라짐.
+<ul>
+<li>객체 메서드에서 쓰면 그 객체가 this</li>
+<li>이벤트 핸들러에서 쓰면 이벤트 타겟 엘리먼트가 this</li>
+<li>일반 함수 호출에서는 전역 객체(window/undefined)가 this</li>
+</ul>
+</li>
+<li>따라서, <strong>콜백으로 전달된 함수에서 this가 의도와 다르게 바뀌는 게 흔한 문제</strong>.</li>
+</ul>
+</li>
+<li>
+<p>문제 상황: 일반 함수의 this 분실</p>
+<ul>
+<li>setInterval에 전달된 일반 함수는 전역 컨텍스트에서 실행됨 → this가 window(strict 모드에선 undefined).</li>
+</ul>
+</li>
+</ol>
+<pre><code class="language-js">function Timer() {
+	this.seconds = 0;
+	setInterval(function () {
+		this.seconds++; // ❌ 여기서 this는 window. Timer 인스턴스가 아님
+		console.log(this.seconds);
+	}, 1000);
+}
+
+new Timer(); // NaN 출력, 혹은 에러
+</code></pre>
+<ol start="3">
+<li>
+<p>해결책: Arrow function의 렉시컬 this</p>
+<ul>
+<li>Arrow function은 자신만의 this를 만들지 않음. 대신 <strong>선언된 위치의 this</strong>(렉시컬 this)를 그대로 캡처(고정).</li>
+<li>👉 덕분에 별도 .bind(this)나 <code>const self = this</code> 트릭 없이도 컨텍스트 유지 가능.</li>
+</ul>
+</li>
+</ol>
+<pre><code class="language-js">function Timer() {
+	this.seconds = 0;
+	setInterval(() => {
+		this.seconds++; // ✅ this는 Timer 인스턴스를 가리킴
+		console.log(this.seconds);
+	}, 1000);
+}
+
+new Timer(); // 1, 2, 3, ...
+</code></pre>
+<ol start="4">
+<li>
+<p>또 다른 예시: 이벤트 핸들러</p>
+<ul>
+<li>이벤트 핸들러 콜백을 arrow function으로 작성하면, this는 obj에 고정됨.</li>
+<li>만약 일반 함수였다면 this는 클릭된 DOM 엘리먼트로 바뀌었을 것.</li>
+</ul>
+</li>
+</ol>
+<pre><code class="language-js">const obj = {
+	value: 42,
+	init() {
+		document.body.addEventListener("click", () => {
+			console.log(this.value); // ✅ obj의 value
+		});
+	},
+};
+
+obj.init();
+</code></pre>
+<ol start="5">
+<li>정리
+<ul>
+<li>일반 함수: this가 호출 맥락마다 바뀜 → 콜백에서 의도치 않게 깨짐</li>
+<li>화살표 함수: <strong>this를 정의 시점의 컨텍스트에 묶어둠 → 컨텍스트 유지에 최적</strong></li>
+</ul>
+</li>
+</ol>
+<p>따라서</p>
+<ul>
+<li>타이머, 비동기 콜백, 이벤트 핸들러 등에서 <strong>객체 상태 유지 필요할 때</strong> arrow function 사용</li>
+<li>하지만 메서드 정의 자체에는 권장되지 않음 (상속, prototype 활용이 필요한 경우는 일반 함수 사용)</li>
+</ul>
+<h3>1-2. 비동기 작업의 처리 방법</h3>
+<p>비동기 프로그래밍에서 코드 작성 순서와 실행 순서는 다를 수 있다.</p>
+<ul>
+<li>비동기 함수는 이후에 있는 모든 코드를 실행한 후 콜백을 실행한다.</li>
+<li>실행할 콜백이 여러 개일 경우, 동기적으로 실행된다.</li>
+</ul>
+<pre><code class="language-js">console.log(1);
+setTimeout(() => console.log(2), 3000);
+setTimeout(() => console.log(3), 2000);
+console.log(4);
+
+// 1
+// 4
+// 3
+// 2
+</code></pre>
+<h4>cf. 병렬적 처리와 순차적 실행</h4>
+<p>비동기 작업은 병렬적으로 처리된다.</p>
+<ul>
+<li>실제로 “병렬”이라는 말의 의미는
+<ul>
+<li>여러 비동기 작업(네트워크 요청, 타이머 카운트 등)이 JS 메인 스레드와 별개로 동시에 진행될 수 있다는 뜻</li>
+<li>그러므로 10개의 네트워크 요청을 동시에 보내면 백그라운드에서 모두 기다릴 수 있어서 효율적이다.</li>
+</ul>
+</li>
+</ul>
+<p>비동기 작업(타이머, 네트워크 등)은 브라우저/런타임(백그라운드)에 맡겨져서 동시에(또는 병렬로) “완료 대기”를 한다.
+그 작업들이 완료되면 콜백은 메인 스레드의 큐(Callback Queue)에 들어가고, 메인 스레드가 한가해지면 하나씩 실행한다(순차적 실행).</p>
+<ul>
+<li>콜 스택(Call stack): 지금 실행 중인 동기 코드가 쌓이는 곳</li>
+<li>백그라운드(브라우저/환경): 타이머, 네트워크, 파일 I/O 등을 실제로 처리하는 영역 (브라우저의 Web APIs)</li>
+<li>큐(Callback Queue, Macrotask queue): 백그라운드에서 완료된 비동기 작업의 콜백들이 들어가는 대기열</li>
+<li>마이크로태스크큐(Microtask queue): <code>Promise.then</code> 같은 우선순위 높은 콜백들이 들어가는 별도 큐</li>
+<li>이벤트 루프(Event loop): 콜 스택이 비었는지 보고, 비어 있으면 큐에서 콜백을 꺼내 콜 스택으로 올려 실행하는 반복자</li>
+</ul>
+<h4>cf. 동기 코드와 비동기 코드가 섞였을 때의 흐름 (단계)</h4>
+<p><img src="https://velog.velcdn.com/images/onedanbee/post/2dcd1be1-f139-4f6a-8ba9-a32d2340da87/image.gif" alt="비동기 Task Queue"></p>
+<ol>
+<li>동기 코드가 실행되면 콜 스택에서 순차적으로 처리. 이 동안은 아무런 콜백도 실행되지 않음.</li>
+<li>비동기 함수를 호출하면, 메인 스레드는 해당 작업을 "백그라운드(환경)"에 위임하고 즉시 다음 동기 코드 진행</li>
+<li>백그라운드는 타이머 카운트, 네트워크 응답 대기 등을 독립적으로 수행(병렬성). 완료 시점에 해당 콜백을 적절한 큐에 넣는다.</li>
+<li>콜 스택이 완전히 비워지면 이벤트 루프가 먼저 마이크로태스크 큐를 모두 비우고(모두 실행), 그다음에 마크로태스크(Callback Queue)에서 하나 꺼내 실행. 그런 뒤 다시 마이크로태스크를 비우는 식으로 동작.</li>
+</ol>
+<pre><code class="language-js">console.log("A");
+
+setTimeout(() => console.log("setTimeout 0"), 0);
+
+Promise.resolve().then(() => console.log("promise"));
+
+console.log("B");
+
+// A → B → promise → setTimeout 0
+</code></pre>
+<p>여러 비동기 작업이 동시에 있을 때 (백그라운드에서 무슨 일이 일어나나)</p>
+<ul>
+<li>타이머들: 각각의 타이머는 브라우저/환경에서 시간을 세고, 만료되면 해당 콜백을 큐에 넣어요. 만약 두 타이머가 같은 만료시간이면 보통 등록된 순서(먼저 등록된 것이 먼저)대로 큐에 들어갑니다. 단, 브라우저의 최소 지연 규칙(중첩된 setTimeout은 최소 4ms 등) 같은 예외가 있어요.</li>
+<li>네트워크 요청: 여러 요청은 병렬로 전송/처리될 수 있고, 응답이 도착한 순서대로 콜백이 큐에 들어갑니다. 즉 “먼저 끝난 요청의 콜백이 먼저” 들어가요.</li>
+<li>백그라운드 처리 방식: 브라우저는 자체 스레드나 OS 네트워크 스택을 사용해서 기다리고, Node.js는 libuv의 스레드풀이나 이벤트 기반 I/O를 사용해요. 중요한 점은 JS 엔진(메인 스레드)이 I/O를 직접 차단하지 않는다는 것.</li>
+</ul>
+<h4>콜백 실행 순서 결정 규칙</h4>
+<ul>
+<li>동기 코드는 즉시 실행되고, 끝날 때까지 다른 콜백은 실행되지 않음.</li>
+<li>마이크로태스크(Promise 등)는 콜 스택이 비자마자 실행되고, 마이크로태스크는 FIFO로 모두 비워짐.</li>
+<li>마크로태스크(setTimeout, setInterval, I/O 콜백 등)는 마이크로태스크를 모두 처리한 뒤 하나씩 실행됨.</li>
+<li>백그라운드는 “어떤 작업이 먼저 끝나는지”에 따라 콜백을 큐에 넣음. 같은 만료시간의 타이머는 등록 순서에 따라 큐에 들어가는 경우가 많음.</li>
+</ul>
+<p>하지만 “콜백 실행” 자체는 메인 스레드에서 하나씩 처리되므로, 콜백 내부에 무거운 동기 작업이 들어있다면 다른 콜백/UI가 지연될 수 있다. 즉, 콜백 큐에 들어간 순서는 “작업이 언제/어떻게 완료됐는지”에 의해 결정된다.</p>
+<pre><code class="language-js">console.log("start");
+
+setTimeout(() => console.log("t1"), 300);
+setTimeout(() => console.log("t2"), 200);
+setTimeout(() => console.log("t3"), 200);
+
+console.log("end");
+// start → end → t2 → t3 → t1
+// t2와 t3는 같은 만료시간(200ms)이므로 보통 등록 순서대로 큐에 들어가지만, 네트워크/환경 차이로 미세한 차이가 날 수 있다
+</code></pre>
+<h3>1-3. 콜백의 한계점 : 콜백 헬 (Callback Hell)</h3>
+<p>콜백의 비동기 처리에서의 취약한 점은 여러 비동기 작업을 연속적으로 처리하는 것</p>
+<p>콜백 안에 콜백을 중첩해서 사용하는 현상을 콜백 헬(Callback Hell) 혹은 콜백 지옥이라고 부른다.
+코드 가독성이 떨어지고, 디버깅/테스팅하기 어려워진다.</p>
+<pre><code class="language-js">import { getEmployees, json, groupEmployees } from "./functions.js";
+
+/**
+ * 직원 데이터를 가져온 후 리스폰스를 파싱하고 데이터를 프로세싱 하는 예시
+ */
+getEmployees((response) => {
+	json(response, (data) => {
+		groupEmployees(data, (result) => {
+			console.log(result);
+		});
+	});
+});
+// Sending request... → Parsing string... → Grouping employees... → console.log
+</code></pre>
+<p>이와 같은 콜백 헬을 해소하기 위한 방법으로 ES6(ECMAScript 2015)에 Promise가 소개되었다.</p>
+<h2>2. Promise</h2>
+<ul>
+<li>Promise: 비동기 작업이 완료되면 값을 알려주는 객체</li>
+<li>작업이 완료되면 값을 알려줄 것을 "약속"한다고 하여 Promise라고 한다.</li>
+</ul>
+<pre><code class="language-js">import { groupEmployees } from "./functions.js";
+
+// fetch 함수는 Promise 객체를 리턴한다.
+const response = await fetch("https://learn.codeit.kr/api/employees");
+
+const data = await response.json();
+
+const groupedData = groupEmployees(data);
+console.log(groupedData);
+</code></pre>
+<h3>2-1. Promise의 상태</h3>
+<ul>
+<li>Pending: 미결정. 비동기 작업의 결과를 기다리고 있을 때</li>
+<li>Fulfilled: 비동기 작업이 성공적으로 완료됐을 때</li>
+<li>Rejected: 비동기 작업이 중간에 실패했을 때</li>
+</ul>
+<h3>2-2. await 문법</h3>
+<p>Promise를 리턴하는 fetch 함수 실행 결과를 바로 출력하면 아래와 같이 Promise Pending이 출력된다.</p>
+<pre><code class="language-js">const response = fetch("https://learn.codeit.kr/api/employees");
+console.log(response);
+// Promise { &#x3C;pending> }
+</code></pre>
+<p>Promise 앞에 <code>await</code>을 써주면, Promise가 Fulfilled 혹은 Rejected 상태가 될 때까지 기다린다.
+<code>await</code>은 Promise의 결과값(<code>Response</code> 객체)를 꺼내서 리턴해준다.</p>
+<pre><code class="language-js">const response = await fetch("https://learn.codeit.kr/api/employees");
+const data = await response.json();
+console.log(data);
+</code></pre>
+<h4>await으로 인한 console.log의 지연</h4>
+<p>console.log 자체는 동기 함수지만, 그 줄이 실행되는 시점이 await 이후로 미뤄지는 이유는 무엇일까?
+Codeit GURU AI Chat에게 물어보았다.</p>
+<p>답변은 아래와 같다.</p>
+<pre><code>await는 그 비동기 함수(또는 모듈의 최상위 문맥에서의 top-level await)가 일시정지될 뿐,
+자바스크립트 런타임 전체(메인 스레드)를 블로킹하지는 않습니다.
+다른 이벤트나 타이머, 다른 Promise들은 계속 실행될 수 있습니다.
+</code></pre>
+<p>동작의 단계별 설명은 아래와 같다.</p>
+<ol>
+<li><code>fetch(...)</code>는 즉시 Promise(대기 중 상태)를 반환해요. 이 시점엔 아직 네트워크 응답이 도착하지 않았죠.</li>
+<li><code>await fetch(...)</code>를 만나면 해당 Promise가 Fulfilled 또는 Rejected 될 때까지 현재 async 함수의 실행을 일시정지해요. 이때 자바스크립트 엔진 전체(메인 스레드)를 블로킹하지는 않고, 다른 이벤트나 타이머는 계속 실행돼요.</li>
+<li>네트워크 응답이 도착하면 Promise가 이행되고, 일시정지된 함수의 나머지 부분(대기 후 실행되는 코드)은 Promise 해결 후(마이크로태스크 큐에서) 이어서 실행돼요.</li>
+<li><code>response.json()</code>도 Promise를 반환하므로 <code>await response.json()</code>에서 다시 일시정지되고, 파싱이 끝난 뒤에야 data에 실제 값이 할당돼요.</li>
+<li>그래서 <code>console.log(data)</code>는 위의 await들이 모두 끝나고 난 뒤에 동기적으로 실행되는 겁니다. 즉 <code>console.log</code> 자체는 동기지만, 그 줄에 도달하는 시점이 <code>await</code> 때문에 지연되는 거예요.</li>
+</ol>
+<p>추가 팁:</p>
+<ul>
+<li>await는 함수 실행만 일시정지하므로 UI나 다른 작업이 멈추지 않아요.</li>
+<li>에러 처리는 try/catch로 하세요.</li>
+</ul>
+<p>⸻</p>
+<p>나의 정리:</p>
+<ul>
+<li>await를 만나기 전까지의 동기 코드(같은 호출 스택에서 실행되는 코드)는 즉시 실행된다.
+자바스크립트 엔진 전체(메인 스레드)를 블로킹하진 않기 때문에, 다른 이벤트나 타이머는 계속 실행된다.</li>
+<li>await을 만나면 async 함수의 실행 흐름이 일시정지된다.</li>
+<li>await 이후의 코드는 Promise가 해결된 후에 실행된다.</li>
+</ul>
+<pre><code class="language-js">console.log("A");
+
+async function f() {
+	console.log("B");
+	await Promise.resolve();
+	console.log("D");
+}
+f();
+
+console.log("C");
+
+// 출력 순서: A → B → C → D
+
+// 즉, await로 인해 D는 현재 콜 스택이 끝난 뒤에 실행된다.
+// await으로 인해 D에 도달되는 시점이 지연되는 것.
+</code></pre>
+<p>⸻</p>
+<p>주의할 점(예외):</p>
+<ul>
+<li>top-level await(ESM)는 해당 모듈의 평가를 일시정지시키므로 다른 모듈들이 그 모듈을 import할 때 영향이 있을 수 있어요. 이 경우엔 모듈 평가 순서에 영향이 생겨 넓은 범위에서 "일시정지"처럼 보일 수 있어요.</li>
+<li>자바스크립트가 긴 동기 작업(무거운 계산)을 수행하면 이벤트 루프가 막혀 마이크로태스크(또는 Promise 해결 후의 후속 작업) 실행이 지연돼요. 즉, await 자체는 블로킹하지 않지만, 메인 스레드가 바쁘면 실제로 후속 작업이 늦게 실행되게 돼요.</li>
+</ul>
+<h3>2-3. async 함수</h3>
+<ul>
+<li>async 함수는 Promise 객체를 리턴한다.</li>
+<li>async 함수 안에는 await문이 있을 것이고, await 문이 있다는 것은 비교적 오래 걸리는 작업을 의미하기 때문</li>
+</ul>
+<p>아래 코드 실행 결과는 직원 데이터의 출력 후 Task 2, Task 3이 출력된다.
+실행 순서의 이유는 <a href="#await%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-consolelog%EC%9D%98-%EC%A7%80%EC%97%B0">[await으로 인한 console.log의 지연]</a>에서 알아본 바와 같다.</p>
+<pre><code class="language-js">const response = await fetch("https://learn.codeit.kr/api/employees");
+const data = await response.json();
+console.log(data);
+
+console.log("Task 2");
+
+console.log("Task 3");
+
+// [ { id: 1, }, ... ] → Task 2 → Task 3
+</code></pre>
+<p>async 함수 안에서 <code>await</code>을 쓰면, Promise가 fulfilled가 될 때까지 기다리는 동안은 함수 바깥으로 나가서 나머지 코드를 모두 실행한다.</p>
+<pre><code class="language-js">// asyncFunctions.js
+export async function printEmployees() {
+	const response = await fetch("https://learn.codeit.kr/api/employees");
+	const data = await response.json();
+	console.log(data);
+}
+</code></pre>
+<pre><code class="language-js">// main.js
+import { printEmployees } from "./asyncFunctions.js";
+
+printEmployees();
+
+console.log("Task 2");
+
+console.log("Task 3");
+
+// Task 2 → Task 3 → [ { id: 1, }, ... ]
+</code></pre>
+<p>퀴즈:</p>
+<pre><code class="language-js">// asyncFunctions.js
+export async function printEmployees() {
+	console.log("2");
+	const response = await fetch("https://learn.codeit.kr/api/employees");
+	console.log("3");
+	const data = await response.json();
+	console.log("4");
+}
+
+// main.js
+import { printEmployees } from "./asyncFunctions.js";
+
+console.log("1");
+printEmployees();
+console.log("5");
+console.log("6");
+</code></pre>
+<p>실행 결과는 아래와 같다.</p>
+<pre><code>1
+2
+5
+6
+3
+4
+</code></pre>
+<h4>효율적인 비동기 코드</h4>
+<pre><code class="language-js">// 1)
+async function printEmployees() {
+	for (let i = 1; i &#x3C;= 10; i++) {
+		const response = await fetch(`https://learn.codeit.kr/api/employee/${i}`);
+		const data = await response.json();
+		console.log(data);
+	}
+}
+
+// 2)
+async function printEmployee(id) {
+	const response = await fetch(`https://learn.codeit.kr/api/employee/${id}`);
+	const data = await response.json();
+	console.log(data);
+}
+for (let i = 1; i &#x3C;= 10; i++) {
+	printEmployee(i);
+}
+</code></pre>
+<p>1번보다 2번의 처리 속도가 조금 더 빠르다.</p>
+<p>2번의 경우 거의 동시에 10개의 요청을 한꺼번에 보내는 것과 같이 되어 리스폰스도 거의 동시에 돌아오고, 결국 "하나의 리퀘스트를 처리하는데 걸리는 시간과 동일"하기 때문이다. 다만, 실행결과의 순서는 보장할 수 없다. 비동기 작업의 순서가 아닌 작업 속도를 최소한으로 하고 있기 때문.</p>
+<h4>try/catch로 오류 처리 하기</h4>
+<pre><code class="language-js">export async function printEmployees() {
+	try {
+		const response = await fetch("https://learn.codeit.kr/api/employees");
+		const data = await response.json();
+		console.log(data);
+	} catch (e) {
+		console.log("Error!");
+	} finally {
+		console.log("Finished");
+	}
+}
+</code></pre>
+<h4>Promise와 오류의 관계</h4>
+<p>비동기 코드를 실행하는 동안 오류가 나면, Promise는 Rejected 상태가 되고 발생한 오류를 결과값으로 가진다.</p>
+<p>위처럼 Promise 앞에 await이 있는 경우, Promise의 결과값인 오류를 throw 하는데
+try/catch 문 안에서 오류가 throw 됐기 때문에 오류를 잡아서 처리했던 것.</p>
+<h3>2-4. .then() 메소드</h3>
+<p>then 메소드는 앞선 비동기 작업이 완료되면 등록된 콜백을 실행한다.</p>
+<p>아래에서 fetch 함수의 리스폰스가 돌아오면</p>
+<pre><code class="language-js">const dataPromise = fetch("https://learn.codeit.kr/api/employees").then((response) =>
+	response.json()
+); // then 메소드 자체도 Promise를 반환함
+dataPromise.then((data) => console.log(data));
+</code></pre>
+<ul>
+<li>프로미스 체인 (Promise Chain): Promise 뒤에 메소드를 계속 연결해서 쓰는 것</li>
+</ul>
+<pre><code class="language-js">fetch("https://learn.codeit.kr/api/employees")
+	.then((response) => response.json()) // 만약 앞선 단계에서 오류가 난다면 콜백을 실행하지 않고 이전 Promise와 똑같은 상태와 결과값을 가진다
+	.then((data) => console.log(data))
+	.catch((error) => console.log("Error!")) // 오류 발생 시 콜백을 실행하고 fulfilled 상태의 Promise를 리턴한다.
+	.finally(() => console.log("Finished")); // fulfilled 또는 rejected 상태가 되면 등록된 콜백을 실행한다.
+</code></pre>
+<h3>2-5. Promise.all() 메소드</h3>
+<p>Promise.all 메소드는 비동기 작업 여러 개를 병렬적으로 처리할 수 있게 도와준다.</p>
+<p><a href="#%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BD%94%EB%93%9C">[효율적인 비동기 코드]</a>를 한꺼번에 처리해보자.</p>
+<pre><code class="language-js">async function getEmployee(id) {
+	const response = await fetch(`https://learn.codeit.kr/api/employee/${id}`);
+	const data = await response.json();
+	return data;
+}
+
+const promises = [];
+for (let i = 1; i &#x3C;= 10; i++) {
+	promises.push(getEmployee(i));
+}
+
+const employees = await Promise.all(promises);
+console.log(employees);
+</code></pre>
+<ul>
+<li><code>Promise.all([p1, p2, p3, ...])</code>은 여러 Promise를 동시에 기다릴 때 사용</li>
+<li>Promise.all() 자체도 Promise를 리턴한다.
+<ul>
+<li>모두 fulfilled 상태가 되면 Promise.all()이 리턴하는 Promise도 fulfilled 상태가 된다.그리고 아규먼트로 전달되는 Promise의 성공 결괏값들로 이루어진 배열을 결괏값으로 갖는다.</li>
+<li>하나라도 rejected 상태가 되면 Promise.all()이 리턴하는 Promise는 rejected 상태가 된다.그리고 rejected된 Promise의 결괏값(오류)을 결괏값으로 갖는다.</li>
+</ul>
+</li>
+</ul>
+d:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}],"$L16"]}]}]}]
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+16:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+18:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L18","2",{}]]
+10:null

@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","daily-paper","250215_react_reconciliation"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/daily-paper/250215_react_reconciliation","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-coral","style":{"left":"1.7118588469924312%","top":"53.425786019662105%","width":"449.9396211361933px","height":"449.9396211361933px","animation":"float 18.424557818076824s ease-in-out infinite","animationDelay":"8.48718424021077s"}}],["$","div","1",{"className":"dot dot-mint","style":{"left":"0.6883298853905595%","top":"59.09734041762857%","width":"437.06566199101906px","height":"437.06566199101906px","animation":"float 15.85935225455633s ease-in-out infinite","animationDelay":"14.066239543064349s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"4.317332416909658%","top":"36.73177356727351%","width":"204.81733024585412px","height":"204.81733024585412px","animation":"float 18.518778042192203s ease-in-out infinite","animationDelay":"8.067246248248473s"}}],["$","div","3",{"className":"dot dot-sage","style":{"left":"14.363393820239011%","top":"78.17796882274915%","width":"340.6319587817711px","height":"340.6319587817711px","animation":"float 17.051993985804323s ease-in-out infinite","animationDelay":"6.4366996362939695s"}}],["$","div","4",{"className":"dot dot-sage","style":{"left":"42.339869887931904%","top":"20.0495745170975%","width":"336.67160881165063px","height":"336.67160881165063px","animation":"float 16.06680566483658s ease-in-out infinite","animationDelay":"1.0659310343553896s"}}],["$","div","5",{"className":"dot dot-coral","style":{"left":"11.114305303115124%","top":"23.12953555287116%","width":"216.287630792775px","height":"216.287630792775px","animation":"float 17.19892427199671s ease-in-out infinite","animationDelay":"0.13496981946007283s"}}],["$","div","6",{"className":"dot dot-mint","style":{"left":"18.544669352316824%","top":"61.770591223651806%","width":"244.08527306861123px","height":"244.08527306861123px","animation":"float 16.040602424856086s ease-in-out infinite","animationDelay":"14.274720798083804s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"55.231565362198644%","top":"71.30534717164029%","width":"406.01566715210265px","height":"406.01566715210265px","animation":"float 16.978353298596993s ease-in-out infinite","animationDelay":"2.7087452372266303s"}}],["$","div","8",{"className":"dot dot-coral","style":{"left":"53.31499763079663%","top":"6.542765979522636%","width":"228.13449512524667px","height":"228.13449512524667px","animation":"float 15.135427026243917s ease-in-out infinite","animationDelay":"12.682511029297393s"}}],["$","div","9",{"className":"dot dot-coral","style":{"left":"8.592996985423373%","top":"92.73921244185345%","width":"479.68691898107784px","height":"479.68691898107784px","animation":"float 15.997148817904694s ease-in-out infinite","animationDelay":"14.386773557855156s"}}],["$","div","10",{"className":"dot dot-mint","style":{"left":"83.75337295957954%","top":"81.09157285600092%","width":"284.7849244709446px","height":"284.7849244709446px","animation":"float 18.973082115014126s ease-in-out infinite","animationDelay":"14.888148749045522s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"29.204913056814608%","top":"3.4491603023424577%","width":"345.7600084778247px","height":"345.7600084778247px","animation":"float 18.38009005850379s ease-in-out infinite","animationDelay":"17.057447810472674s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L4","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+4:["$","$Lc",null,{}]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$@12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$@14"}]}]}],null]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:T1050,<h1>재조정 (Reconciliation)</h1>
+<p>참고 - 공식 문서(https://ko.legacy.reactjs.org/docs/reconciliation.html)</p>
+<p>Q. React는 DOM을 효율적으로 업데이트하기 위해 Diffing 알고리즘을 사용한다. 이때, Diffing 알고리즘과 Reconciliation의 연관성은?</p>
+<h2>CRP (Critical Rendering Path)</h2>
+<p>: 브라우저가 렌더링하는 방식을 일컫는다. (참고 - <a href="https://d2.naver.com/helloworld/59361">브라우저는 어떻게 동작하는가</a>)</p>
+<p><img src="https://d2.naver.com/content/images/2015/06/helloworld-59361-3.png" alt="webkit-rendering"></p>
+<ol>
+<li>렌더링 엔진은 HTML 파서에 의해서 HTML을 파싱한 후에 <code>DOM</code> tree를 생성합니다.</li>
+<li>그 다음에 CSS 파서에 의해서 CSS를 파싱한 후에 <code>CSSOM</code> tree를 생성합니다.</li>
+<li>HTML과 CSS를 파싱해서 만들어진 DOM tree와 CSSOM tree를 합쳐서 <code>render tree</code>를 만듭니다. (<code>render tree</code>: 화면에 표시되어야 할 모든 노드의 컨텐츠 , 스타일 정보 포함 )</li>
+<li>Layout: Render Tree를 기반으로 실제 웹 페이지에 요소들의 배치를 결정하는 <code>layout</code> 작업을 합니다.</li>
+<li>Paint: 배치가 완료되면 웹 페이지안에 실제 요소들을 화면에 나타나는 <code>paint</code> 작업을 실행합니다.</li>
+</ol>
+<h3>자바스크립트에 의해 DOM 수정 시 일어나는 일</h3>
+<ul>
+<li>Reflow: 자바스크립트로 DOM을 변경하거나, CSS에서 위치값(width, height, margin, padding 등)을 변경하는 경우</li>
+<li>Repaint: 시각적 스타일만 변경하는 경우 (color, background-color, border 등)</li>
+</ul>
+<p>이때, Reflow가 발생하게 되면 무조건 Repaint가 일어나며, Repaint는 단독으로 일어날 수 있다.</p>
+<p>위 두 과정은 브라우저 연산 중 가장 비싼 연산이며, 웹 성능 악화의 주범이 되기 때문에 최소한의 CRP 과정을 통해 화면을 그려야 한다.</p>
+<h2>React 렌더링 프로세스</h2>
+<p>현대 웹에서 유저 인터렉션이 많아지고 그에 따른 DOM 수정사항이 많아지게 되면서 Reflow, Repaint가 자주 일어나 성능적 문제가 발생하게 됐다.</p>
+<p>이를 해결하기 위해 리액트는 자신만의 렌더링 프로세스를 만들어서 'DOM 변경을 추적해서 하나하나 문제점을 해결하는 최적화' 과정과 같은 수고스러움을 덜어주기 위해 <strong>가상 DOM</strong>(Virtual DOM) 개념을 도입하게 되었다.</p>
+<p>Virtual DOM은 아래와 같은 렌더링 프로세스를 거친다.</p>
+<p><img src="./screenshot/render-and-commit.png" alt="react-render-and-commit"></p>
+<p>(참고 - <a href="https://react.dev/learn/render-and-commit">React render and commit</a>)</p>
+<ol>
+<li>Trigger: 렌더링이 트리거 된다. (손님의 주문을 주방으로 전달)</li>
+<li>Render: 컴포넌트를 렌더링한다. (주방에서 주문을 준비)</li>
+<li>Commit: DOM에 변경사항을 커밋한다. (테이블에 주문한 요리 서빙)</li>
+</ol>
+<h3>Render Phase</h3>
+<ul>
+<li>컴포넌트를 계산하고 업데이트 사항을 파악하는 단계</li>
+<li>React Component ➡️ React Element (Object) ➡️ Virtual DOM 생성</li>
+</ul>
+<h3>Commit Phase</h3>
+<ul>
+<li>변경사항을 Virtual DOM ➡️ 실제 DOM에 반영하는 단계</li>
+<li>이후 CRP를 통해 화면에 반영된다.</li>
+</ul>
+<h2>DOM Update가 발생되면</h2>
+<p><img src="./screenshot/virtual-dom.png" alt="virtual-dom-updated"></p>
+<ol>
+<li>변경된 UI가 반영된 Next Virtual DOM을 만든다.</li>
+<li>Next Virtual DOM 기반으로 Prev Virtual DOM과 비교하여 차이점만 업데이트 한다.
+<ul>
+<li>이때, 업데이트를 위해 차이점을 찾기 위해 사용되는 알고리즘이 비교(Diffing) 알고리즘</li>
+<li>해당 과정 전체를 재조정(Reconciliation)이라고 한다.</li>
+</ul>
+</li>
+<li>Commit Phase로 넘어가서 실제 DOM에 반영한다.</li>
+</ol>
+<h2>정리</h2>
+<p>Virtual DOM을 생성하기 위한 재조정(Reconcilation) 과정 속에 비교(Diffing) 알고리즘이 사용된다.</p>
+d:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}],"$L16"]}]}]}]
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+16:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+18:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L18","2",{}]]
+10:null

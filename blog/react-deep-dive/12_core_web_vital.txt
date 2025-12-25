@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","react-deep-dive","12_core_web_vital"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","react-deep-dive/12_core_web_vital","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-mint","style":{"left":"57.26179217170484%","top":"79.23502108877156%","width":"391.5610068314545px","height":"391.5610068314545px","animation":"float 18.007486503802124s ease-in-out infinite","animationDelay":"9.780913422984835s"}}],["$","div","1",{"className":"dot dot-sage","style":{"left":"57.25244434237568%","top":"63.26772769032986%","width":"203.34658125477512px","height":"203.34658125477512px","animation":"float 18.059663482864362s ease-in-out infinite","animationDelay":"1.480109681181041s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"92.7757854358649%","top":"95.61039832862355%","width":"380.0315679357058px","height":"380.0315679357058px","animation":"float 19.84790627064965s ease-in-out infinite","animationDelay":"5.176575050856942s"}}],["$","div","3",{"className":"dot dot-mint","style":{"left":"11.756641749188312%","top":"16.96946385196121%","width":"454.19888238135076px","height":"454.19888238135076px","animation":"float 17.291787629508452s ease-in-out infinite","animationDelay":"10.457559228939571s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"6.785444285912634%","top":"60.80075500909772%","width":"289.69191700836814px","height":"289.69191700836814px","animation":"float 18.7702234409579s ease-in-out infinite","animationDelay":"14.56111151234523s"}}],["$","div","5",{"className":"dot dot-coral","style":{"left":"34.623162165226915%","top":"28.445873478214367%","width":"376.183600093113px","height":"376.183600093113px","animation":"float 15.438785805637528s ease-in-out infinite","animationDelay":"10.771677907372483s"}}],["$","div","6",{"className":"dot dot-mint","style":{"left":"57.06027041897457%","top":"99.28932759399267%","width":"219.35186936645644px","height":"219.35186936645644px","animation":"float 19.0841029797654s ease-in-out infinite","animationDelay":"8.801014989760237s"}}],["$","div","7",{"className":"dot dot-mint","style":{"left":"8.675620687079633%","top":"30.15793012940444%","width":"433.6194256818334px","height":"433.6194256818334px","animation":"float 15.20160068059575s ease-in-out infinite","animationDelay":"10.146442513533293s"}}],["$","div","8",{"className":"dot dot-sage","style":{"left":"33.56589394232623%","top":"63.348960763622884%","width":"437.6340355293411px","height":"437.6340355293411px","animation":"float 19.17098675997054s ease-in-out infinite","animationDelay":"15.188553403386265s"}}],["$","div","9",{"className":"dot dot-peach","style":{"left":"9.593180140243952%","top":"33.60286480866965%","width":"323.53690227619995px","height":"323.53690227619995px","animation":"float 16.330926698371268s ease-in-out infinite","animationDelay":"9.993654761388965s"}}],["$","div","10",{"className":"dot dot-peach","style":{"left":"41.40821076652963%","top":"99.98035215957704%","width":"419.0415686594444px","height":"419.0415686594444px","animation":"float 17.938730272773746s ease-in-out infinite","animationDelay":"7.646499409795211s"}}],["$","div","11",{"className":"dot dot-sage","style":{"left":"15.186630067144735%","top":"81.05333447046483%","width":"305.68242199157294px","height":"305.68242199157294px","animation":"float 19.20020708837935s ease-in-out infinite","animationDelay":"4.053934212775837s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L5"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T27b6,<h1>12. 핵심 웹 지표</h1>
+<h2>12.2. 핵심 웹 지표</h2>
+<p>핵심 웹 지표(Core Web Vital)는 웹사이트에서 뛰어난 사용자 경험을 제공하는데 필수적인 지표를 일컫는다.</p>
+<ul>
+<li>
+<p>구글이 꼽은 핵심 웹 지표</p>
+<ul>
+<li><strong>LCP</strong> (Largest Contentful Paint): 최대 콘텐트풀 페인트</li>
+<li><strong>FID</strong> (First Input Delay): 최초 입력 지연</li>
+<li><strong>CLS</strong> (Cumulative Layout Shift): 누적 레이아웃 이동</li>
+</ul>
+</li>
+<li>
+<p>기타 특정 문제 진단 시 사용되는 지표</p>
+<ul>
+<li><strong>TTFB</strong> (Time To First Byte): 최초 바이트까지의 시간</li>
+<li><strong>FCP</strong> (First Contentful Paint): 최초 콘텐트풀 시간</li>
+</ul>
+</li>
+</ul>
+<h2>12.3. LCP : 최대 콘텐트풀 페인트</h2>
+<h3>12.3.1. 정의</h3>
+<ul>
+<li><strong>LCP</strong> (Largest Contentful Paint): 페이지가 처음으로 로드를 시작한 시점부터 뷰포트 내부에서 가장 큰 이미지 또는 텍스트를 렌더링하는 데 걸리는 시간
+<ul>
+<li><code>&#x3C;img></code></li>
+<li><code>&#x3C;svg></code> 내부의 <code>&#x3C;image></code></li>
+<li><code>poster</code> 속성을 사용하는 <code>&#x3C;video></code></li>
+<li><code>url()</code>을 통해 불러온 배경 이미지가 있는 요소</li>
+<li>텍스트와 같이 인라인 텍스트 요소를 포함하고 있는 블록 레벨 요소 (<code>&#x3C;p></code>, <code>&#x3C;div></code> 등)</li>
+</ul>
+</li>
+<li>페이지 로딩에 따라 변화하는 지표다.</li>
+<li>부가적으로 사용자가 이용하는 디바이스의 크기에 따라 변화하는 지표다.</li>
+</ul>
+<h3>12.3.2. 의미</h3>
+<p>뷰포트 영역에 메인 콘텐츠가 화면에 완전히 전달되는 속도를 기준으로 한다면 사용자가 페이지 로딩이 완료됐다고 체감하는 시간과 비슷하게 측정할 수 있을 것이라는 기준으로, 사용자에게 페이지의 정보를 화면에 전달하는 속도를 객관적으로 판단하기 위한 지표로 만들어졌다.</p>
+<h3>12.3.4. 기준 점수</h3>
+<ul>
+<li>
+<p>지표 측정 방법: 해당 지표 응답 시간을 기준으로 점수를 판단한다.</p>
+<ol>
+<li>직접 자바스크립트 API 호출</li>
+<li>다른 도구 활용</li>
+</ol>
+</li>
+<li>
+<p>LCP(최대 콘텐트풀 페인트)의 점수 기준</p>
+<ul>
+<li>좋음: 2.5초 이내</li>
+<li>보통: 4초 이내</li>
+<li>나쁨: 4초 이상</li>
+</ul>
+</li>
+</ul>
+<h3>12.3.5. 개선 방안</h3>
+<ol>
+<li>
+<p>최대 콘텐트풀 페인트 예상 영역에 추가적인 리소스 다운로드가 필요한 이미지 대신 노출 시간이 훨씬 빠른 텍스트로 채운다.</p>
+</li>
+<li>
+<p>이미지 노출 방법 중 <code>&#x3C;img src="..." /></code>, <code>&#x3C;video poster="..." /></code> 사용</p>
+<pre><code class="language-html">&#x3C;!-- (1) img -->
+&#x3C;img src="lcp.jpg" ... />
+
+&#x3C;!-- (2) svg -->
+&#x3C;svg xmlns="http://www.w3.org/1000/svg">
+  &#x3C;image href="lcp.jpg" />
+&#x3C;/svg>
+
+&#x3C;!-- (3) video.poster (비디오의 경우) -->
+&#x3C;video poster="lcp.jpg">&#x3C;/video>
+
+&#x3C;!-- (4) background-image: url() -->
+&#x3C;div style="background-image: url(lcp.jpg)">...&#x3C;/div>
+</code></pre>
+</li>
+<li>
+<p>조심해야 할 사항</p>
+<ul>
+<li>이미지 무손실 압축</li>
+<li><code>loading=lazy</code> 사용 지양</li>
+<li>CSS 애니메이션 사용 지양</li>
+<li>클라이언트 단 빌드 지양</li>
+<li>최대 콘텐츠풀 리소스는 직접 호스팅</li>
+</ul>
+</li>
+</ol>
+<h2>12.4. FID : 최초 입력 지연</h2>
+<h3>12.4.1. 정의</h3>
+<ul>
+<li><strong>FID</strong> (First Input Delay): 웹사이트의 반응속도, 즉 반응성을 측정하는 지표</li>
+<li>사용자가 얼마나 빠르게 웹페이지와의 상호작용에 대한 응답을 받을 수 있는지 측정하는 지표로, 최초의 입력 하나에 대해서만 판단</li>
+</ul>
+<h3>12.4.2. 의미</h3>
+<ul>
+<li>웹사이트 내부의 이벤트가 반응이 늦어지는 이유?
+<ul>
+<li>해당 입력을 처리해야 하는 브라우저의 메인스레드가 바쁘기 때문</li>
+<li>즉, 싱글스레드인 자바스크립트가 대규모 렌더링, 혹은 대규모 자바스크립트 파일 분석 및 싱랭 등 다른 작업을 처리하는 데 리소스를 할애하고 있기 때문</li>
+</ul>
+</li>
+<li>사용자 경험 4가지 분류 (RAIL)
+<ul>
+<li>Response: 사용자의 입력에 대한 반응 속도 (50ms 미만)</li>
+<li>Animation: 애니메이션의 각 프레임 생성 시간 (10ms 이하)</li>
+<li>Idle: 유휴 시간을 극대화해 페이지가 사용자 입력에 응답하는 시간 (50ms 이내)</li>
+<li>Load: 콘텐츠를 전달하고 인터랙션을 준비하는 시간 (5s 이내)</li>
+</ul>
+</li>
+</ul>
+<h3>12.4.4. 기준 점수</h3>
+<ul>
+<li>FID(최초 입력 지연)의 점수 기준
+<ul>
+<li>좋음: 100ms 이내</li>
+<li>보통: 300ms 이내</li>
+<li>나쁨: 300ms 이상</li>
+</ul>
+</li>
+</ul>
+<h3>12.4.5. 개선 방안</h3>
+<ol>
+<li>
+<p>long task 분리</p>
+<ul>
+<li>긴 작업(long task): 실행을 완료하는 데 오래 걸리는 작업</li>
+<li>고려 사항
+<ul>
+<li>웹페이지가 아닌 서버에서 처리하는 방법</li>
+<li>긴 작업을 여러개로 분리하는 방법</li>
+</ul>
+</li>
+<li>[참고] React의 Suspense와 lazy, Next.js의 dynamic</li>
+</ul>
+</li>
+<li>
+<p>자바스크립트 코드 최소화</p>
+<ul>
+<li>웹페이지에서 사용되지 않는 코드의 우선순위를 낮춰 지연 로딩 기법 혹은 필요로 하는 순간에 불러오는 방법</li>
+<li>폴리필(polyfill): 브라우저에서 지원하지 않는 기능을 사용하기 위해 웹페이지에서 직접 구현하고 집어넣는 코드를 의미.
+<ul>
+<li>폴리필이 필요한 환경인가? or 꼭 필요한 폴리필인가?</li>
+<li>[참고] 바벨의 <code>@babel/preset-env</code>, Next.js의 SWC</li>
+</ul>
+</li>
+<li>타사 자바스크립트 코드 실행의 지연
+<ul>
+<li><code>defer</code>: 병렬 다운로드, 페이지 로딩 후 실행</li>
+<li><code>async</code>: 병렬 다운로드, 다운로드 완료 시 실행</li>
+<li>가능하다면 <code>defer</code> > <code>async</code> 사용</li>
+<li><code>Intersection Observer</code> 이용 (뷰포트에 들어오는 시점에 광고 호출하는 등)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h2>12.5. CLS : 누적 레이아웃 이동</h2>
+<h3>12.5.1. 정의</h3>
+<ul>
+<li><strong>CLS</strong>(Cummulative Layout Shift): 생명주기 동안 발생하는 모든 예기치 않은 레이아웃 이동에 대한 지표</li>
+</ul>
+<h3>12.5.2. 의미</h3>
+<ul>
+<li>누적 레이아웃 이동은 사용자의 가시적인 콘텐츠에 영향을 미치는 뷰포트 내부의 요소에 대해서 측정한다.</li>
+<li>사용자가 아무런 동작을 하지 않았음에도 불구하고 레이아웃 이동이 발생하는 경우도 포함한다.</li>
+<li>최종 점수 계산 시 <code>영향분율 * 거리분율</code>
+<ul>
+<li>영향분율 = 레이아웃 이동 발생 요소 전체 높이 / 뷰포트 높이</li>
+<li>거리분율 = 레이아웃 이동 발생 요소가 이동한 거리 / 뷰포트 높이</li>
+</ul>
+</li>
+</ul>
+<h3>12.5.4. 기준 점수</h3>
+<ul>
+<li>CLS(누적 레이아웃 이동)의 점수 기준
+<ul>
+<li>좋음: 0.1 이하</li>
+<li>보통: 0.25 이하</li>
+<li>나쁨: 0.25 초과</li>
+</ul>
+</li>
+</ul>
+<h3>12.5.5. 개선 방안</h3>
+<ol>
+<li>
+<p>삽입이 예상되는 요소를 위해 추가적인 공간 확보</p>
+<ul>
+<li><code>useEffect</code> 내부에서 요소에 영향을 미치는 작업(특히 뷰포트 내부에서 노출될 확률이 높은 작업)을 최소화</li>
+<li>스켈레톤 UI 등 미리 예상되는 공간을 확보</li>
+<li>SSR (서버 사이드 렌더링)</li>
+</ul>
+</li>
+<li>
+<p>폰트 로딩 최적화</p>
+<p>폰트로 발생할 수 있는 문제는 두 가지</p>
+<ul>
+<li>FOUT (flash of unstyled text): 기본 폰트로 보이고 있다가 뒤늦게 폰트가 적용되는 현상</li>
+<li>FOIT (flash of invisible text): 기본 폰트도 없어 텍스트가 없는 채로 있다가 뒤늦게 폰트가 로딩되면서 페이지에 렌더링 되는 현상</li>
+</ul>
+<p>폰트 적용 시 아래에 유념해야 한다.</p>
+<ol>
+<li>
+<p><code>&#x3C;link></code>의 <code>rel=preload</code> 사용: 웹페이지의 생명주기에서 초기에 불러와야 하는 중요한 리소스로 간주되므로 더 빠르게 사용할 수 있도록 브라우저가 준비해줄 수 있어, 페이지의 렌더링을 가로막거나 레이아웃을 방해할 가능성이 줄어든다.</p>
+</li>
+<li>
+<p><code>font-family: optional;</code> 적용</p>
+</li>
+</ol>
+</li>
+<li>
+<p>적절한 이미지 크기의 사용</p>
+</li>
+</ol>
+<h3>12.5.6. 핵심 웹 지표는 아니지만 성능 확인에 중요한 지표들</h3>
+<h4>TTFB (Time To First Byte, 최초 바이트까지의 시간)</h4>
+<ul>
+<li>브라우저가 웹페이지의 첫 번째 바이트를 수신하는데 걸리는 시간을 의미</li>
+<li>즉, 페이지를 요청했을 때 최초의 응답이 오는 바이트까지가 얼마나 걸리는지를 측정하는 지표</li>
+<li>600ms 이상 걸릴 경우 개선이 필요한 것으로 간주</li>
+<li>서버 사이드 렌더링 어플리케이션에서 주의 깊게 봐야할 지표!</li>
+</ul>
+<h4>FCP (First Contentful Paint, 최초 콘텐츠풀 페인트)</h4>
+<ul>
+<li>페이지가 로드되기 시작한 시점부터 페이지 콘텐츠의 일부가 화면에 렌더링될 때까지의 시간을 측정</li>
+<li>즉, 웹사이트에 접속한 순간부터 뭐라도 뜨기 시작한 시점까지의 시간을 의미 (텍스트, 이미지, svg 등)</li>
+<li>1.8초 이내면 좋음, 3.0초 이내면 보통, 이후는 개선 필요</li>
+<li>개선 방안
+<ul>
+<li>최초 바이트까지의 시간(TTFB)을 개선</li>
+<li>렌더링을 가로막는 리소스 최소화하고 비동기적으로 로드하도록</li>
+<li>Above the Fold에 대한 최적화: 가장 먼저 보이는 영역에 게으른 로딩 혹은 스크립트에 의존하는 것을 지양</li>
+<li>페이지 리다이렉트 최소화</li>
+<li>DOM 크기 최소화</li>
+</ul>
+</li>
+</ul>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

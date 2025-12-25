@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","13_scope"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/13_scope","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-sage","style":{"left":"51.87816807539711%","top":"4.225062807190105%","width":"289.50022788585954px","height":"289.50022788585954px","animation":"float 15.155479872226184s ease-in-out infinite","animationDelay":"10.196241281403204s"}}],["$","div","1",{"className":"dot dot-mint","style":{"left":"17.582363728198835%","top":"38.81452426617864%","width":"201.23565113014357px","height":"201.23565113014357px","animation":"float 18.575393890596146s ease-in-out infinite","animationDelay":"17.84042417252427s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"18.883463661811085%","top":"12.731261915152835%","width":"235.68697181053776px","height":"235.68697181053776px","animation":"float 16.225022383591497s ease-in-out infinite","animationDelay":"10.19890010817848s"}}],["$","div","3",{"className":"dot dot-mint","style":{"left":"67.11304442954773%","top":"47.21708212015025%","width":"397.47969447676064px","height":"397.47969447676064px","animation":"float 18.176620130932285s ease-in-out infinite","animationDelay":"1.1117386167589662s"}}],["$","div","4",{"className":"dot dot-mint","style":{"left":"87.68118012669501%","top":"93.72903914777922%","width":"365.4025498720898px","height":"365.4025498720898px","animation":"float 16.655337155397635s ease-in-out infinite","animationDelay":"2.0912539408594335s"}}],["$","div","5",{"className":"dot dot-sage","style":{"left":"24.547878900838803%","top":"67.77515148684039%","width":"342.71096883819774px","height":"342.71096883819774px","animation":"float 18.22088683925324s ease-in-out infinite","animationDelay":"4.012635933028922s"}}],["$","div","6",{"className":"dot dot-mint","style":{"left":"88.69514395883643%","top":"26.548314283973397%","width":"482.71946856594593px","height":"482.71946856594593px","animation":"float 17.80090300304676s ease-in-out infinite","animationDelay":"11.229029875222102s"}}],["$","div","7",{"className":"dot dot-peach","style":{"left":"45.70674840345043%","top":"78.78225090887571%","width":"409.484424222785px","height":"409.484424222785px","animation":"float 19.51328522970077s ease-in-out infinite","animationDelay":"13.617371866841749s"}}],["$","div","8",{"className":"dot dot-sage","style":{"left":"70.94297533460133%","top":"45.694960954136235%","width":"293.90780570987533px","height":"293.90780570987533px","animation":"float 16.466520749259963s ease-in-out infinite","animationDelay":"3.6488899885258967s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"74.80593202930692%","top":"27.102287949776983%","width":"227.4718258850791px","height":"227.4718258850791px","animation":"float 18.488864075604436s ease-in-out infinite","animationDelay":"1.686035773347558s"}}],["$","div","10",{"className":"dot dot-mint","style":{"left":"80.77676630445423%","top":"20.40906289322999%","width":"382.80092641411227px","height":"382.80092641411227px","animation":"float 16.246620203034364s ease-in-out infinite","animationDelay":"8.44570053890699s"}}],["$","div","11",{"className":"dot dot-sage","style":{"left":"80.71347405728355%","top":"29.468538453254233%","width":"449.37332172714406px","height":"449.37332172714406px","animation":"float 15.492140887426523s ease-in-out infinite","animationDelay":"10.30801153356423s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L5"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:T19fd,<h1>13. 스코프</h1>
+<h2>13.1. 스코프란?</h2>
+<p>스코프(scope, 유효범위)는 모든 식별자(변수 이름, 함수 이름, 클래스 이름 등)마다 결정된 유효한 범위를 뜻한다. 자신이 선언된 위치에 의해 <strong>다른 코드가 식별자 자신을 참조할 수 있는 유효 범위</strong>라는 것이다.</p>
+<pre><code class="language-js">var x = 'global';
+
+function foo() {
+  var x = 'local'; // 식별자 이름이 동일하지만 스코프가 다른 별개의 변수
+  console.log(x); // local
+}
+
+foo();
+
+console.log(x); // global
+</code></pre>
+<p>식별자 결정(identifier resolution)은 자바스크립트 엔진이 이름이 같은 여러 변수 중 어떤 변수를 참조해야 할 것인지 결정하는 것을 말한다. 이때, 스코프를 통해 자바스크립트 엔진이 어떤 변수를 참조해야 할 것인지 결정하기 때문에, <strong>스코프는 자바스크립트 엔진이 식별자를 검색할 때 사용하는 규칙</strong>이라고도 할 수 있다.</p>
+<ul>
+<li>자바스크립트 엔진은 코드를 실행할 때 코드의 문맥(context)을 고려하며, 코드의 문맥은 렉시컬 환경으로 이뤄진다. 이를 구현한 것이 실행 컨텍스트(execution context)이며, 모든 코드는 실행 컨텍스트에서 평가되고 실행된다. 스코프는 실행 컨텍스트와 깊은 관련이 있다.</li>
+</ul>
+<p>식별자는 어떤 값을 구별할 수 있어야 하므로 유일(unique)해야 한다. 따라서 식별자인 변수 이름은 중복될 수 없다. 즉, 하나의 값은 유일한 식별자에 연결(name binding)되어야 한다.
+프로그래밍 언어에서는 스코프(유효 범위)를 통해 식별자인 변수 이름의 충돌을 방지하여 같은 이름의 변수를 사용할 수 있게 한다. 스코프 내에서 식별자는 유일해야 하지만 다른 스코프에는 같은 이름의 식별자를 사용할 수 있다. 즉, 스코프는 네임스페이스다.</p>
+<h2>13.2. 스코프의 종류</h2>
+<p>| 구분 | 설명 | 스코프 | 변수 |
+| --- | --- | --- | --- |
+| 전역 | 코드의 가장 바깥 영역 | 전역 스코프 | 전역 변수 |
+| 지역 | 함수 몸체 내부 | 지역 스코프 | 지역 변수 |</p>
+<h3>13.2.1. 전역과 전역 스코프</h3>
+<p>전역이란 코드의 가장 바깥 영역을 말한다. 전역은 전역 스코프(global scope)를 만들며, 전역에 변수를 선언하면 전역 스코프를 갖는 전역 변수(global variable)가 되어 어디서든지 참조할 수 있다.</p>
+<h3>13.2.2. 지역과 지역 스코프</h3>
+<p>지역이란 함수 몸체 내부를 말한다. 지역은 지역 스코프(local scope)를 만들며, 지역에 변수를 선언하면 지역 스코프를 갖는 지역 변수(local variable)가 된다. 지역 변수는 자신이 선언된 지역과 하위 지역(중첩 함수)에서만 참조할 수 있다. 즉, 지역변수는 자신의 지역 스코프와 하위 지역 스코프에서 유효하다.</p>
+<h2>13.3. 스코프 체인</h2>
+<p>스코프가 함수의 중첩에 의해 계층적 구조로 연결된 것을 스코프 체인(scope chain)이라 한다.</p>
+<ul>
+<li>함수의 중첩: 함수 몸체 내부에서 함수가 정의된 것</li>
+<li>중첩 함수(nested function): 함수 몸체 내부에서 정의한 함수</li>
+<li>외부 함수(outer function): 중첩 함수를 포함하는 함수. 외부 함수의 지역 스코프가 중첩 함수의 상위 스코프가 된다.</li>
+</ul>
+<p>변수를 참조할 때 자바스크립트 엔진은 <strong>스코프 체인을 통해 변수를 참조하는 코드의 스코프에서 시작하여 상위 스코프 방향으로 이동하며 선언된 변수를 검색</strong>(identifier resolution)한다. 
+상위 스코프에서 유효한 변수는 하위 스코프에서 자유롭게 참조할 수 있지만 <strong>하위 스코프에서 유효한 변수를 상위 스코프에서 참조할 수 없다.</strong> 결국 스코프란 식별자를 검색하는 규칙이라고 표현할 수 있다.
+이때, 식별자의 검색은 렉시컬 환경을 생성하여 이루어진다.</p>
+<ul>
+<li>렉시컬 환경 (Lexical Environment): 스코프 체인은 실행 컨텍스트의 렉시컬 환경을 단방향으로 연결(chaning)한 것이다. 전역 렉시컬 환경은 코드가 로드되면 곧바로 생성되고, 함수의 렉시컬 환경은 함수가 호출되면 곧바로 생성된다. (<a href="./23_execution_context.md">23. 실행 컨텍스트</a> 참고)</li>
+</ul>
+<h2>13.4. 함수 레벨 스코프</h2>
+<p>지역이란 함수 몸체 내부를 말하며, 코드 블록이 아닌 함수에 의해서만 지역 스코프가 생성된다.</p>
+<ul>
+<li>블록 레벨 스코프(block level scope): 함수 몸체만이 아니라 모든 코드 블록(if, for, while, try/catch 등)이 지역 스코프를 만든다.</li>
+<li>함수 레벨 스코프(function level scope): var 키워드로 선언된 변수는 오로지 함수의 코드 블록(함수 몸체)만을 지역 스코프로 인정한다.</li>
+</ul>
+<pre><code class="language-js">var i = 10;
+
+// for 문에서 선언한 i는 전역 변수다. 이미 선언된 전역 변수 i가 있으므로 중복 선언된다.
+for (var i = 0; i &#x3C; 5; i++) {
+  console.log(i); // 0 1 2 3 4
+}
+
+// 의도치 않게 변수의 값이 변경되었다.
+console.log(i); // 5
+</code></pre>
+<h2>13.5. 렉시컬 스코프</h2>
+<pre><code class="language-js">var x = 1;
+
+function foo() {
+  var x = 10;
+  bar();
+}
+
+function bar() {
+  console.log(x);
+}
+
+foo(); // 1
+bar(); // 1
+</code></pre>
+<ul>
+<li>동적 스코프: <strong>함수를 어디서 호출</strong>했는지에 따라 함수의 상위 스코프를 결정한다.</li>
+<li>렉시컬 스코프: 혹은 정적 스코프. <strong>함수를 어디서 정의</strong>했는지에 따라 함수의 상위 스코프를 결정한다.</li>
+</ul>
+<p>자바스크립트는 렉시컬 스코프를 따르므로 함수를 어디서 호출했는지가 아니라 함수를 어디서 정의했는지에
+따라 상위 스코프를 결정한다. 함수가 호출된 위치는 상위 스코프 결정에 어떠한 영향도 주지 않는다. 즉, <strong>함수의 상위 스코프는 언제나 자신이 정의된 스코프</strong>다.</p>
+<p>이처럼 함수의 상위 스코프는 함수 정의가 실행될 때 정적으로 결정된다. 함수 정의(함수 선언문 또는 함수 표현식)가 실행되어 생성된 함수 객체는 이렇게 결정된 상위 스코프를 기억한다. 함수가 호출될 때마다 함수의 상위 스코프를 참조할 필요가 있기 때문이다</p>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L16","2",{}]]
+f:null
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]

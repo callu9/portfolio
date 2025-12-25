@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","09_type_conversion_and_short_circuit_evaluation"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/09_type_conversion_and_short_circuit_evaluation","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"38.93501512179611%","top":"19.092383985750374%","width":"454.6270205661976px","height":"454.6270205661976px","animation":"float 16.212481646663438s ease-in-out infinite","animationDelay":"10.298782495293079s"}}],["$","div","1",{"className":"dot dot-sage","style":{"left":"20.1385177302106%","top":"50.8116550529252%","width":"314.6250181328315px","height":"314.6250181328315px","animation":"float 15.502389012777106s ease-in-out infinite","animationDelay":"14.312170318981401s"}}],["$","div","2",{"className":"dot dot-mint","style":{"left":"62.531449098082284%","top":"55.56632539152919%","width":"371.3113212985229px","height":"371.3113212985229px","animation":"float 17.033943987287255s ease-in-out infinite","animationDelay":"2.730103713013315s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"71.40111803822174%","top":"32.40615781978422%","width":"307.346644948803px","height":"307.346644948803px","animation":"float 16.19818547061185s ease-in-out infinite","animationDelay":"4.277149380126242s"}}],["$","div","4",{"className":"dot dot-sage","style":{"left":"11.536656460951855%","top":"31.27049733248839%","width":"305.79666231184px","height":"305.79666231184px","animation":"float 17.863082461860678s ease-in-out infinite","animationDelay":"12.972964317324111s"}}],["$","div","5",{"className":"dot dot-coral","style":{"left":"98.07588945358934%","top":"57.703804701493965%","width":"211.62052321096473px","height":"211.62052321096473px","animation":"float 15.545951697290487s ease-in-out infinite","animationDelay":"3.755842989249856s"}}],["$","div","6",{"className":"dot dot-sage","style":{"left":"35.84931672917897%","top":"8.116022727899974%","width":"383.8375983580187px","height":"383.8375983580187px","animation":"float 17.730388449303817s ease-in-out infinite","animationDelay":"4.327124435268218s"}}],["$","div","7",{"className":"dot dot-peach","style":{"left":"12.696874973626082%","top":"12.41242534242113%","width":"268.0123098154728px","height":"268.0123098154728px","animation":"float 19.567530489312645s ease-in-out infinite","animationDelay":"5.357840377234787s"}}],["$","div","8",{"className":"dot dot-sage","style":{"left":"3.716251069367904%","top":"5.7493797938914515%","width":"347.72632623564687px","height":"347.72632623564687px","animation":"float 17.32542902543802s ease-in-out infinite","animationDelay":"12.037228821214255s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"11.934517409392598%","top":"17.737666001267293%","width":"498.3454991295982px","height":"498.3454991295982px","animation":"float 17.938619510712762s ease-in-out infinite","animationDelay":"1.7031727115092978s"}}],["$","div","10",{"className":"dot dot-sage","style":{"left":"76.73556020090473%","top":"20.51030874826234%","width":"497.7692982516644px","height":"497.7692982516644px","animation":"float 18.222864786835636s ease-in-out infinite","animationDelay":"5.742410485194607s"}}],["$","div","11",{"className":"dot dot-mint","style":{"left":"18.751491046699307%","top":"27.609191261580214%","width":"367.7025786197771px","height":"367.7025786197771px","animation":"float 15.105983462763199s ease-in-out infinite","animationDelay":"5.533761081009336s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L4","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+4:["$","$Lc",null,{}]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$@12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$@14"}]}]}],null]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:T37c2,<h1>9. 타입 변환과 단축평가</h1>
+<h2>9.1. 타입 변환이란?</h2>
+<p>타입 변환이란 기존 원시 값을 사용해 다른 타입의 새로운 원시 값을 생성하는 것이다.</p>
+<ol>
+<li>명시적 타입 변환</li>
+</ol>
+<p>개발자가 의도적으로 값의 타입을 변환하는 것을 <strong>명시적 타입 변환</strong>(explicit coercion) 또는 <strong>타입 캐스팅</strong>(type casting)이라 한다.</p>
+<pre><code class="language-js">var x = 10;
+
+// 명시적 타입 변환
+// 숫자를 문자열로 타입 캐스팅한다.
+var str = x.toString();
+console.log(typeof str, str); // string 10
+
+// x 변수의 값이 변경된 것은 아니다.
+console.log(typeof x, x); // number 10
+</code></pre>
+<ol start="2">
+<li>암묵적 타입 변환</li>
+</ol>
+<p>개발자의 의도와는 상관없이 표현식을 평가하는 도중에 자바스크립트 엔진에 의해 암묵적으로 타입이 자동 변환되기도 한다. 이를 <strong>암묵적 타입 변환</strong>(implicit coercion) 또는 <strong>타입 강제 변환</strong>(type coercion)이라 한다.</p>
+<pre><code class="language-js">var x = 10;
+
+// 암묵적 타입 변환
+// 문자열 연결 연산자는 숫자 타입 x의 값을 바탕^로 새로운 문자열을 생성한다
+var str = x + " ";
+console.log(typeof str, str); // string 10
+// x 변수의 값이 변경된 것은 아니다.
+console.log(typeof x, x); // number 10
+</code></pre>
+<p>명시적 타입 변환이나 암묵적 타입 변환이 기존 원시 값(위 예제의 경우 X 변수의 값)을 직접 변경하는 것은 아니다. 원시 값은 변경 불가능한 값(immutale value)이므로 변경할 수 없다.</p>
+<p>타입 변환은 기존 변수 값을 재할당하여 변경하는 것이 아니다. 자바스크립트 엔진은 표현식을 에러 없이 평가하기 위해 피연산자의 값을 암묵적 타입 변환해 새로운 타입의 값을 만들어 단 한 번 사용하고 버린다.</p>
+<h2>9.2. 암묵적 타입 변환</h2>
+<p>자바스크립트 엔진은 표현식을 평가할 때 개발자의 의도와는 상관없이 코드의 문맥을 고려해 암묵적으로 데이터 타입을 강제 변환(암묵적 타입 변환)할 때가 있다.</p>
+<pre><code class="language-js">// 1) 피연산자가 모두 문자열 타입이어야 하는 문맥
+"10" + 2; // → '1021'
+
+// 2) 피연산자가 모두 숫자 타입이어야 하는 문맥
+5 * "10"; // → 50
+
+// 3) 피연산자 또는 표현식이 불리언 타입이어야 하는 문맥
+!0; // → true
+if (1) {
+}
+</code></pre>
+<p>암묵적 타입 변환이 발생하면 문자열, 숫자, 불리언과 같은 원시 타입 중 하나로 타입을 자동 변환한다.</p>
+<h3>9.2.1. 문자열 타입으로 변환</h3>
+<pre><code class="language-js">1 + "2"; // → "12"
+</code></pre>
+<p>위 예제의 <code>+</code> 연산자는 피연산자 중 하나 이상이 문자열이므로 문자열 연결 연산자로 동작한다.</p>
+<p>자바스크립트 엔진은 문자열 연결 연산자 표현식을 평가하기 위해 문자열 연결 연산자의 피연산자 중에서 문자열 타입이 아닌 피연산자를 문자열 타입으로 암묵적 타입 변환한다.</p>
+<p>연산자 표현식의 피연산자(피연산자도 표현식이다)만이 암묵적 타입 변환의 대상이 되는 것은 아니다.
+예를 들어, ES6에서 도입된 템플릿 리터럴의 표현식 삽입은 표현식의 평가 결과를 문자열 타입으로 암묵적 타입 변환한다.</p>
+<pre><code class="language-js">`1 + 1 = ${1 + 1}`; // → "1 + 1 = 2"
+</code></pre>
+<p>문자열 타입이 아닌 값을 문자열 타입으로 암묵적 타입 변환을 수행할 때 다음과 같이 동작한다.</p>
+<p>| 결과                                 | 문자열 타입으로 변환할 값의 타입 |
+| ------------------------------------ | -------------------------------- |
+| 보이는 그대로 문자열로 변환되는 타입 | number, boolean, null, undefined |
+| 보이는 것과는 다르게 변환되는 타입   | symbol, object                   |</p>
+<pre><code class="language-js">// 심벌 타입
+(Symbol()) + '' // → TypeError: Cannot convert a Symbol value to a string
+
+// 객체 타입
+({}) + ''           // → "[object Object]"
+Math + ''           // → "[object Math]"
+[] + ''             // → ""
+[10, 20] + ''       // → "10,20"
+(function(){}) + '' // → "function(){}"
+Array + ''          // → "function Array() { [native code] }"
+</code></pre>
+<h3>9.2.2. 숫자 타입으로 변환</h3>
+<pre><code class="language-js">1 - "1"; // → 0
+1 * "10"; // → 10
+1 / "one"; // → NaN
+</code></pre>
+<p>위 예제에서 사용한 연산자는 모두 산술 연산자이며, 산술 연산자의 모든 피연산자는 코드 문맥상 모두 숫자 타입이어야 한다.</p>
+<p>자바스크립트 엔진은 산술 연산자 표현식을 평가하기 위해 산술 연산자의 피연산자 중에서 숫자 타입이 아닌 피연산자를 숫자 타입으로 암묵적 타입 변환한다. 이때 피연산자를 숫자 타입으로 변환할 수 없는 경우는 산술 연산을 수행할 수 없으므로 표현식의 평가 결과는 NaN이 된다.</p>
+<pre><code class="language-js">"1" > 0; // → true
+</code></pre>
+<p><code>></code> 비교 연산자는 피연산자의 크기를 비교하므로, 비교 연산자의 피연산자 중에서 숫자 타입이 아닌 피연산자를 숫자 타입으로 암묵적 타입 변환한다.</p>
+<p>자바스크립트 엔진은 숫자 타입이 아닌 값을 숫자 타입으로 암묵적 타입 변환을 수행할 때 다음과 같이 동작한다. 즉, + 단항 연산자는 피연산자가 숫자 타입의 값이 아니면 숫자 타입의 값으로 암묵적 타입 변환을 수행한다.</p>
+<p>| 숫자 타입으로 변환할 값의 타입              | 결과               |
+| ------------------------------------------- | ------------------ |
+| true                                        | 1                  |
+| false, null, 빈 문자열(<code>''</code>), 빈 배열(<code>[]</code>) | 0                  |
+| undefined, 객체, 빈 배열이 아닌 배열        | NaN(변환되지 않음) |</p>
+<pre><code class="language-js">// 문자열 타입
+0 + "string"; // → NaN
+
+// undefined 타입
+0 + undefined; // → NaN
+
+// 심벌 타입
+0 + Symbol(); // → TypeError: Cannot convert a Symbol value to a number
+
+// 객체 타입
+0 + {}; // → NaN
+0 + []; // → 0
+0 + [10, 20]; // → NaN
+0 + function () {}; // → NaN
+</code></pre>
+<h3>9.2.3. 불리언 타입으로 변환</h3>
+<p>if 문이나 for 문과 같은 제어문 또는 삼항 조건 연산자의 조건식은 불리언 값, 즉 논리적 참/거짓으로 평가되어야 하는 표현식이다. 자바스크립트 엔진은 조건식의 평가 결과를 불리언 타입으로 암묵적 타입 변환한다.
+(표준 빌트인 생성자 함수와 빌트인 메서드는 <a href="./21_built_in_objects.md">21. 빌트인 객체</a> 참고)</p>
+<p>Falsy 값 외의 모든 값은 모두 true로 평가되는 Truthy 값이다.</p>
+<ul>
+<li>Falsy 값: false, undefined, null, 0, -0, NaN, <code>''</code>(빈 문자열)</li>
+</ul>
+<h2>9.3. 명시적 타입 변환</h2>
+<p>개발자의 의도에 따라 명시적으로 타입을 변경하는 방법은 다양하다.</p>
+<ul>
+<li>표준 빌트인 생성자 함수(<code>String</code>, <code>Number</code>, <code>Boolean</code>)를 new 연산자 없이 호출하는 방법</li>
+<li>빌트인 메서드를 사용하는 방법</li>
+<li>암묵적 타입 변환을 이용하는 방법</li>
+</ul>
+<h3>9.3.1. 문자열 타입으로 변환</h3>
+<ol>
+<li><code>String</code> 생성자 함수를 new 연산자 없이 호출하는 방법</li>
+<li><code>Object.prototype.toString</code> 메서드를 사용하는방법</li>
+<li>문자열 연결 연산자를 이용하는 방법</li>
+</ol>
+<h3>9.3.2 숫자 타입으로 변환</h3>
+<ol>
+<li><code>Number</code> 생성자 함수를 new 연산자 없이 호출하는 방법</li>
+<li><code>parseInt</code>, <code>parseFloat</code> 함수를 사용하는 방법(문자열만 숫자 타입으로 변환 가능)</li>
+<li><code>+</code> 단항 산술 연산자를 이용하는방법</li>
+<li><code>*</code> 산술 연산자를 이용하는 방법</li>
+</ol>
+<h3>9.3.3 불리언 타입으로 변환</h3>
+<ol>
+<li><code>Boolean</code> 생성자 함수를 new 연산자 없이 호출하는 방법</li>
+<li><code>!</code> 부정 논리 연산자를 두 번 사용하는방법</li>
+</ol>
+<h2>9.4. 단축 평가</h2>
+<h3>9.4.1. 논리 연산자를 사용한 단축 평가</h3>
+<p>논리합(<code>||</code>) 또는 논리곱(<code>&#x26;&#x26;</code>) 연산자 표현식은 <code>언제나 2개의 피연산자 중 어느 한쪽으로 평가</code>되기 때문에 평가 결과는 불리언 값이 아닐 수도 있다.</p>
+<pre><code class="language-js">// 논리합(||) 연산자
+"Cat" || "Dog"; // -> "Cat"
+false || "Dog"; // -> "Dog"
+"Cat" || false; // -> "Cat" // 논리 연산의 결과를 결정한 첫 번째 피연산자 그대로 반환
+
+// 논리곱(&#x26;&#x26;) 연산자
+"Cat" &#x26;&#x26; "Dog"; // -> "Dog"
+false &#x26;&#x26; "Dog"; // -> false
+"Cat" &#x26;&#x26; false; // -> false // 논리 연산의 결과를 결정하는 두 번째 피연산자 그대로 반환
+</code></pre>
+<p>논리곱(<code>&#x26;&#x26;</code>) 연산자와 논리합(<code>||</code>) 연산자는 논리 연산의 결과를 결정하는 피연산자를 타입 변환하지 않고 그대로 반환한다. 이를 <strong>단축 평가</strong>(short-circuit evaluation)라 하며, 표현식을 평가하는 도중에 평가 결과가 확정된 경우, 나머지 평가 과정을 생략하는 것을 말한다.</p>
+<p>| 단축 평가 표현식      | 평가 결과 |
+| --------------------- | --------- |
+| <code>true</code> || anything  | <code>true</code>    |
+| <code>false</code> || anything | anything  |
+| <code>true</code> &#x26;&#x26; anything    | anything  |
+| <code>false</code> &#x26;&#x26; anything   | <code>false</code>   |</p>
+<h3>단축 연산자가 유용하게 사용되는 상황</h3>
+<ol>
+<li>객체를 가리키기를 기대하는 변수가 null 또는 undefined가 아닌지 확인하고 프로퍼티를 참조할 때</li>
+</ol>
+<p>객체(key와 value로 구성된 property의 집합)를 가리키기를 기대하는 변수의 값이 
+객체가 아니라 null 또는 undefined인 경우, 객체의 프로퍼티를 참조하면 타입 에러가 발생한다.</p>
+<pre><code class="language-js">var elem = null;
+var value = elem.value; // TypeError: Cannot read property 'value' of null
+</code></pre>
+<p>이때, 단축 평가를 사용하면 에러를 발생시키지 않는다.</p>
+<pre><code class="language-js">var elem = null;
+// elem이 null이나 undefined와 같은 Falsy 값이면 elem으로 평가되고
+// elem이 Truthy 값이면 elem.value로 평가된다.
+var value = elem &#x26;&#x26; elem.value; // -> null
+</code></pre>
+<ol start="2">
+<li>함수 매개변수에 기본값을 설정할 때</li>
+</ol>
+<p>함수를 호출할 때 인수를 전달하지 않으면 매개변수에는 undefined가 할당된다.
+이때 단축 평가를 사용해 매개변수의 기본값을 설정하면 undefined로 인해 발생할 수 있는 에러를 방지할 수 있다.</p>
+<pre><code class="language-js">// 단축 평가를 사용한 매개변수의 기본값 설정
+function getStringLength(str) {
+  str = str || "";
+  return str.length;
+}
+
+getStringLength(); // -> 0
+getStringLength("hi"); // -> 2
+</code></pre>
+<ul>
+<li>(참고) 매개변수의 기본값 설정으로 undefined로 발생할 수 있는 에러 방지하는 방법</li>
+</ul>
+<pre><code class="language-js">// ES6의 매개변수의 기본값 설정
+function getStringLength(str = "") {
+  return str.length;
+}
+
+getStringLength(); // -> 0
+getStringLength("hi"); // -> 2
+</code></pre>
+<h3>9.4.2. 옵셔널 체이닝 연산자</h3>
+<h4>옵셔널 체이닝 (optional chaining) 연산자</h4>
+<p>ES11(ECMAScript2020)에서 도입된 옵셔널 체이닝 연산자 <code>?.</code>는 좌항의 피연산자가 null 또는 undefined인 경우 undefined를 반환하고, 그렇지 않으면 우항의 프로퍼티 참조를 이어간다.</p>
+<pre><code class="language-js">var str = "";
+
+// 문자열의 길이(length)를 참조한다. 이때 좌항 피연산자가 false로 평가되는 Falsy 값이라도
+// null 또는 undefined가 아니면 우항의 프로퍼티 참조를 이어간다.
+var length = str?.length;
+console.log(length); // 0
+</code></pre>
+<h3>9.4.3. null 병합 연산자</h3>
+<h4>null 병합 (nullish coalescing) 연산자</h4>
+<p>ES11(ECMAScript2020)에서 도입된 null 병합 연산자 <code>??</code>는 좌항의 피연산자가 null 또는 undefined인 경우 우항의 피연산자를 반환하고, 그렇지 않으면 좌항의 피연산자를 반환한다. null 병합 연산자 <code>??</code>는 변수에 기본값을 설정할 때 유용하다.</p>
+<pre><code class="language-js">// 좌항의 피연산자가 null 또는 undefined이면 우항의 피연산자를 반환하고,
+// 그렇지 않으면 좌항의 피연산자를 반환한다.
+var foo = null ?? "default string";
+console.log(foo); // "default string"
+</code></pre>
+<h4>논리합 연산자와 null 병합 연산자의 차이</h4>
+<p>논리 연산자 <code>||</code>를 사용한 단축 평가의 경우, 만약 Falsy 값인 0이나 <code>''</code>도 기본값으로서 유효하다면 예기치 않은 동작이 발생할 수 있다.</p>
+<pre><code class="language-js">// Falsy 값인 0이나 ''도 기본값으로서 유효하다면 예기치 않은 동작이 발생할 수 있다.
+var foo = "" || "default string";
+console.log(foo); // "default string"
+</code></pre>
+<p>하지만 null 병합 연산자 <code>??</code>는 좌항의 피연산자가 Falsy 값(false, undefined, null, 0, -0, NaN, <code>''</code>)이라도 null 또는 undefined가 아니면 좌항의 피연산자를 그대로 반환한다.</p>
+<pre><code class="language-js">// 좌항의 피연산자가 Falsy 값이라도 null 또는 undefined가 아니면 좌항의 피연산자를 반환한다.
+var foo = "" ?? "default string";
+console.log(foo); // ""
+</code></pre>
+d:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}],"$L16"]}]}]}]
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+16:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+18:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L18","2",{}]]
+10:null

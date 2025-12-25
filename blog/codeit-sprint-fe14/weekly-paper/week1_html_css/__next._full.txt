@@ -1,0 +1,189 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","weekly-paper","week1_html_css"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/weekly-paper/week1_html_css","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"74.03806730648436%","top":"56.139553230018755%","width":"316.9232602189424px","height":"316.9232602189424px","animation":"float 18.75132974134821s ease-in-out infinite","animationDelay":"13.32230392420937s"}}],["$","div","1",{"className":"dot dot-mint","style":{"left":"46.48156141472375%","top":"18.133480498525813%","width":"329.7466830538189px","height":"329.7466830538189px","animation":"float 17.826960665948487s ease-in-out infinite","animationDelay":"13.819420539048933s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"54.05002964295021%","top":"11.476528994350987%","width":"487.267352936229px","height":"487.267352936229px","animation":"float 15.093584854244739s ease-in-out infinite","animationDelay":"14.190208073466826s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"67.05048132323188%","top":"28.34702618370166%","width":"383.75540375395474px","height":"383.75540375395474px","animation":"float 15.710447040647837s ease-in-out infinite","animationDelay":"10.063820770257788s"}}],["$","div","4",{"className":"dot dot-peach","style":{"left":"36.46075246368792%","top":"52.43146415747682%","width":"228.41681586301698px","height":"228.41681586301698px","animation":"float 18.787756162505794s ease-in-out infinite","animationDelay":"13.067390614203923s"}}],["$","div","5",{"className":"dot dot-peach","style":{"left":"57.740852486869976%","top":"24.397867000266693%","width":"257.4510435528524px","height":"257.4510435528524px","animation":"float 18.177214263309512s ease-in-out infinite","animationDelay":"9.357177396637717s"}}],["$","div","6",{"className":"dot dot-sage","style":{"left":"94.84373613352676%","top":"5.374745914542123%","width":"316.04085956386666px","height":"316.04085956386666px","animation":"float 15.30690425465288s ease-in-out infinite","animationDelay":"13.894709019487793s"}}],["$","div","7",{"className":"dot dot-peach","style":{"left":"74.0281013384%","top":"59.601261216761856%","width":"434.4266388252847px","height":"434.4266388252847px","animation":"float 19.134273729524605s ease-in-out infinite","animationDelay":"1.4593604218496965s"}}],["$","div","8",{"className":"dot dot-peach","style":{"left":"13.130614140403063%","top":"22.728988906298262%","width":"470.05138365975387px","height":"470.05138365975387px","animation":"float 15.149616947621942s ease-in-out infinite","animationDelay":"5.982956344768907s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"95.34711278193168%","top":"15.224824346367715%","width":"496.9448990486203px","height":"496.9448990486203px","animation":"float 17.848345284070888s ease-in-out infinite","animationDelay":"3.190244221554673s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"38.10915894213465%","top":"44.63141570363265%","width":"204.3550514350397px","height":"204.3550514350397px","animation":"float 16.16767991738661s ease-in-out infinite","animationDelay":"10.09829873167405s"}}],["$","div","11",{"className":"dot dot-sage","style":{"left":"54.27153524445683%","top":"1.7400945220947373%","width":"492.8959536486285px","height":"492.8959536486285px","animation":"float 15.448884055164713s ease-in-out infinite","animationDelay":"4.9438387200290155s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T2887,<h1>1. CSS Cascading</h1>
+<p><strong>CSS</strong>(Cascading Style Sheet)의 <strong>Cascading</strong>(계단식 처리)이란, <strong>여러 스타일 규칙이 동일한 요소에 적용될 때 어떤 규칙이 우선적으로 적용될지 결정하는 과정</strong>을 말한다.</p>
+<p>단어 Cascading은 폭포, 위에서 아래로 쏟아지는, 계단식이라는 뜻을 가진 단어로, 스타일 규칙이 순서와 우선순위에 따라 차례대로 적용되는 방식을 비유적으로 표현한 것.</p>
+<ul>
+<li>명시도를 고려한 우선 적용되는 순서
+<ul>
+<li><code>!important</code> (명시도와 무관하지만, 명시도에 직접 영향을 미침, 다른 선언보다 우선함)</li>
+<li>인라인 스타일 정의 (인라인 스타일은 항상 외부 스타일시트의 모든 스타일을 덮어쓰기 때문에 가장 높은 명시도를 갖는다고 생각할 수 있음)</li>
+<li>명시도
+<ul>
+<li>아이디 선택자</li>
+<li>클래스 선택자, 속성 선택자, 가상(pseudo)클래스 선택자</li>
+<li>태그 선택자, 가상(psuedo)요소 선택자</li>
+</ul>
+</li>
+<li>상속된 스타일
+<ul>
+<li>상속: 부모 태그에 적용된 CSS 규칙은 자손에게도 상속된다. 모든 속성이 상속되는 건 아니고, 상속되는 속성(<code>color</code>, <code>font-family</code> 등)들이 정해져 있다. 조상 태그들에서 스타일이 모두 계산된 상태에서 우선순위를 따지는데, 가까운 조상에게 물려받은 속성일수록 우선순위가 높다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>스타일 시트 상호 충돌할 경우 우선 적용되는 순서
+<ul>
+<li>웹 페이지를 만든 저자가 작성한 스타일 시트</li>
+<li>사용자가 작성한 스타일 시트</li>
+<li>브라우저에서 기본으로 제공하는 스타일시트</li>
+</ul>
+</li>
+<li>코드 상의 순서: 동일한 가중치를 갖는 규칙이 두 개 이상인 경우, 코드에서 아래 쪽에 쓴 코드일수록 우선순위가 높습니다.</li>
+</ul>
+<h2>1-1. Cascading의 기본 원리</h2>
+<h3>우선순위(Priority)</h3>
+<p>CSS 규칙이 적용될 때, 특정 요소에 여러 규칙이 겹치는 경우 우선순위에 따라 어떤 규칙이 적용될지를 결정합니다. 우선순위는 아래와 같은 순서로 평가됩니다.</p>
+<ol>
+<li>
+<p>인라인 스타일 (HTML 요소 안에 직접 지정된 스타일)</p>
+<pre><code class="language-html">&#x3C;div style="color: red;">
+</code></pre>
+</li>
+<li>
+<p>ID 선택자</p>
+<pre><code class="language-css">#header { color: blue; }
+</code></pre>
+</li>
+<li>
+<p>클래스, 속성, 의사클래스 선택자</p>
+<pre><code class="language-css">.btn { color: green; }
+</code></pre>
+</li>
+<li>
+<p>태그 선택자</p>
+<pre><code class="language-css">p { color: black; }
+</code></pre>
+</li>
+<li>
+<p>전역 선택자</p>
+<pre><code class="language-css">* { margin: 0; }
+</code></pre>
+</li>
+</ol>
+<ul>
+<li>예시: 아래의 경우, <code>style="color: red;"</code>이 인라인 스타일로 가장 우선순위가 높다.</li>
+</ul>
+<pre><code class="language-html">&#x3C;div id="box" class="container" style="color: red;">
+    Hello World!
+&#x3C;/div>
+</code></pre>
+<h3>특이도(Specificity)</h3>
+<p>CSS 선택자의 구체성에 따라 우선순위가 결정된다.</p>
+<ol>
+<li>인라인 스타일:  가장 높은 특이도 (ex. <code>style=""</code>은 항상 이김)</li>
+<li>ID 선택자 : 1점 (ex. <code>#id</code>)</li>
+<li>클래스/속성/의사클래스 선택자 : 0.1점 (ex. <code>.class, [attr=value], :hover</code>)</li>
+<li>태그 선택자: 0.01점 (ex. <code>h1, p</code>)</li>
+</ol>
+<ul>
+<li>예시: <code>#main</code>이 가장 우선순위가 높아 적용된다.</li>
+</ul>
+<pre><code class="language-css">p { color: black; }           /* 특이도: 0.01 */
+.text { color: green; }       /* 특이도: 0.1 */
+#main { color: blue; }        /* 특이도: 1 */
+</code></pre>
+<h3>소스코드의 위치</h3>
+<p>동일한 특이도를 가진 규칙이라면 나중에 선언된 스타일이 적용된다.</p>
+<ul>
+<li>예시:</li>
+</ul>
+<pre><code class="language-css">p { color: black; }
+p { color: red; } /* 나중에 선언된 규칙이 적용됨 */
+</code></pre>
+<h3>중요 표시(<code>!important</code>)</h3>
+<p>스타일 뒤에 <code>!important</code>를 추가하면, 해당 규칙이 무조건 우선 적용</p>
+<ul>
+<li>예시:</li>
+</ul>
+<pre><code class="language-css">p { color: black !important; }
+p { color: red; }
+</code></pre>
+<h2>1-2. Cascading의 의미와 중요성</h2>
+<p>Cascading은 CSS가 겹칠 때 충돌을 해결하는 방식이다. 따라서 Cascading 덕분에 웹 개발자는 다양한 스타일 규칙을 쉽게 조정할 수 있고, 효율적인 스타일 관리가 가능하다.</p>
+<p>비유: “여러 규칙이 경쟁할 때, 누가 가장 강한지를 판별하는 토너먼트”와 같다.</p>
+<h3>주의 사항</h3>
+<ul>
+<li><code>!important</code> 는 가능한 사용하지 않는다. (스타일 디버깅을 어렵게 하기 때문)</li>
+<li>인라인 스타일 정의도 가능한 사용하지 않는다. (스타일 디버깅을 어렵게 하기 때문)</li>
+</ul>
+<h1>2. 시맨틱 태그</h1>
+<h2>시맨틱 태그 (Semantic Tag)</h2>
+<ul>
+<li>의미론적 태그를 뜻한다.</li>
+<li>시맨틱 태그는 태그가 가진 목적이나 역할을 나타내기 때문에, 태그 사용만으로도 의미를 쉽게 파악할 수 있다.</li>
+</ul>
+<h2>시맨틱 태그 사용 시 이점</h2>
+<ul>
+<li>검색 엔진 최적화 (Search Engine Optimization = SEO)</li>
+<li>웹 접근성(Web Accessibility = A11y)
+<ul>
+<li>시각장애 있는 사용자가 스크린 리더를 사용하여 페이지를 탐색할 때 도움을 준다.</li>
+</ul>
+</li>
+<li>동료 개발자가 코드를 읽고 의도 파악하는데 용이하다.</li>
+</ul>
+<h2>주의사항</h2>
+<p>시맨틱 태그에 너무 집착하면 개발 생산성이 떨어지기 때문에, <code>div</code> 태그로 개발하고 필요할 때 시맨틱 태그로 바꿔 나가는 것이 효율적일 수 있다.</p>
+<h2>참고 자료</h2>
+<p>https://www.semrush.com/blog/semantic-html5-guide/</p>
+<h1>3. font-size 상대적 단위</h1>
+<ul>
+<li>웹 페이지에 절대 단위(<code>px</code>)를 사용할 경우 사용자의 브라우저 font-size 변경을 반영할 수 없다.</li>
+<li>따라서, 브라우저 font-size 변경을 반영하기 위해서는 상대적 단위( <strong><code>%</code>, <code>rem</code>, <code>em</code></strong> )를 사용해야 한다.</li>
+<li><code>em</code> 은 하나의 요소에 폰트 크기를 지정하고, 자식 요소에서 <code>em</code> 을 적용하면 두 요소의 폰트 크기가 다르게 적용된다. 따라서 요소가 깊이 중첩될 수 있을 때는 폰트 크기 단위로 <code>em</code> 을 사용하면 CSS를 보는 것만으로 개발자가 어떤 크기인지 예측하기 어렵다.
+<ul>
+<li>참고: https://codepen.io/withyj/pen/abaXRme</li>
+</ul>
+</li>
+<li><code>rem</code> 은 항상 루트 폰트 사이즈를 참조한다. 일반적인 브라우저 기본 폰트 크기가 <code>16px</code>이고 이를 이용하면 사용자가 브라우저 폰트 크기 설정을 변경하지 않는 일반적인 경우, <code>1rem</code> 은 <code>16px</code> 크기라 보고 스타일링 하면 된다.
+<ul>
+<li>참고: <a href="https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_custom_properties">Figma CSS 변수 rem 환산 설정 방법</a></li>
+<li>참고: <a href="https://blog.jeongtae.com/rem-%EA%B3%A0%EC%B0%B0#rem-%EB%8B%A8%EC%9C%84%EC%9D%98-%EA%B3%84%EC%82%B0%EC%97%90-%EC%98%81%ED%95%AD%EC%9D%84-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%9A%94%EC%9D%B8">REM 단위의 계산에 영항을 미치는 요인</a></li>
+</ul>
+</li>
+</ul>
+<h1>4. position</h1>
+<h2>position 속성 종류</h2>
+<ul>
+<li><code>static</code></li>
+<li><code>relative</code></li>
+<li><code>absolute</code></li>
+<li><code>fixed</code></li>
+<li><code>sticky</code></li>
+</ul>
+<h2>각 속성들의 특징</h2>
+<ul>
+<li><code>static</code>은 position의 기본 값이며, 이 경우 원래 있어야 할 위치인 HTML에 작성된 순서 그대로 브라우저 화면에 표시됩니다.</li>
+<li><code>relative</code> 는 요소의 원래 위치를 기준으로 상대적으로 배치합니다. 이때 요소의 원래 자리는 그대로 차지하고 있습니다. <code>top</code>, <code>bottom</code>, <code>left</code>, <code>right</code> 속성을 이용해서 요소의 원래 위치 기준 이동하도록 설정할 수 있습니다.</li>
+<li><code>absolute</code> 는 가장 가까운 포지셔닝(<code>static</code> 이 아닌 position 속성 값)이 된 조상 요소를 기준으로 배치됩니다. 이때 글의 흐름에서 완전히 빠져서, 요소의 원래 자리는 차지하지 않습니다. 보통 상위 요소의 position 속성을 <code>relative</code> 로 지정하여 배치할 기준을 잡고 사용합니다.</li>
+<li><code>fixed</code> 는 브라우저 전체 화면을 기준으로 고정된 배치입니다. <code>top</code>, <code>bottom</code>, <code>left</code>, <code>right</code> 속성은 브라우저의 상, 하, 좌, 우에서 해당 요소가 얼마나 떨어져 있는지를 결정합니다. 글의 흐름에서 완전히 빠져서, 요소의 원래 자리는 차지하지 않습니다. 내비게이션을 만들 때 많이 사용하는데, 요소의 원래 자리를 차지하지 않기 때문에 요소간 겹치지 않도록 마진을 넣어주기도 합니다.</li>
+<li><code>sticky</code> 는 <code>static</code> 처럼 원래 위치에 배치해 있다가, 정해진 위치에 브라우저가 스크롤되면 그때부터 <code>fixed</code>처럼 고정되어 배치됩니다. 기본적으로는 <code>static</code> 처럼 배치하기 때문에 요소의 원래 자리를 차지합니다. <code>top</code>, <code>bottom</code>, <code>left</code>, <code>right</code> 설정이 필요하고, 가장 가까운 scroll되는 조상을 기준으로 배치 합니다.</li>
+</ul>
+<h2>참고 자료</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/ko/docs/Web/CSS/position">position - CSS: Cascading Style Sheets | MDN</a></li>
+<li><a href="https://chenhuijing.com/blog/understanding-positioning-in-css/#%F0%9F%91%BE">https://chenhuijing.com/blog/understanding-positioning-in-css/#👾</a></li>
+</ul>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

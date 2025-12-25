@@ -1,0 +1,220 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","18_function_and_first_class_object"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/18_function_and_first_class_object","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"10.89099009568313%","top":"7.093826079534837%","width":"452.53283512472785px","height":"452.53283512472785px","animation":"float 18.604747800773147s ease-in-out infinite","animationDelay":"2.4489488320266792s"}}],["$","div","1",{"className":"dot dot-mint","style":{"left":"1.2192477978932859%","top":"8.45883703603163%","width":"214.07809630981777px","height":"214.07809630981777px","animation":"float 19.940110349749176s ease-in-out infinite","animationDelay":"6.427879648435548s"}}],["$","div","2",{"className":"dot dot-coral","style":{"left":"95.41999321990475%","top":"81.41670044356755%","width":"466.85432600010637px","height":"466.85432600010637px","animation":"float 18.88838694439315s ease-in-out infinite","animationDelay":"17.684984906071094s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"19.8205003987723%","top":"9.93318666843155%","width":"440.3441692705678px","height":"440.3441692705678px","animation":"float 15.834866910857412s ease-in-out infinite","animationDelay":"12.008795327952487s"}}],["$","div","4",{"className":"dot dot-peach","style":{"left":"31.912525159883586%","top":"9.285514652141869%","width":"354.29252766134414px","height":"354.29252766134414px","animation":"float 17.380512678311984s ease-in-out infinite","animationDelay":"5.987207464654294s"}}],["$","div","5",{"className":"dot dot-coral","style":{"left":"75.55349808395671%","top":"56.10832232780225%","width":"468.30968850805283px","height":"468.30968850805283px","animation":"float 19.644842659018966s ease-in-out infinite","animationDelay":"13.709188732098758s"}}],["$","div","6",{"className":"dot dot-peach","style":{"left":"43.39927809217406%","top":"26.513478210354368%","width":"318.75985696528573px","height":"318.75985696528573px","animation":"float 16.76109336975425s ease-in-out infinite","animationDelay":"11.32003971313589s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"36.20651192964694%","top":"73.70245131731703%","width":"458.4051336086736px","height":"458.4051336086736px","animation":"float 16.155917097827988s ease-in-out infinite","animationDelay":"1.9902732106931162s"}}],["$","div","8",{"className":"dot dot-mint","style":{"left":"1.2306784547478467%","top":"4.945280618394898%","width":"449.6798224520437px","height":"449.6798224520437px","animation":"float 16.883655029505896s ease-in-out infinite","animationDelay":"8.026806698451786s"}}],["$","div","9",{"className":"dot dot-peach","style":{"left":"61.57656844950792%","top":"30.224963310301135%","width":"227.5503913760889px","height":"227.5503913760889px","animation":"float 17.330628136922325s ease-in-out infinite","animationDelay":"15.61880413820165s"}}],["$","div","10",{"className":"dot dot-mint","style":{"left":"68.72140852934182%","top":"97.21726329760489%","width":"237.7356934235753px","height":"237.7356934235753px","animation":"float 18.304590991141772s ease-in-out infinite","animationDelay":"8.661489359074443s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"5.1131190022233985%","top":"50.68670687712142%","width":"223.5154484545863px","height":"223.5154484545863px","animation":"float 19.1617877282046s ease-in-out infinite","animationDelay":"13.501464103862618s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L4","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+4:["$","$Lc",null,{}]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$@12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$@14"}]}]}],null]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+15:T28a9,<h1>18. 함수와 일급 객체</h1>
+<h2>18.1. 일급 객체</h2>
+<ol>
+<li>무명의 리터럴로 생성할 수 있다. 즉, 런타임에 생성이 가능하다.</li>
+<li>변수나 자료구조(객체, 배열 등)에 저장할 수 있다.</li>
+<li>함수의 매개변수에 전달할 수 있다.</li>
+<li>함수의 반환값으로 사용할 수 있다.</li>
+</ol>
+<p>자바스크립트의 함수는 위 조건을 모두 만족하므로 일급 객체다. 즉, 함수를 객체와 동일하게 사용할 수 있다는 의미다. 객체는 값이므로, 함수는 값을 사용할 수 있는 곳(변수 할당문, 객체의 프로퍼티 값, 배열의 요소, 함수 호출의 인수, 함수 반환문)이라면 어디서든지 리터럴로 정의할 수 있으며 런타임에 함수 객체로 평가된다.</p>
+<p>일급 객체로서 함수가 가지는 가장 큰 특징은 일반 객체와 같이 함수의 매개변수에 전달할 수 있으며, 함수의 반환값으로 사용할 수도 있다는 것이다. 이는 함수형 프로그래밍을 가능케 하는 자바스크립트의 장점 중 하나다.</p>
+<p>함수는 객체이지만 일반 객체와는 차이가 있다. 일반 객체는 호출할 수 없지만 함수 객체는 호출할 수 있다. 그리고 함수 객체는 일반 객체에는 없는 함수 고유의 프로퍼티를 소유한다.</p>
+<pre><code class="language-js">// 1. 함수는 무명의 리터럴로 생성할 수 있다.
+// 2. 함수는 변수에 저장할 수 있다.
+// 런타임(할당 단계)에 함수 리터럴이 평가되어 함수 객체가 생성되고 변수에 할당된다.
+const increase = function (num) {
+  return ++num;
+};
+
+const decrease = function (num) {
+  return --num;
+};
+
+// 2. 함수는 객체에 저장할 수 있다.
+const auxs = { increase, decrease };
+
+// 3. 함수의 매개변수에게 전달할 수 있다.
+// 4. 함수의 반환값으로 사용할 수 있다.
+function makeCounter(aux) {
+  let num = 0;
+
+  return function () {
+    num = aux(num);
+    return num;
+  };
+}
+
+// 3. 함수는 매개변수에게 함수를 전달할 수 있다.
+const increaser = makeCounter(auxs.increase);
+console.log(increaser()); // 1
+console.log(increaser()); // 2
+
+// 3. 함수는 매개변수에게 함수를 전달할 수 있다.
+const decreaser = makeCounter(auxs.decrease);
+console.log(decreaser()); // -1
+console.log(decreaser()); // -2
+</code></pre>
+<h2>18.2. 함수 객체의 프로퍼티</h2>
+<pre><code class="language-js">function square(number) {
+  return number * number;
+}
+
+console.log(Object.getOwnPropertyDescriptors(square));
+/*
+{
+  length: {value: 1, writable: false, enumerable: false, configurable: true},
+  name: {value: "square", writable: false, enumerable: false, configurable: true},
+  arguments: {value: null, writable: false, enumerable: false, configurable: false},
+  caller: {value: null, writable: false, enumerable: false, configurable: false},
+  prototype: {value: {...}, writable: true, enumerable: false, configurable: false}
+}
+*/
+
+// __proto__는 square 함수의 프로퍼티가 아니다.
+console.log(Object.getOwnPropertyDescriptor(square, '__proto__')); // undefined
+
+// __proto__는 Object.prototype 객체의 접근자 프로퍼티다.
+// square 함수는 Object.prototype 객체로부터 __proto__ 접근자 프로퍼티를 상속받는다.
+console.log(Object.getOwnPropertyDescriptor(Object.prototype, '__proto__'));
+// {get: ƒ, set: ƒ, enumerable: false, configurable: true}
+</code></pre>
+<h3>18.2.1. arguments 프로퍼티</h3>
+<p>arguments 객체는 함수 호출 시 전달된 인수들의 정보를 담고 있는 순회 가능한 유사 배열 객체이며, 함수 내부에서 지역 변수처럼 사용되어 함수 외부에서는 참조할 수 없다.</p>
+<p>함수를 정의할 때 선언한 매개변수는 함수 몸체 내부에서 변수와 동일하게 취급된다. 즉, 함수가 호출되면 함수 몸체 내에서 암묵적으로 매개변수가 선언되고 undefined로 초기화된 이후 인수가 할당된다.</p>
+<p>자바스크립트는 함수의 매개변수와 인수의 개수가 일치하는지 확인하지 않는다. 따라서 함수 호출 시 매개변수 개수만큼 인수를 전달하지 않아도 에러가 발생하지 않는다. 이때 사용되는 arguments 객체는 매개변수 개수를 확정할 수 없는 <strong>가변 인자 함수</strong>를 구현할 때 유용하다.
+arguments 객체는 배열 형태로 인자 정보를 담고 있지만 실제 배열이 아닌 유사 배열 객체(array-like object)다. 유사 배열 객체란 length 프로퍼티를 가진 객체로 for 문으로 순회할 수 있는 객체를 말한다.</p>
+<ul>
+<li>이터러블이 도입된 ES6부터 arguments 객체는 유사 배열 객체이면서 동시에 이터러블이다.</li>
+</ul>
+<pre><code class="language-js">function sum() {
+  let res = 0;
+
+  // arguments 객체는 length 프로퍼티가 있는 유사 배열 객체이므로 for 문으로 순회할 수 있다.
+  for (let i = 0; i &#x3C; arguments.length; i++) {
+    res += arguments[i];
+  }
+
+  return res;
+}
+
+console.log(sum());        // 0
+console.log(sum(1, 2));    // 3
+console.log(sum(1, 2, 3)); // 6
+</code></pre>
+<p>유사 배열 객체는 배열이 아니므로 배열 메서드를 사용할 경우 에러가 발생한다. 따라서 배열 메서드를 사용하려면 <code>Function.prototype.call</code>, <code>Function.prototype.apply</code>를 사용해 간접 호출해야 하는 번거로움이 있다.</p>
+<pre><code class="language-js">function sum() {
+  // arguments 객체를 배열로 변환
+  const array = Array.prototype.slice.call(arguments);
+  return array.reduce(function (pre, cur) {
+    return pre + cur;
+  }, 0);
+}
+
+console.log(sum(1, 2));          // 3
+console.log(sum(1, 2, 3, 4, 5)); // 15
+</code></pre>
+<p>이러한 번거로움을 해결하기 위해 ES6에서는 Rest 파라미터를 도입했다.</p>
+<pre><code class="language-js">// ES6 Rest parameter
+function sum(...args) {
+  return args.reduce((pre, cur) => pre + cur, 0);
+}
+
+console.log(sum(1, 2));          // 3
+console.log(sum(1, 2, 3, 4, 5)); // 15
+</code></pre>
+<h3>18.2.2. caller 프로퍼티</h3>
+<p>caller 프로퍼티는 ECMAScript 사양에 포함되지 않은 비표준 프로퍼티다. 함수 객체의 caller 프로퍼티는 함수 자신을 호출한 함수를 가리킨다.</p>
+<pre><code class="language-js">function foo(func) {
+  return func();
+}
+
+function bar() {
+  return 'caller : ' + bar.caller;
+}
+
+// 브라우저에서의 실행한 결과
+console.log(foo(bar)); // caller : function foo(func) {...}
+console.log(bar());    // caller : null
+</code></pre>
+<h3>18.2.3. length 프로퍼티</h3>
+<p>함수 객체의 length 프로퍼티는 함수를 정의할 때 선언한 매개변수의 개수를 가리킨다.</p>
+<ul>
+<li>arguments 객체의 length 프로퍼티: 인자(argument)의 개수를 가리킨다.</li>
+<li>함수 객체의 length 프로퍼티: 매개변수(parameter)의 개수를 가리킨다.</li>
+</ul>
+<pre><code class="language-js">function foo() {}
+console.log(foo.length); // 0
+
+function bar(x) {
+  return x;
+}
+console.log(bar.length); // 1
+
+function baz(x, y) {
+  return x * y;
+}
+console.log(baz.length); // 2
+</code></pre>
+<h3>18.2.4. name 프로퍼티</h3>
+<p>함수 객체의 name 프로퍼티는 함수 이름을 나타낸다.</p>
+<ul>
+<li>ES6 이전까지는 비표준. 익명 함수 표현식의 경우 ES5에서 name 프로퍼티는 빈 문자열을 값으로 갖는다.</li>
+<li>ES6에서 정식 표준이 되었다. 익명 함수 표현식의 경우 함수 객체를 가리키는 식별자를 값으로 갖는다.</li>
+</ul>
+<pre><code class="language-js">// 기명 함수 표현식
+var namedFunc = function foo() {};
+console.log(namedFunc.name); // foo
+
+// 익명 함수 표현식
+var anonymousFunc = function() {};
+// ES5: name 프로퍼티는 빈 문자열을 값으로 갖는다.
+// ES6: name 프로퍼티는 함수 객체를 가리키는 변수 이름을 값으로 갖는다.
+console.log(anonymousFunc.name); // anonymousFunc
+
+// 함수 선언문(Function declaration)
+function bar() {}
+console.log(bar.name); // bar
+</code></pre>
+<h3>18.2.5. <code>__proto__</code> 접근자 프로퍼티</h3>
+<p>모든 객체는 <code>[[Prototype]]</code>이라는 내부 슬롯을 갖는다.</p>
+<ul>
+<li><code>[[Prototype]]</code> 내부 슬롯: 객체지향 프로그래밍의 상속을 구현하는 프로토타입 객체를 가리킨다.</li>
+</ul>
+<p><code>__proto__</code> 프로퍼티는 <code>[[Prototype]]</code> 내부 슬롯이 가리키는 프로토타입 객체에 접근하기 위해 사용하는 접근자 프로퍼티다. <code>[[Prototype]]</code> 내부 슬롯에 직접 접근할수 없으며 <code>__proto__</code> 접근자 프로퍼티를 통해 간접적으로 프로토타입 객체에 접근할 수 있다.</p>
+<pre><code class="language-js">const obj = { a: 1 };
+
+// 객체 리터럴 방식으로 생성한 객체의 프로토타입 객체는 Object.prototype이다.
+console.log(obj.__proto__ === Object.prototype); // true
+
+// 객체 리터럴 방식으로 생성한 객체는 프로토타입 객체인 Object.prototype의 프로퍼티를 상속받는다.
+// hasOwnProperty 메서드는 Object.prototype의 메서드다.
+console.log(obj.hasOwnProperty('a'));         // true
+console.log(obj.hasOwnProperty('__proto__')); // false
+</code></pre>
+<ul>
+<li><code>hasOwnProperty</code> 메서드: 인수로 전달받은 프로퍼티 키가 객체 고유의 프로퍼티 키인 경우에만 true를 반환하고, 상속받은 프로토타입의 프로퍼티 키인 경우 false를 반환한다.</li>
+</ul>
+<h3>18.2.6. prototype 프로퍼티</h3>
+<p>prototype 프로퍼티는 함수가 객체를 생성하는 생성자 함수로 호출될 때 "생성자 함수가 생성할 인스턴스의 프로토타입 객체"를 가리킨다.</p>
+<p>prototype 프로퍼티는 생성자 함수로 호출할 수 있는 함수 객체안 constructor만이 소유하는 프로퍼티다. 일반 객체와 생성자 함수로 호출할 수 없는 non-constructor에는 prototype 프로퍼티가 없다.</p>
+<pre><code class="language-js">// 함수 객체는 prototype 프로퍼티를 소유한다.
+(function () {}).hasOwnProperty('prototype'); // -> true
+
+// 일반 객체는 prototype 프로퍼티를 소유하지 않는다.
+({}).hasOwnProperty('prototype'); // -> false
+</code></pre>
+d:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}],"$L16"]}]}]}]
+14:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+10:null
+18:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+16:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L18",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]

@@ -1,0 +1,185 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","11_comparing_primitive_value_and_object"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/11_comparing_primitive_value_and_object","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"95.36248414310545%","top":"50.36212396998483%","width":"360.8501073290855px","height":"360.8501073290855px","animation":"float 19.553105331708487s ease-in-out infinite","animationDelay":"16.814456032495006s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"13.409060353288238%","top":"93.8302544631885%","width":"314.9754532358012px","height":"314.9754532358012px","animation":"float 18.355914708998142s ease-in-out infinite","animationDelay":"12.585554748544187s"}}],["$","div","2",{"className":"dot dot-coral","style":{"left":"60.47741624535623%","top":"38.98815302227514%","width":"481.68834577218763px","height":"481.68834577218763px","animation":"float 17.292358545112226s ease-in-out infinite","animationDelay":"12.864639590126355s"}}],["$","div","3",{"className":"dot dot-mint","style":{"left":"63.6511221818461%","top":"11.671206834714653%","width":"306.4699970813356px","height":"306.4699970813356px","animation":"float 16.82712199648572s ease-in-out infinite","animationDelay":"10.689325879374328s"}}],["$","div","4",{"className":"dot dot-peach","style":{"left":"95.74585733145804%","top":"92.84334505172298%","width":"358.99232464602153px","height":"358.99232464602153px","animation":"float 17.677513619016736s ease-in-out infinite","animationDelay":"12.576417358140493s"}}],["$","div","5",{"className":"dot dot-mint","style":{"left":"33.018883968339566%","top":"56.948546150005%","width":"446.67153682430995px","height":"446.67153682430995px","animation":"float 18.33218006291299s ease-in-out infinite","animationDelay":"14.833777854983001s"}}],["$","div","6",{"className":"dot dot-peach","style":{"left":"53.151049330069%","top":"54.19625827134986%","width":"246.46205227482096px","height":"246.46205227482096px","animation":"float 18.705039500053743s ease-in-out infinite","animationDelay":"3.9815596394211465s"}}],["$","div","7",{"className":"dot dot-mint","style":{"left":"94.11385185161087%","top":"67.7003011130999%","width":"260.65513246946034px","height":"260.65513246946034px","animation":"float 19.695407635445633s ease-in-out infinite","animationDelay":"14.597322861730177s"}}],["$","div","8",{"className":"dot dot-peach","style":{"left":"43.67882700234669%","top":"54.620636458752834%","width":"213.98321165525033px","height":"213.98321165525033px","animation":"float 15.231927876911067s ease-in-out infinite","animationDelay":"4.051761967574935s"}}],["$","div","9",{"className":"dot dot-sage","style":{"left":"77.04908430799257%","top":"33.903582029306214%","width":"482.55635689608164px","height":"482.55635689608164px","animation":"float 15.159992141263492s ease-in-out infinite","animationDelay":"14.20453021548007s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"58.09875879380453%","top":"7.532925147483871%","width":"339.54020527313685px","height":"339.54020527313685px","animation":"float 18.670447556220598s ease-in-out infinite","animationDelay":"4.99462136687487s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"7.555118288398943%","top":"66.35899967239551%","width":"459.47410789630413px","height":"459.47410789630413px","animation":"float 19.161478169844617s ease-in-out infinite","animationDelay":"4.448979523960703s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L4","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+4:["$","$Lc",null,{}]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$@12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$@14"}]}]}],null]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:T377a,<h1>11. 원시 값과 객체의 비교</h1>
+<ul>
+<li>원시 타입의 값, 즉 원시 값은 변경 불가능한 값(immutable value)이다. 이에 비해 객체(참조) 타입의 값, 즉 객체는 변경 가능한 값(mutable value)이다.</li>
+<li>원시 값을 변수에 할당하면 변수(확보된 메모리 공간)에는 실제 값이 저장된다. 이에 비해 객체를 변수에 할당하면 변수(확보된 메모리 공간)에는 참조 값이 저장된다.</li>
+<li>원시 값을 갖는 변수를 다른 변수에 할당하면 원본의 <strong>원시값이 복사되어 전달</strong>된다. 이를 값에 의한 전달(pass by value)이라 한다. 이에 비해 객체를 가리키는 변수를 다른 변수에 할당하면 원본의 <strong>참조 값이 복사되어 전달</strong>된다. 이를 참조에 의한 전달(pass by reference)이라 한다.</li>
+</ul>
+<h2>11.1. 원시 값</h2>
+<h3>11.1.1. 변경 불가능한 값</h3>
+<p>원시 타입의 값, 즉 원시 값은 변경 불가능한 값이다. 한번 생성된 원시 값은 읽기 전용 값으로서 변경할 수 없다.</p>
+<ul>
+<li>값을 변경할 수 없다는 것은, 변수에 저장된 데이터로서 표현식이 평가되어 생성된 결과로서의 값이 변경 불가능하다는 뜻이다.</li>
+<li>즉, 원시 값 자체를 변경할 수 없다는 것이지 변수 값을 변경할 수 없다는 것이 아니다. 변수는 언제든지 재할당을 통해 변수 값의 변경(교체) 가능하기 때문이다.</li>
+<li>이때, 상수와 변경 불가능한 값은 동일하지 않다. 상수는 재할당(값의 교체)가 금지된 변수일 뿐이다.</li>
+</ul>
+<pre><code class="language-js">// const 키워드를 사용해 선언한 변수는 재할당이 금지된다. 상수는 재할당이 금지된 변수일 뿐이다.
+const o = {};
+
+// const 키워드를 사용해 선언한 변수에 할당한 원시값(상수)은 변경할 수 없다.
+// 하지만 const 키워드를 사용해 선언한 변수에 할당한 객체는 변경할 수 있다.
+o.a = 1;
+console.log(o); // {a: 1}
+</code></pre>
+<p>원시 값을 할당한 변수에 새로운 원시 값을 재할당하면 메모리 공간에 저장되어 있는 재할당 이전의 원시 값을 변경하는 것이 아니라, 새로운 메모리 공간을 확보하고 재할당한 원시 값을 저장한 후 변수는 새롭게 재할당한 원시 값을 가리킨다. 이때, 변수가 참조하던 메모리 공간의 주소가 바뀐다.</p>
+<ul>
+<li>변수가 참조하던 메모리 공간의 주소가 변경된 이유는 변수에 할당된 원시 값이 변경 불가능한 값이기 때문이다. 이러한 특성은 값의 <strong>불변성</strong>(immutability)이라 한다.</li>
+<li>불변성을 갖는 원시 값을 할당한 변수는 재할당 이외에 변수 값을 변경할 수 있는 방법이 없다.</li>
+</ul>
+<h3>11.1.2. 문자열과 불변성</h3>
+<p>자바스크립트의 문자열은 원시 타입이며, 변경 불가능하다. 이것은 문자열이 생성된 이후에는 변경할 수 없음을 의미한다.</p>
+<pre><code class="language-js">var str = 'Hello';
+str = 'world';
+// 'Hello', 'world' 두 문자열 모두 메모리에 존재한다.
+// 식별자 str은 문자열 'Hello'를 가리키고 있다가 문자열 'world'를 카리키도록 변경
+</code></pre>
+<p>문자열은 유사 배열 객체이면소 이터러블이므로 배열과 유사하게 각 문자에 접근할 수 있다.</p>
+<pre><code class="language-js">var str = 'string';
+
+// 문자열은 유사 배열이므로 배열과 유사하게 인덱스를 사용해 각 문자에 접근할 수 있다.
+// 하지만 문자열은 원시값이므로 변경할 수 없다. 이때 에러가 발생하지 않는다.
+str[0] = 'S';
+
+console.log(str); // string
+</code></pre>
+<p>문자열은 변경 불가능한 값이기 때문에 한번 생성된 문자열은 일기 전용 값으로서 변경할 수 없다. 원시 값은 어떤 일이 있어도 불변하기에, 예기치 못한 변경으로부터 자유로워 데이터의 신뢰성을 보장한다.</p>
+<p>변수에 새로운 문자열을 재할당하는 것은 가능하다. 이는 기존 문자열을 변경하는 것이 아니라 새로운 문자열을 새롭게 할당하는 것이기 때문이다.</p>
+<h3>11.1.3. 값에 의한 전달</h3>
+<p>변수에 원시 값을 갖는 변수를 할당하면, 할당받는 변수에는 할당되는 변수의 원시 값이 복사되어 전달된다. 이를 값에 의한 전달(pass by value), 혹은 공유에 의한 전달(pass by sharing)이라 한다. 이때, <strong>값에 의해 전달된 값은 다른 메모리 공간에 저장된 별개의 값</strong>이다. 한쪽에서 재할당을 통해 값을 변경하더라도 서로 간섭할 수 없다.</p>
+<p>엄격하게 표현하면 변수에는 값이 전달되는 것이 아니라 <strong>메모리 주소</strong>가 전달된다. 변수와 같은 식별자는 값이 아닌 메모리 주소를 기억하고 있기 때문이다. 전달된 메모리 주소를 통해 메모리 공간에 접근하면 값을 참조할 수 있다.</p>
+<pre><code class="language-js">var score = 80;
+
+// copy 변수에는 score 변수의 값 80이 복사되어 할당된다.
+var copy = score;
+console.log(score, copy); // 80 80
+console.log(score === copy); // true
+
+// score 변수와 copy 변수의 값은 다른 메모리 공간에 저장된 별개의 값이다.
+// 따라서 score 변수의 값을 변경해도 copy 변수의 값에는 어떠한 영향도 주지 않는다.
+score = 100;
+console.log(score, copy); // 100 80
+</code></pre>
+<h2>11.2. 객체</h2>
+<p>객체는 프로퍼티의 개수가 정해져 있지 않으며, 동적으로 추가되고 삭제할 수 있다. 또한 프로퍼티의 값에도 제약이 없다. 따라서 객체는 원시 값과 같이 확보해야 할 메모리 공간의 크기를 사전에 정해 둘 수 없다. 원시 값은 상대적으로 적은 메모리를 소비하지만 객체는 경우에 따라 크기가 매우 클 수도 있다. 객체를 생성하고 프로퍼티에 접근하는 것도 원시 값과 비교할 때 비용이 많이 드는 일이다. 따라서 객체는 원시 값과는 다른 방식으로 동작하도록 설계되어 있다.</p>
+<h4>자바스크립트 객체의 관리 방식</h4>
+<p>자바스크립트 객체는 프로퍼티 키를 인덱스로 사용하는 해시 테이블(hash table, 연관 배열(associative array), map, dictionary, lookup table이라고도 부르기도 한다.)이라고 생각할 수 있다.</p>
+<p>자바스크립트는 클래스 없이 객체를 생성할 수 있으며, 객체가 생성된 이후라도 동적으로 프로퍼티와 메서드를 추가할 수 있다. 이는 이론적으로 클래스 기반 객체지향 프로그래밍 언어의 객체보다 성능적으로 생성과 프로퍼티 접근에 비용이 더 많이 드는 비효율적인 방식이다.</p>
+<p>따라서 V8 자바스크립트 엔진은 프로퍼티에 접근하기 위해 동적 탐색(dynamic lookup) 대신 히든 클래스(hidden class)라는 방식을 사용해 C++ 객체의 프로퍼티에 접근하는 정도의 성능을 보장한다. 히든 클래스는 자바와 같이 고정된 객체 레이아웃(클래스)와 유사하게 동작한다.</p>
+<h3>11.2.1. 변경 가능한 값</h3>
+<p>객체(참조) 타입의 값, 즉 객체는 변경 가능한 값(mutable value)이다.</p>
+<p>원시 값을 할당한 변수는 메모리 주소를 통해 메모리 공간에 접근하면 원시 값에 접근할 수 있다. 즉, 원시 값을 할당한 변수는 원시 값 자체를 값으로 갖지만, 
+객체를 할당한 변수가 기억하는 메모리 주소를 통해 메모리 공간에 접근하면 <strong>참조 값</strong>(reference value)에 접근할 수 있다. 참조 값은 생성된 객체가 저장된 메모리 공간의 주소라 할 수 있다.</p>
+<p>객체를 할당한 변수를 참조하면 메모리에 저장되어 있는 참조 값을 통해 실제 객체에 접근한다. "변수는 객체를 참조하고 있다" 또는 "변수는 객체를 가리키고(point) 있다"라고 표현한다.</p>
+<pre><code class="language-js">// 할당이 이뤄지는 시점에 객체 리터럴이 해석되고, 그 결과 객체가 생성된다.
+var person = {
+  name: 'Lee'
+};
+
+// person 변수에 저장되어 있는 참조값으로 실제 객체에 접근해서 그 객체를 반환한다.
+console.log(person); // {name: "Lee"}
+</code></pre>
+<p>원시 값과는 다르게 객체는 변경 가능한 값이기 때문에 객체를 할당한 변수는 <strong>재할당 없이 객체를 직접 변경</strong>할 수 있다. 즉, 재할당 없이 프로퍼티의 동적 추가, 프로퍼티 값의 갱신, 프로퍼티 자체의 삭제가 가능하다.</p>
+<p>원시 값을 갖는 변수의 값을 변경하려면 재할당을 통해 메모리에 원시 값을 새롭게 생성해야 하지만, 객체는 변경 가능한 값이므로 메모리에 저장된 객체를 직접 수정할 수 있다는 것이다. 이때 객체를 할당한 변수에 재할당 하지 않았으므로 객체를 할당한 변수의 참조 값은 변경되지 않는다.</p>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+// 프로퍼티 값 갱신
+person.name = 'Kim';
+
+// 프로퍼티 동적 생성
+person.address = 'Seoul';
+
+console.log(person); // {name: "Kim", address: "Seoul"}
+</code></pre>
+<p>객체를 생성하고 관리하는 방식은 매우 복잡하며 비용이 많이 드는 일이기 때문에 메모리의 효율적 소비가 어렵고 성능이 나빠진다.</p>
+<p>메모리를 효율적으로 사용하기 위해, 그리고 객체를 복사해 생성하는 비용을 절약하여 성능을 향상시키기 위해, 객체는 변경 가능한 값으로 설계되어 있는 것이다.</p>
+<p>객체는 이러한 구조적 단점에 따른 부작용이 있다. 원시 값과는 다르게 <strong>여러 개의 식별자가 하나의 객체를 공유할 수 있다</strong>는 것이다.</p>
+<h4>얕은 복사와 깊은 복사</h4>
+<ul>
+<li>얕은 복사 (shallow copy): 객체를 프로퍼티 값으로 갖는 객체의 경우 한 단계까지만 복사하는 것. 객체를 할당한 변수를 다른 변수에 할당하는 것.</li>
+<li>깊은 복사 (deep copy): 객체를 프로퍼티 값으로 갖는 객체의 경우 객체에 중첩되어 있는 객체까지 모두 복사하는 것. 원시 값을 할당한 변수를 다른 변수에 할당하는 것.</li>
+</ul>
+<p>모두 원본과는 다른 객체(참조 값이 다른 별개의 객체)이지만, 얕은 복사는 객체에 중첩되어 있는 객체의 경우 참조값을 복사하고, 깊은 복사는 객체에 중첩되어 있는 객체까지 모두 복사해서 원시 값처럼 완전한 복사본을 만든다.</p>
+<pre><code class="language-js">const o = { x: { y: 1 } };
+
+// 얕은 복사
+const c1 = { ...o }; // 35장 "스프레드 문법" 참고
+console.log(c1 === o); // false
+console.log(c1.x === o.x); // true
+
+// lodash의 cloneDeep을 사용한 깊은 복사
+// "npm install lodash"로 lodash를 설치한 후, Node.js 환경에서 실행
+const _ = require('lodash');
+// 깊은 복사
+const c2 = _.cloneDeep(o);
+console.log(c2 === o); // false
+console.log(c2.x === o.x); // false
+</code></pre>
+<h3>11.2.2. 참조에 의한 전달</h3>
+<p>객체는 여러 개의 식별자가 하나의 객체를 공유할 수 있으며, 이로 인해 부작용이 발생할 수 있다.</p>
+<p>객체를 가리키는 변수를 다른 변수에 할당하면 원본의 <strong>참조 값이 복사되어 전달</strong>된다. 이를 참조에 의한 전달이라 한다. 결국 저장된 메모리 주소는 다르지만 동일한 참조 값을 갖게 되어 모두 동일한 객체를 가리켜 두 개의 식별자가 하나의 객체를 공유하게 된다. 따라서 원본 또는 사본 중 어느 한쪽에서 객체를 변경(변수에 새로운 객체를 재할당하는 것이 아닌, 객체의 프로퍼티 값 변경이나 프로퍼티 추가/삭제)하면 서로 영향을 주고 받는다.</p>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+// 참조값을 복사(얕은 복사). copy와 person은 동일한 참조값을 갖는다.
+var copy = person;
+
+// copy와 person은 동일한 객체를 참조한다.
+console.log(copy === person); // true
+
+// copy를 통해 객체를 변경한다.
+copy.name = 'Kim';
+
+// person을 통해 객체를 변경한다.
+person.address = 'Seoul';
+
+// copy와 person은 동일한 객체를 가리킨다.
+// 따라서 어느 한쪽에서 객체를 변경하면 서로 영향을 주고 받는다.
+console.log(person); // {name: "Kim", address: "Seoul"}
+console.log(copy);   // {name: "Kim", address: "Seoul"}
+</code></pre>
+<p>결국 "참조에 의한 전달"은 <strong>식별자가 기억하는 메모리 공간에 저장되어 있는 값을 복사해서 전달한다</strong>는 면에서 "값에 의한 전달"과 동일하지만, 
+식별자가 기억하는 메모리 공간, 즉 변수에 저장되어 있는 값이 원시 값이 아닌 <strong>참조 값</strong>이라는 차이점이 있다.</p>
+<p>ESMAScript 사양에 정의된 자바스크립트의 공식적인 용어는 아니며 정확한 동작방식을 설명하지 못한다. 또한, "값에 의한 전달"과 "참조에 의한 전달" 모두 "<strong>공유에 의한 전달</strong>"이라고 표현하는 경우도 있다. 전달되는 값의 종류가 원시 값인지 참조 값인지 구별해서 강조하는 의미로 사용되는 용어로서 기억하자.</p>
+<pre><code class="language-js">var person1 = {
+  name: 'Lee'
+};
+
+var person2 = {
+  name: 'Lee'
+};
+
+// 두 변수가 가리키는 객체는 내용은 같지만 다른 메모리에 저장된 별개의 객체이므로,
+// 두 변수의 참조 값은 전혀 다른 값이다.
+console.log(person1 === person2); // false
+
+// 프로퍼티 값을 참조하는 person1.name, person2.name은 값으로 평가될 수 있는 표현식이며
+// 두 표현식 모두 원시 값 'Lee'로 평가된다.
+console.log(person1.name === person2.name); // true
+</code></pre>
+d:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}],"$L16"]}]}]}]
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+16:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+18:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L18","2",{}]]
+10:null

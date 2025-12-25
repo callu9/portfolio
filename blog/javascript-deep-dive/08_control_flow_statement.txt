@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","08_control_flow_statement"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/08_control_flow_statement","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"99.47965090059729%","top":"7.206029022378124%","width":"290.41653750453617px","height":"290.41653750453617px","animation":"float 18.26090490966963s ease-in-out infinite","animationDelay":"9.531753219891916s"}}],["$","div","1",{"className":"dot dot-coral","style":{"left":"65.16125732068059%","top":"9.951127756508416%","width":"376.45327428786425px","height":"376.45327428786425px","animation":"float 18.527910189350933s ease-in-out infinite","animationDelay":"16.155626451368978s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"59.25857967468416%","top":"19.79103170904475%","width":"466.9235805340444px","height":"466.9235805340444px","animation":"float 15.697574301531382s ease-in-out infinite","animationDelay":"4.288248731898772s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"93.40299917158438%","top":"34.09337531422896%","width":"281.94935289815976px","height":"281.94935289815976px","animation":"float 18.97760355510117s ease-in-out infinite","animationDelay":"1.6304773308396086s"}}],["$","div","4",{"className":"dot dot-peach","style":{"left":"87.92254638192902%","top":"14.516258966364282%","width":"213.97097629773626px","height":"213.97097629773626px","animation":"float 15.880325085356528s ease-in-out infinite","animationDelay":"1.9409305124126015s"}}],["$","div","5",{"className":"dot dot-coral","style":{"left":"46.14590503824822%","top":"64.61447469649109%","width":"483.94272788851987px","height":"483.94272788851987px","animation":"float 15.96027019424455s ease-in-out infinite","animationDelay":"4.050552151284891s"}}],["$","div","6",{"className":"dot dot-sage","style":{"left":"78.52410304986932%","top":"50.994783390426775%","width":"225.07401838730868px","height":"225.07401838730868px","animation":"float 19.172169824036146s ease-in-out infinite","animationDelay":"15.58064153276198s"}}],["$","div","7",{"className":"dot dot-peach","style":{"left":"54.698848334542035%","top":"29.245186749191966%","width":"439.7204651969687px","height":"439.7204651969687px","animation":"float 17.435268132033706s ease-in-out infinite","animationDelay":"0.3670630788274317s"}}],["$","div","8",{"className":"dot dot-coral","style":{"left":"84.3535293400001%","top":"81.15261069581221%","width":"378.04727179979557px","height":"378.04727179979557px","animation":"float 15.88196961954068s ease-in-out infinite","animationDelay":"3.118778251968137s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"86.52340404871791%","top":"20.732280857327368%","width":"352.10966155297785px","height":"352.10966155297785px","animation":"float 15.466507475713803s ease-in-out infinite","animationDelay":"3.3690610687049483s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"76.11600049728713%","top":"59.56688287047931%","width":"369.21894998576545px","height":"369.21894998576545px","animation":"float 19.073815697139338s ease-in-out infinite","animationDelay":"9.451972041041355s"}}],["$","div","11",{"className":"dot dot-peach","style":{"left":"83.48356276901842%","top":"30.110839391803324%","width":"446.6300592073094px","height":"446.6300592073094px","animation":"float 17.262995808473693s ease-in-out infinite","animationDelay":"7.595880124567992s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T23af,<h1>8장. 제어문</h1>
+<p>제어문(control flow statement)은 조건에 따라 코드 블록을 실행(조건문)하거나 반복 실행(반복문)할 때 사용한다. 일반적으로 코드는 위에서 아래 방향으로 순차적으로 실행되는데, 제어문을 사용하면 코드의 실행 흐름을 인위적으로 제어할수 있다.
+하지만 코드의 실행 순서가 변경된다는 것은 단순히 위에서 아래로 순차적으로 진행하는 직관적인 코드의 흐름을 혼란스럽게 만든다. 따라서 제어문은 코드의 흐름을 이해하기 어렵게 만들어 가독성을 해치는 단점이 있다. 가독성이 좋지 않은 코드는 오류를 발생시키는 원인이 된다.</p>
+<ul>
+<li>(참고) forEach, map, filter, reduce 같은 고차 함수를 사용한 함수형 프로그래밍 기법에서는 제어문의 사용을 억제하여 복잡성을 해결하려고 노력한다.</li>
+</ul>
+<h2>8.1. 블록문</h2>
+<p>블록문(block statement/compound statement)은 0개 이상의 문을 중괄호로 묶은 것으로, 코드 블록 또는 블록이라고 부르기도 한다. 자바스크립트는 블록문을 하나의 실행 단위로 취급한다. 블록문은 단독으로 사용할 수도 있으나 일반적으로 제어문이나 함수를 정의할 때 사용하는 것이 일반적이다.</p>
+<p>주의: 블록문은 언제나 문의 종료를 의미하는 자체 종결성을 갖기 때문에 블록문의 끝에는 세미콜론을 붙이지 않는다.</p>
+<pre><code class="language-js">// 블록문
+{
+  var foo = 10;
+}
+
+// 제어문
+var x = 1;
+if (x &#x3C; 10) {
+  x++;
+}
+
+// 함수 선언문
+function sum(a, b) {
+  return a + b;
+}
+</code></pre>
+<h2>8.2. 조건문</h2>
+<p>조건문(conditional statement)은 주어진 조건식(conditional expression)의 평가 결과에 따라 코드 블록(블록문)의 실행을 결정한다.</p>
+<ul>
+<li>조건식: boolean 값으로 평가될 수 있는 표현식</li>
+</ul>
+<h3>8.2.1. if ... else 문</h3>
+<p><code>if ... else</code> 문은 주어진 조건식(불리언 값으로 평가될 수 있는 표현식)의 평가 결과, 즉논리적 참 또는 거짓
+에 따라 실행할 코드 블록을 결정한다. 조건식의 평가 결과가 true일 경우 <code>if</code> 문의 코드 블록이 실행되고,
+false일 경우 <code>else</code> 문의 코드 블록이 실행된다.</p>
+<pre><code class="language-js">if (조건식1) {
+  // 조건식1이 참이면 이 코드 블록이 실행된다.
+} else if (조건식2) {
+  // 조건식2이 참이면 이 코드 블록이 실행된다.
+} else {
+  // 조건식1과 조건식2가 모두 거짓이면 이 코드 블록이 실행된다.
+}
+</code></pre>
+<p>만약 <code>if</code> 문의 조건식이 불리언 값이 아닌 값으로 평가되면, 자바스크립트 엔진에 의해 암묵적으로 불리언 값으로 강제 변환되어 실행할 코드 블록을 결정한다.
+(<a href="./09_type_conversion_and_short_circuit_evaluation.md#92-%EC%95%94%EB%AC%B5%EC%A0%81-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98">9.2. 암묵적 타입 변환</a> 참고)</p>
+<p>대부분의 <code>if ... else</code> 문은 <strong>삼항 조건 연산자</strong>로 바꿔 쓸 수 있다.</p>
+<ul>
+<li>(참고) 삼항 조건 연산자는 값으로 평가되는 표현식을 만든다. 따라서 삼항 조건 연산자 표현식은 값처럼 사용할 수 있기 때문에 변수에 할당할 수 있다.</li>
+</ul>
+<pre><code class="language-js">var num = 2;
+
+// 0은 false로 취급된다.
+var kind = num ? (num > 0 ? "양수" : "음수") : "영";
+console.log(kind); // 양수
+</code></pre>
+<h3>8.2.2. switch 문</h3>
+<p><code>switch</code> 문은 주어진 표현식을 평가하여 그 값과 일치하는 표현식을 갖는 <code>case</code> 문으로 실행 흐름을 옮긴다.
+<code>case</code> 문은 상황(case)을 의미하는 표현식을 지정하고 콜론으로 마친다. 그리고 그 뒤에 실행할 문들을 위치시킨다. <code>switch</code> 문의 표현식과 일치하는 <code>case</code> 문이 없다면 실행 순서는 <code>default</code> 문으로 이동한다. <code>default</code> 문은 선택사항으로, 사용할 수도 있고 사용하지 않을 수도 있다.</p>
+<pre><code class="language-js">switch (표현식) {
+  case 표현식1:
+    // switch 문의 표현식과 표현식1이 일치하면 실행될 문;
+    break;
+  case 표현식2:
+    // switch 문의 표현식과 표현식2가 일치하면 실행될 문;
+    break;
+  default:
+  // switch 문의 표현식과 일치하는 case 문이 없을 때 실행될 문;
+}
+</code></pre>
+<ul>
+<li>
+<p>(참고) <code>break;</code>를 사용하지 않고 <code>switch</code> 문이 끝날 때까지 이후의 모든 <code>case</code> 문과 <code>default</code> 문을 실행한 경우를 폴스루(fall through)라고 한다.</p>
+</li>
+<li>
+<p><code>if ... else</code> 문은 논리적 참, 거짓으로 실행할 코드 블록을 결정한다.</p>
+</li>
+<li>
+<p><code>switch</code> 문은 다양한 상황(case)에 따라 실행할 코드 블록을 결정할 때 사용한다. (불리언 값보다는 문자열이나 숫자 값인 경우가 많다)</p>
+</li>
+</ul>
+<h2>8.3. 반복문</h2>
+<p>반복문(loop statement)은 조건식의 평가 결과가 참인 경우 코드 블록을 실행한다. 그 후 조건식을 다시 평가하여 여전히 참인 경우 코드 블록을 다시 실행하고, 이는 조건식이 거짓일 때까지 반복된다.</p>
+<h3>8.3.1. for 문</h3>
+<p><code>for</code> 문의 형태</p>
+<pre><code class="language-js">for (변수 선언문 또는 할당문; 조건식; 증감식) {
+  // 조건식이 참인 경우 반복 실행될 문;
+}
+</code></pre>
+<p>일반적인 예제</p>
+<pre><code class="language-js">for (var i = 0; i &#x3C; 2; i++) {
+  console.log(i);
+}
+// 0
+// 1
+</code></pre>
+<p>어떤 식도 선언하지 않으면 무한루프가 된다.</p>
+<pre><code class="language-js">//무한루프
+for (;;) { ... }
+</code></pre>
+<p>중첩 <code>for</code> 문</p>
+<pre><code class="language-js">for (var i = 1; i &#x3C;= 6; i++) {
+  for (var j = 1; j &#x3C;= 6; j++) {
+    if (i + j === 6) console.log(`[${i}, ${j}]`);
+  }
+}
+</code></pre>
+<h3>8.3.2. while 문</h3>
+<p><code>while</code> 문은 주어진 조건식의 평가 결과가 참이면 코드 블록을 계속해서 반복 실행한다. <code>for</code> 문은 반복 횟수가 명확할 때 주로 사용하고, <code>while</code> 문은 반복 횟수가 불명확할 때 주로 사용한다.</p>
+<p>일반적인 예제</p>
+<pre><code class="language-js">var count = 0;
+// 무한루프
+while (true) {
+  console.log(count);
+  count++;
+  // count가 3이면 코드 블록을 탈출한다.
+  if (count === 3) break;
+} // 0 1 2
+</code></pre>
+<p>조건식의 평가 결과가 언제나 참이면 무한루프가 된다.</p>
+<pre><code class="language-js">//무한루프
+for (;;) { ... }
+</code></pre>
+<h3>8.3.3. do ... while 문</h3>
+<p><code>do ... while</code> 문은 코드 블록을 먼저 실행하고 조건식을 평가한다. 따라서 코드 블록은 무조건 한 번 이상 실행된다.</p>
+<pre><code class="language-js">var count = 0;
+// count가 3보다 작을 때까지 코드 블록을 계속 반복 실행한다.
+do {
+  console.log(count); // 0 1 2
+  count++;
+} while (count &#x3C; 3);
+</code></pre>
+<h2>8.4. break 문</h2>
+<p><code>break</code> 문은 레이블 문, 반복문(<code>for</code>, <code>for ... in</code>, <code>for ... of</code>, <code>while</code>, <code>do ... while</code>) 또는 <code>switch</code> 문의 코드 블록을 탈출한다. 레이블 문, 반복문, <code>switch</code> 문의 코드 블록 외에 <code>break</code> 문을 사용하면 SyntaxError(문법 에러)가 발생한다.</p>
+<pre><code class="language-js">if (true) {
+  break; // Uncaught SyntaxError: Illegal break statement
+}
+
+// foo라는 식별자가 붙은 레이블 블록문
+foo: {
+  console.log(1);
+  break foo; // foo 레이블 블록문을 탈출한다.
+  console.log(2);
+}
+console.log('Done!');
+
+// outer라는 식별자가 붙은 레이블 for 문
+outer: for (var i = 0; i &#x3C; 3; i++) {
+  for (var j = 0; j &#x3C; 3; j++) {
+    // i + j === 3이면 outer라는 식별자가 붙은 레이블 for 문을 탈출한다.
+    if (i + j === 3) break outer;
+    console.log (`inner [${ i }, ${j }]`) ;
+  }
+}
+console.log('Done!');
+</code></pre>
+<h2>8.5. continue 문</h2>
+<p><code>continue</code> 문은 반복문의 코드 블록 실행을 현 지점에서 중단하고 반복문의 증감식으로 실행 흐름을 이동시킨다. <code>break</code> 문처럼 반복문을 탈출하지는 않는다.</p>
+<pre><code class="language-js">var string = "Hello World.";
+var search = "l";
+var count = 0;
+
+// 문자열은 유사 배열이므로 for 문으로 순회할 수 있다.
+for (var i = 0; i &#x3C; string.length; i++) {
+  // 'l'이 아니면 현 지점에서 실행을 중단하고 반복문의 증감식으로 이동한다.
+  if (string[i] !== search) continue;
+  count++; // continue 문이 실행되면 이 문은 실행되지 않는다.
+}
+console.log(count); // 3
+</code></pre>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

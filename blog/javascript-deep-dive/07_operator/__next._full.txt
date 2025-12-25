@@ -1,0 +1,396 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","07_operator"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/07_operator","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-sage","style":{"left":"77.52877701131418%","top":"73.45563716892562%","width":"301.0242285597295px","height":"301.0242285597295px","animation":"float 18.874463583709538s ease-in-out infinite","animationDelay":"10.463837800063676s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"35.40976283751196%","top":"53.49629018644488%","width":"484.2091248593341px","height":"484.2091248593341px","animation":"float 19.584781779324693s ease-in-out infinite","animationDelay":"13.117169514498386s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"70.22512170489388%","top":"97.19540633574107%","width":"341.4554191240543px","height":"341.4554191240543px","animation":"float 18.844708784159284s ease-in-out infinite","animationDelay":"1.4209251146183863s"}}],["$","div","3",{"className":"dot dot-sage","style":{"left":"66.26672931565079%","top":"82.31067493602929%","width":"459.34352269831186px","height":"459.34352269831186px","animation":"float 18.287960220622313s ease-in-out infinite","animationDelay":"10.166004630482993s"}}],["$","div","4",{"className":"dot dot-sage","style":{"left":"1.3919025225894721%","top":"43.951760011928734%","width":"368.90037849639356px","height":"368.90037849639356px","animation":"float 18.259671118500947s ease-in-out infinite","animationDelay":"2.827433408988833s"}}],["$","div","5",{"className":"dot dot-coral","style":{"left":"36.65009033948026%","top":"21.562502347915945%","width":"472.48477373206697px","height":"472.48477373206697px","animation":"float 17.420936987251533s ease-in-out infinite","animationDelay":"10.564214659288066s"}}],["$","div","6",{"className":"dot dot-coral","style":{"left":"85.03459057003751%","top":"81.71394408922023%","width":"265.8589669550454px","height":"265.8589669550454px","animation":"float 16.75464245206281s ease-in-out infinite","animationDelay":"0.6810338718259025s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"42.24377716035672%","top":"77.39837112917745%","width":"368.80229330349243px","height":"368.80229330349243px","animation":"float 19.03757972896825s ease-in-out infinite","animationDelay":"9.940232634028595s"}}],["$","div","8",{"className":"dot dot-sage","style":{"left":"12.313213506700116%","top":"1.6252855343780626%","width":"263.37105674854286px","height":"263.37105674854286px","animation":"float 18.677713980028454s ease-in-out infinite","animationDelay":"13.687748565924831s"}}],["$","div","9",{"className":"dot dot-coral","style":{"left":"24.107601003086245%","top":"31.71434182653403%","width":"429.4791347346295px","height":"429.4791347346295px","animation":"float 18.571725191260725s ease-in-out infinite","animationDelay":"4.433166627826126s"}}],["$","div","10",{"className":"dot dot-mint","style":{"left":"70.51025591771469%","top":"89.53338746983954%","width":"268.16749884069833px","height":"268.16749884069833px","animation":"float 19.96511695044709s ease-in-out infinite","animationDelay":"7.5416735271023105s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"13.182114802545808%","top":"71.59423124072728%","width":"283.6719328938812px","height":"283.6719328938812px","animation":"float 16.292388318579945s ease-in-out infinite","animationDelay":"6.759181221728536s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T48aa,<h1>7. 연산자</h1>
+<ul>
+<li>연산자 (operator): 하나 이상의 표현식을 대상으로 연산을 수행해 하나의 값을 만든다.
+<ul>
+<li>산술, 할당, 비교, 논리, 타입, 지수 연산 등</li>
+</ul>
+</li>
+<li>피연산자 (operand): 연산의 대상. 피연산자는 값으로 평가될 수 있는 표현식이어야 한다.</li>
+<li>피연산자와 연산자의 조합으로 이뤄진 연산자 표현식도 값으로 평가될 수 있는 표현식이다.</li>
+</ul>
+<pre><code class="language-js">// 산술 연산자
+5 * 4 // → 20
+
+// 문자열 연결 연산자
+'My name is ' + 'Lee' // → 'My name is Lee'
+
+// 할당 연산자
+color = 'red' // → 'red'
+
+// 비교 연산자
+3 > 5 // → false
+
+// 논리 연산자
+true &#x26;&#x26; false // → false
+
+// 타입 연산자
+typeof 'Hi' // → string
+</code></pre>
+<h2>7.1. 산술 연산자</h2>
+<p>산술 연산자 (arithmetic operator)</p>
+<ul>
+<li>피연산자를 대상으로 수학적 계산을 수행해 새로운 숫자 값을 만든다.</li>
+<li>산술 연산이 불가능한 경우, <code>NaN</code>을 반환한다.</li>
+</ul>
+<h3>7.1.1. 이항 산술 연산자</h3>
+<p>이항(binary) 산술 연산자는 2개의 피연산자를 산술 연산하여 숫자 값을 만든다.</p>
+<p>모든 이항 연산자는 피연산자의 값을 변경하는 부수 효과 (side effect)가 없다.</p>
+<p>| 이항 산술 연산자 | 의미 | 부수 효과 |
+| --- | --- | --- |
+| <code>+</code> | 덧셈 | X |
+| <code>-</code> | 뺄셈 | X |
+| <code>*</code> | 곱셈 | X |
+| <code>/</code> | 나눗셈 | X |
+| <code>%</code> | 나머지 | X |</p>
+<h3>7.1.2. 단항 산술 연산자</h3>
+<p>단항(unary) 산술 연산자는 1개의 피연산자를 산술 연산하여 숫자 값을 만든다.</p>
+<p>| 단항 산술 연산자 | 의미 | 부수 효과 |
+| --- | --- | --- |
+| <code>+</code> | 어떠한 효과도 없다. 음수를 양수로 반전하지도 않는다. | X |
+| <code>-</code> | 양수를 음수로, 음수를 양수로 반전한 값을 반환한다. | X |
+| <code>++</code> | 증가 | O |
+| <code>--</code> | 감소 | O |</p>
+<p><code>+</code> 단항 연산자는 어떠한 효과가 없으며, <code>-</code> 단항 연산자는 숫자 부호를 반전시킨다. 또한 두 연산자 모두 숫자 타입이 아닌 피연산자에 사용하면 숫자 타입으로 변환한 값을 생성해 반환한다. 따라서 부수 효과는 없다.</p>
+<p>증가/감소(<code>++</code>/<code>--</code>) 연산자는 피연산자의 값을 변경하는 부수 효과가 있다. 
+다시 말해, 증가/감소 연산을 하면 피연산자의 값을 변경하는 암묵적 할당이 이루어진다.</p>
+<pre><code class="language-js">var x = 1;
+
+// ++ 연산자는 피연산자의 값을 변경하는 암묵적 할당이 이뤄진다.
+x++; // x = x + 1;
+console.log(x); // 2
+
+// -- 연산자는 피연산자의 값을 변경하는 암묵적 할당이 이뤄진다.
+x--; // x = x - 1;
+console.log(x); // 1
+</code></pre>
+<h4>증가/감소 연산자 위치에 따른 의미</h4>
+<ul>
+<li>전위 증가/감소 연산자 (prefix increment/decrement operator): 피연산자 앞에 위치. 먼저 피연산자의 값을 증가/감소 시킨 후, 다른 연산을 수행</li>
+<li>후위 증가/감소 연산자 (postfix increment/decrement operator): 피연산자 뒤에 위치. 먼저 다른 연산을 수행한 후, 피연산자의 값을 증가/감소</li>
+</ul>
+<pre><code class="language-js">var x = 5, result;
+
+// 선할당 후증가(postfix increment operator)
+result = x++;
+console.log(result, x); // 5 6
+
+// 선증가 후할당(prefix increment operator)
+result = ++x;
+console.log(result, x); // 7 7
+
+// 선할당 후감소(postfix decrement operator)
+result = x--;
+console.log(result, x); // 7 6
+
+// 선감소 후할당 (prefix decrement operator)
+result = --x;
+console.log(result, x); // 5 5
+</code></pre>
+<h3>7.1.3. 문자열 연결 연산자</h3>
+<p><code>+</code> 연산자는 피연산자 중 하나 이상이 문자열인 경우 문자열 연결 연산자로 동작한다.</p>
+<pre><code class="language-js">// 문자열 연결 연산자
+'1' + 2; // → '12'
+1 + '2'; // → '12'
+
+// 산술 연산자
+1 + 2; // → 3
+</code></pre>
+<h4>암묵적 타입 변환 예시</h4>
+<p><code>1 + true</code>를 연산하면 자바스크립트 엔진은 암묵적으로 불리언 타입의 값인 <code>true</code>를 숫자 타입인 <code>1</code>로 타입을 강제로 변환한 후 연산을 수행한다. 이를 암묵적 타입 변환 (implicit coercion) 또는 타입 강제 변환 (type coercion)이라고 한다.</p>
+<ul>
+<li><a href="./09_type_conversion_and_short_circuit_evaluation.md">9. 타입 변환과 단축 평가</a> 참고</li>
+</ul>
+<pre><code class="language-js">// true는 1로 타입 변환된다.
+1 + true; // → 2
+
+// false는 0으로 타입 변환된다.
+1 + false; // → 1
+
+// null은 0으로 타입 변환된다.
+1 + null; // → 1
+
+// undefined는 숫자로 타입 변환되지 않는다.
++undefined;    // → NaN
+1 + undefined; // → NaN
+</code></pre>
+<h2>7.2. 할당 연산자</h2>
+<p>할당 연산자 (assignment operator)</p>
+<ul>
+<li>우항에 있는 피연산자의 평가 결과를 좌항에 있는 변수에 할당한다.</li>
+<li>할당 연산자는 좌항의 변수에 값을 할당하므로 변수 값이 변하는 부수 효과가 있다.</li>
+<li>할당문은 <strong>값으로 평가되는 표현식인 문으로서 할당된 값으로 평가</strong>된다.</li>
+</ul>
+<p>| 할당 연산자 | 예 | 동일 표현 | 부수 효과 |
+| --- | --- | --- | --- |
+| <code>=</code> | <code>x = 5</code> | <code>x = 5</code> | O |
+| <code>+=</code> | <code>x += 5</code> | <code>x = x + 5</code> | O |
+| <code>-=</code> | <code>x -= 5</code> | <code>x = x - 5</code> | O |
+| <code>*=</code> | <code>x *= 5</code> | <code>x = x * 5</code> | O |
+| <code>/=</code> | <code>x /= 5</code> | <code>x = x / 5</code> | O |
+| <code>%=</code> | <code>x %= 5</code> | <code>x = x % 5</code> | O |</p>
+<pre><code class="language-js">var x;
+
+x = 10;
+console.log(x); // 10
+
+x += 5; // x = x + 5;
+console.log(x); // 15
+
+x -= 5; // x = x - 5;
+console.log(x); // 10
+
+x *= 5; // x = x * 5;
+console.log(x); // 50
+
+x /= 5; // x = x / 5;
+console.log(x); // 10
+
+x %= 5; // x = x % 5;
+console.log(x); // 0
+
+var str = 'My name is ';
+
+// 문자열 연결 연산자
+str += 'Lee'; // str = str + 'Lee';
+console.log(str); // 'My name is Lee'
+</code></pre>
+<h2>7.3. 비교 연산자</h2>
+<p>비교 연산자 (comparison operator)</p>
+<ul>
+<li>좌항과 우항의 피연산자를 비교한 다음 그 결과를 불리언 값으로 반환한다.</li>
+<li>비교 연산자는 if 문이나 for 문과 같은 제어문의 조건식에서 주로 사용한다.</li>
+</ul>
+<h3>7.3.1. 동등/일치 비교 연산자</h3>
+<p>동등 비교(loose equality) 연산자와 일치 비교(strict equality) 연산자</p>
+<ul>
+<li>좌항과 우항의 피연산자가 같은 값으로 평가되는지 비료해 불리언 값을 반환한다.</li>
+<li>동등 비교 연산자는 느슨한 비교를 하지만, 일치 비교 연산자는 엄격한 비교를 한다.</li>
+</ul>
+<p>| 비교 연산자 | 의미 | 사례 | 설명 | 부수효과 |
+| --- | --- | --- | --- | --- |
+| <code>==</code> | 동등 비교 | <code>x == y</code> | x와 y의 값이 같음 | X |
+| <code>===</code> | 일치 비교 | <code>x === y</code> | x와 y의 값과 타입이 같음 | X |
+| <code>!=</code> | 부동등 비교 | <code>x != y</code> | x와 y의 값이 다름 | X |
+| <code>!==</code> | 불일치 비교 | <code>x !== y</code> | x와 y의 값과 타입이 다름 | X |</p>
+<ul>
+<li>동등 비교(<code>==</code>) 연산자는 좌항과 우항의 피연산자를 비교할 때 먼저 <strong>암묵적 타입 변환</strong>을 통해 타입을 일치시킨 후 같은 값인지 비교한다. 예측하기 어렵다.</li>
+<li>일치 비교(<code>===</code>) 연산자는 좌항과 우항의 피연산자가 타입도 같고 값도 같은 경우에 한하여 true를 반환하며, 암묵적 타입 변환을 하지 않고 값을 비교한다. 예측하기 쉽다.
+<ul>
+<li>주의: <code>NaN</code>은 자신과 일치하지 않는 유일한 값이다.
+숫자가 <code>NaN</code>인지 조사하려면 빌트인 함수 <code>Number.isNaN</code>을 사용한다.</li>
+<li>주의: 양의 0과 음의 0을 동등/일치 비교 시 true를 반환한다.</li>
+</ul>
+</li>
+</ul>
+<h4><code>Object.is</code> 메서드</h4>
+<p>ES6에서 도입된 <code>Object.is</code> 메서드는 다음과 같이 예측 가능한 정확한 비교 결과를 반환한다. 그 외에는 일치 비교 연산자(<code>===</code>)와 동일하게 동작한다.</p>
+<pre><code class="language-js">-0 === +0;         // → true
+Object.is(-0, +0); // → false
+
+NaN === NaN;         // → false
+Object.is(NaN, NaN); // → true
+</code></pre>
+<h3>7.3.2. 대소 관계 비교 연산자</h3>
+<p>대소 관계 비교 연산자</p>
+<ul>
+<li>피연산자의 크기를 비교하여 불리언 값을 반환한다.</li>
+</ul>
+<p>| 대소 관계 비교 연산자 | 예제 | 설명 | 부수효과 |
+| --- | --- | --- | --- |
+| <code>></code> | <code>x > y</code> | x가 y보다 크다 | X |
+| <code>&#x3C;</code> | <code>x &#x3C; y</code> | x가 y보다 작다 | X |
+| <code>>=</code> | <code>x >= y</code> | x가 y보다 크거나 같다 | X |
+| <code>&#x3C;=</code> | <code>x &#x3C;= y</code> | x가 y보다 작거나 같다 | X |</p>
+<h2>7.4. 삼항 조건 연산자</h2>
+<p>삼항 조건 연산자 (ternary operator)</p>
+<ul>
+<li>조건식의 평가 결과에 따라 반환할 값을 결정한다. 부수 효과는 없다.</li>
+</ul>
+<pre><code class="language-js">// 삼항 조건 연산자 표현식
+조건식 ? 조건식이 true일 때 반환할 값 : 조건식이 false일 때 반환할 값
+</code></pre>
+<ul>
+<li>첫 번째 피연산자가 <code>true</code>로 평가되면 두 번째 피연산자를 반환하고,
+첫 번째 피연산자가 <code>false</code>로 평가되면 세 번째 피연산자를 반환한다.
+즉, 삼항 조건 연산자는 두 번째 피연산자 또는 세 번째 피연산자로 평가되는 표현식이다.</li>
+<li>삼항 조건 연산자 표현식과 <code>if ... else</code> 문의 비교:
+<ol>
+<li>삼항 조건 연산자 표현식은 값으로 평가할 수 있는 표현식인 문이지만, <code>if ... else</code>문은 값처럼 사용할 수 없다.</li>
+<li>조건에 따라 어떤 값을 결정해야 한다면 삼항 조건 연산자 표현식을, 조건에 따라 수행해야 할 문이 여러 개라면 <code>if ... else</code>문을 사용</li>
+</ol>
+</li>
+</ul>
+<h2>7.5. 논리 연산자</h2>
+<p>논리 연산자 (logical operator)</p>
+<ul>
+<li>우항과 좌항의 피연산자를 논리 연산 한다.</li>
+<li>논리 부정 연산자의 경우 우항의 피연산자를 논리 연산 하여 언제나 불리언 값을 반환한다. 이때, 피연산자가 불리언 값이 아니면 불리언 타입으로 암묵적 타입 변환한다.</li>
+<li>논리합 또는 논리곱 연산자 표현식의 평가 결과는 불리언 값이 아닐 수도 있으며, 언제나 2개의 피연산자 중 어느 한쪽으로 평가된다. (<a href="./09_type_conversion_and_short_circuit_evaluation.md#94-%EB%8B%A8%EC%B6%95-%ED%8F%89%EA%B0%80">9.4. 단축 평가</a> 참고)</li>
+</ul>
+<p>| 논리 연산자 | 의미 | 부수효과 |
+| --- | --- | --- |
+| <code>\|\|</code> | 논리합(OR) | X |
+| <code>&#x26;&#x26;</code> | 논리곱(AND) | X |
+| <code>!</code> | 부정(NOT) | X |</p>
+<h3>드 모르간의 법칙</h3>
+<p>논리 연산자로 구성된 복잡한 표현식의 가독성을 높이기 위해 드 모르간의 법칙을 활용해보자.</p>
+<pre><code class="language-js">!(x || y) === (!x &#x26;&#x26; !y)
+!(x &#x26;&#x26; y) === (!x || !y)
+</code></pre>
+<h2>7.6. 쉼표 연산자</h2>
+<p>쉼표(<code>,</code>) 연산자</p>
+<ul>
+<li>왼쪽 피연산자부터 차례대로 피연산자를 평가하고 
+마지막 피연산자의 평가가 끝나면 마지막 피연산자의 평가 결과를 반환한다.</li>
+</ul>
+<pre><code class="language-js">var x, y, z;
+
+x = 1, y = 2, z = 3; // 3
+</code></pre>
+<h2>7.7. 그룹 연산자</h2>
+<p>소괄호(<code>()</code>)로 피연산자를 감싸는 그룹 연산자</p>
+<ul>
+<li>자신의 피연산자인 표현식을 가장 먼저 평가한다.
+그룹 연산자 활용 시 연산자의 우선순위를 조절할 수 있으며, 연산자 우선순위가 가장 높다.</li>
+</ul>
+<pre><code class="language-js">10 * 2 + 3; // → 23
+
+// 그룹 연산자를 사용하여 우선순위를 조절
+10 * (2 + 3); // → 50
+</code></pre>
+<h2>7.8. typeof 연산자</h2>
+<p>typeof 연산자</p>
+<ul>
+<li>피연산자의 데이터 타입을 문자열로 반환
+(<code>"string"</code>, <code>"number"</code>, <code>"boolean"</code>, <code>"undefined"</code>, <code>"symbol"</code>, <code>"object"</code>, <code>"function"</code>)</li>
+<li><code>"null"</code>을 반환하는 경우는 없다. <code>typeof null</code>은 <code>"object"</code>를 반환하기 때문에 
+null 타입 확인은 일치 연산자(<code>===</code>)를 사용하자.</li>
+</ul>
+<pre><code class="language-js">typeof ''              // → "string"
+typeof 1               // → "number"
+typeof NaN             // → "number"
+typeof true            // → "boolean"
+typeof undefined       // → "undefined"
+typeof Symbol()        // → "symbol"
+typeof function () {}  // → "function"
+
+typeof []              // → "object"
+typeof {}              // → "object"
+typeof new Date()      // → "object"
+typeof /test/gi        // → "object"
+
+// null을 반환하는 경우는 없다.
+typeof null             // → "object"
+
+var foo = null;
+typeof foo === null;    // → false
+foo === null;           // → true
+
+// undeclared 식별자를 선언한 적이 없다.
+// 선언하지 않은 식별자를 typeof 연산 시 ReferenceError 발생하지 않고, undefined 반환한다.
+typeof undeclared;      // → undefined
+</code></pre>
+<h2>7.9. 지수 연산자</h2>
+<p>지수 연산자 (<code>**</code>)</p>
+<ul>
+<li>좌항의 피연산자를 밑(base)으로, 우항의 피연산자를 지수(exponent)로 거듭 제곱하여 숫자 값을 반환한다.</li>
+<li>ES7에서 도입되었으며, 도입 이전에는 <code>Math.pow</code> 메서드를 사용했다. 지수 연산자의 가독성이 더 좋다.</li>
+<li>할당 연산자와 함께 사용할 수 있으며, 이항 연산자 중 우선순위가 가장 높다.</li>
+</ul>
+<pre><code class="language-js">// 지수 연산자의 결합 순서는 우항에서 좌항이다. 즉, 우결합성을 갖는다.
+2 ** (3 ** 2);                // → 512
+Math.pow(2, Math.pow(3, 2));  // → 512
+
+-5 ** 2;    // SyntaxError 발생
+// SyntaxError: Unary operator used immediately before exponentiation expression.
+// Parenthesis must be used to disambiguate operator precedence
+
+// 음수를 거듭제곱의 밑으로 사용해 계산하려면 괄호로 묶어야 한다.
+(-5) ** 2;  // → 25
+
+var num = 5;
+num **= 2;  // → 25
+
+2 * 5 ** 2; // → 50
+</code></pre>
+<h2>7.10. 그 외의 연산자</h2>
+<p>| 연산자 | 개요 | 참고 |
+| --- | --- | --- |
+| <code>?.</code> | 옵셔널 체이닝 연산자 | <a href="./09_type_conversion_and_short_circuit_evaluation.md#942-%EC%98%B5%EC%85%94%EB%84%90-%EC%B2%B4%EC%9D%B4%EB%8B%9D-%EC%97%B0%EC%82%B0%EC%9E%90">9.4.2. 옵셔널 체이닝 연산자</a> |
+| <code>??</code> | null 병합 연산자 | <a href="./09_type_conversion_and_short_circuit_evaluation.md#943-null-%EB%B3%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90">9.4.3. null 병합 연산자</a> |
+| <code>delete</code> | 프로퍼티 삭제 | <a href="./10_object_literal.md#108-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-%EC%82%AD%EC%A0%9C">10.8. 프로퍼티 삭제</a> |
+| <code>new</code> | 생성자 함수를 호출할 때 사용하여 인스턴스를 생성 | <a href="./17_object_by_constructor.md#1726-new-%EC%97%B0%EC%82%B0%EC%9E%90">17.2.6. new 연산자</a> |
+| <code>instanceof</code> | 좌변의 객체가 우변의 생성자 함수와 연결된 인스턴스인지 판별 | <a href="./19_prototype.md#1910-instanceof-%EC%97%B0%EC%82%B0%EC%9E%90">19.10. instanceof 연산자</a> |
+| <code>in</code> | 프로퍼티 존재 확인 | <a href="./19_prototype.md#19131-in-%EC%97%B0%EC%82%B0%EC%9E%90">19.13.1. in 연산자</a> |</p>
+<h2>7.11. 연산자의 부수 효과</h2>
+<p>부수 효과가 있는 연산자</p>
+<ul>
+<li>할당 연산자 (<code>=</code>)</li>
+<li>증가/감소 연산자(<code>++</code>/<code>--</code>)</li>
+<li><code>delete</code> 연산자</li>
+</ul>
+<pre><code class="language-js">var x;
+
+// 할당 연산자는 변수 값이 변하는 부수 효과가 있다.
+// 이는 x 변수를 사용하는 다른 코드에 영향을 준다.
+x = 1;
+console.log(x); // 1
+
+// 증가/감소 연산자(++/--)는 피연산자의 값을 변경하는 부수 효과가 있다.
+// 피연산자 x의 값이 재할당되어 변경된다. 이는 x 변수를 사용하는 다른 코드에 영향을 준다.
+x++;
+console.log(x); // 2
+
+var o = { a: 1 };
+
+// delete 연산자는 객체의 프로퍼티를 삭제하는 부수 효과가 있다.
+// 이는 o 객체를 사용하는 다른 코드에 영향을 준다.
+delete o.a;
+console.log(o); // {}
+</code></pre>
+<h2>7.12. 연산자 우선순위</h2>
+<p>| 우선순위 | 연산자 |
+| --- | --- |
+| 1 | <code>()</code> |
+| 2 | <code>new</code>(매개변수 존재), <code>.</code>, <code>[]</code>(프로퍼티 접근), <code>()</code>(함수 호출), <code>?.</code>(옵셔널 체이닝 연산자) |
+| 3 | <code>new</code>(매개변수 미존재) |
+| 4 | <code>x++</code>, <code>x--</code> |
+| 5 | <code>!x</code>, <code>+x</code>, <code>-x</code>, <code>++x</code>, <code>--x</code>, <code>typeof</code>, <code>delete</code> |
+| 6 | <code>**</code>(이항 연산자 중 우선순위가 가장 높다) |
+| 7 | <code>*</code>, <code>/</code>, <code>%</code> |
+| 8 | <code>+</code>, <code>-</code> |
+| 9 | <code>&#x3C;</code>, <code>&#x3C;=</code>, <code>></code>, <code>>=</code>, <code>in</code>, <code>instanceof</code> |
+| 10 | <code>==</code>, <code>!=</code>, <code>===</code>, <code>!==</code> |
+| 11 | <code>??</code>(null 병합 연산자) |
+| 12 | <code>&#x26;&#x26;</code> |
+| 13 | <code>\|\|</code> |
+| 14 | <code>? ... : ...</code> |
+| 15 | 할당 연산자 (<code>=</code>, <code>+=</code>, <code>-=</code>, ...) |
+| 16 | <code>,</code> |</p>
+<pre><code class="language-js">// 그룹 연산자를 사용하여 우선순위를 명시적으로 조절하는 것을 권장
+10 * (2 + 3); // → 50
+</code></pre>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

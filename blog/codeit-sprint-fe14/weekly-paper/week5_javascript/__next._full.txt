@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","weekly-paper","week5_javascript"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/weekly-paper/week5_javascript","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"18.006099964116927%","top":"98.57545105208614%","width":"219.31840510714096px","height":"219.31840510714096px","animation":"float 15.905077651413205s ease-in-out infinite","animationDelay":"15.79220415101231s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"81.9024392649731%","top":"42.95293772761497%","width":"207.89684283854353px","height":"207.89684283854353px","animation":"float 17.785500287505585s ease-in-out infinite","animationDelay":"4.850059065491268s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"99.7156503698316%","top":"8.791046187032169%","width":"442.15165927068455px","height":"442.15165927068455px","animation":"float 19.288842975822504s ease-in-out infinite","animationDelay":"5.340780393228797s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"21.137971028677782%","top":"2.599357589081497%","width":"394.6816177957181px","height":"394.6816177957181px","animation":"float 17.28765258321069s ease-in-out infinite","animationDelay":"3.6090021033698076s"}}],["$","div","4",{"className":"dot dot-sage","style":{"left":"18.638154091094194%","top":"83.26019717847066%","width":"484.9371804456449px","height":"484.9371804456449px","animation":"float 15.73098920464073s ease-in-out infinite","animationDelay":"1.4145469796383574s"}}],["$","div","5",{"className":"dot dot-mint","style":{"left":"21.588142432494315%","top":"32.20293821536022%","width":"436.57708198319244px","height":"436.57708198319244px","animation":"float 18.95731578385759s ease-in-out infinite","animationDelay":"12.354023225986769s"}}],["$","div","6",{"className":"dot dot-peach","style":{"left":"50.692515217382535%","top":"78.15247193405533%","width":"394.9263192023993px","height":"394.9263192023993px","animation":"float 15.377912386706171s ease-in-out infinite","animationDelay":"8.282853330251767s"}}],["$","div","7",{"className":"dot dot-mint","style":{"left":"26.382030731073613%","top":"78.869600278124%","width":"419.81400949723184px","height":"419.81400949723184px","animation":"float 19.816509674883488s ease-in-out infinite","animationDelay":"9.91592451885853s"}}],["$","div","8",{"className":"dot dot-sage","style":{"left":"95.75302748734703%","top":"18.029024340968025%","width":"404.41960545257916px","height":"404.41960545257916px","animation":"float 19.121277211386197s ease-in-out infinite","animationDelay":"3.5972913588864412s"}}],["$","div","9",{"className":"dot dot-sage","style":{"left":"54.96977487789189%","top":"90.73927066935342%","width":"494.7803720100249px","height":"494.7803720100249px","animation":"float 16.572529705716292s ease-in-out infinite","animationDelay":"16.46367477857939s"}}],["$","div","10",{"className":"dot dot-peach","style":{"left":"45.63490760429918%","top":"69.73926531363475%","width":"483.7530090206341px","height":"483.7530090206341px","animation":"float 17.483659862126842s ease-in-out infinite","animationDelay":"3.7612550258836506s"}}],["$","div","11",{"className":"dot dot-sage","style":{"left":"83.8787783229473%","top":"64.70183904998925%","width":"354.46464472290495px","height":"354.46464472290495px","animation":"float 19.83484559827083s ease-in-out infinite","animationDelay":"7.8727296072206405s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T1a96,<h1>1. this</h1>
+<h2>this 키워드</h2>
+<ul>
+<li>설명: 현재 실행 중인 컨텍스트(문맥, 환경)에 따라 다르게 동작하는 키워드입니다.</li>
+<li>동작 방식
+<ol>
+<li>
+<p>일반 함수에서 this: <strong>전역 객체</strong>(window)를 가리킴
+(use strict에서는 undefined)</p>
+<pre><code class="language-js">function show() {
+    console.log(this); // window (브라우저 환경)
+}
+show();
+</code></pre>
+</li>
+<li>
+<p>객체의 메서드에서 this: 해당 객체를 가리킴</p>
+<pre><code class="language-js">const obj = {
+    name: "Alice",
+    show: function () {
+        console.log(this.name); // "Alice"
+    }
+};
+obj.show();
+</code></pre>
+</li>
+<li>
+<p>화살표 함수에서 this: 화살표 함수는 this를 부모 스코프에서 가져옴</p>
+<pre><code class="language-js">const obj = {
+    name: "Alice",
+    show: () => {
+        console.log(this.name); // undefined (부모 스코프가 window)
+    }
+};
+obj.show();
+</code></pre>
+</li>
+<li>
+<p>생성자 함수에서 this: 새로 생성된 객체를 가리킴</p>
+<pre><code class="language-js">function Person(name) {
+    this.name = name;
+}
+const user = new Person("Alice");
+console.log(user.name); // "Alice"
+</code></pre>
+</li>
+<li>
+<p>이벤트 핸들러에서 this: 이벤트를 발생시킨 요소를 가리킴</p>
+<pre><code class="language-js">document.querySelector("button").addEventListener("click", function() {
+    console.log(this); // 클릭된 버튼 요소
+});
+</code></pre>
+</li>
+<li>
+<p>bind 메소드에서 this: 첫 번째 파라미터로 전달한 특정 객체에 명시적으로 바인딩 됨</p>
+<pre><code class="language-js">function returnThis() {
+    return this;
+}
+
+const obj = { name: 'obj' };
+const obj2 = returnThis.bind(obj)();
+
+console.log(obj === obj2); // true
+</code></pre>
+</li>
+</ol>
+</li>
+</ul>
+<h1>2. 렉시컬 스코프</h1>
+<ul>
+<li>스코프: <strong>식별자</strong> 접근 규칙에 따른 <strong>유효 범위</strong>를 뜻한다.
+<ul>
+<li>식별자: 변수, 함수 이름과 같이 어떤 대상을 다른 대상과 구분하여 식별할 수 있는 유일한 이름</li>
+</ul>
+</li>
+<li>렉시컬 스코프(Lexical scope): 식별자 <strong>유효 범위</strong>가 함수를 호출할 때 결정되는 것이 아닌, <strong>선언</strong>할 때 <strong>결정</strong>되는 것을 뜻한다. 정적 스코프(Static scope)라고도 불리며, 자바스크립트는 렉시컬 스코프를 따른다.</li>
+</ul>
+<pre><code class="language-js">var x = 'foo';
+
+function foo() {
+    var x = 'bar';
+    bar();
+}
+
+function bar() {
+    console.log(x);
+}
+
+foo(); // foo
+bar(); // foo
+</code></pre>
+<h1>3. 프로토타입 체인</h1>
+<h2>프로토타입이란</h2>
+<ul>
+<li>프로토타입(Prototype)은 원형이라는 의미를 가진 단어</li>
+<li>자바스크립트에서 프로토타입은 객체의 원형</li>
+<li>모든 객체들은 메소드와 속성을 상속 받기 위해 프로토타입 객체를 가진다.</li>
+<li>즉, 프로토타입 객체란 자신의 부모 역할을 하는 객체를 말한다.</li>
+</ul>
+<h2><code>[[Prototype]]</code> , <code>.__proto__</code> , <code>.prototype</code> 알아보기</h2>
+<ol>
+<li><code>[[Prototype]]</code></li>
+</ol>
+<p>개발자가 직접 접근이 불가하고 간접적으로 접근할 수 있는 내부 슬롯으로, 직접 접근을 불가하게 해서 프로토타입 체인의 방향을 자식에서 부모를 탐색하는 단방향으로 지키고, 개발자의 실수로 순환참조하는 일이 없도록 한다.</p>
+<ul>
+<li>내부 슬롯이란?자바스크립트 엔진의 구현된 내용을 설명하기 위한 pseudo 프로퍼티</li>
+</ul>
+<pre><code class="language-js">function Person(name) {
+    this.name = name;
+}
+
+console.dir(Person);
+</code></pre>
+<ol start="2">
+<li><code>__proto__</code></li>
+</ol>
+<p>객체의 프로토타입(<code>[[Prototype]]</code>)을 접근하기 위한 프로퍼티로, 자신의 프로토타입에 접근할 수 있으며, <code>Object.getPrototypeOf()</code> 와 동일한 기능을 수행한다.</p>
+<pre><code class="language-js">function Person(name) {
+    this.name = name;
+}
+
+console.log(Person.__proto__ === Object.getPrototypeOf(Person)); // true
+</code></pre>
+<ol start="3">
+<li><code>prototype</code> 프로퍼티</li>
+</ol>
+<p>생성자 함수로 호출할 수 있는 객체, 즉 constructor 를 소유하는 프로퍼티.</p>
+<p>일반 객체와 생성자 함수로 호출할 수 없는 arrow function은 prototype 프로퍼티가 없다.</p>
+<pre><code class="language-js">function Person(name) {
+    this.name = name;
+}
+
+// foo 객체를 생성한 객체는 Person() 생성자 함수
+const foo = new Person('코드잇');
+
+console.log(foo.__proto__ === Person.prototype); // true
+console.log(Person.prototype) // {constructor: f}
+</code></pre>
+<h2>프로토타입 체인</h2>
+<p>프로토타입 체인은 프로토타입 간의 연결이며, 이를 통해 상위 프로토타입을 검색할 수 있다. 해당 객체에 접근하려는 프로퍼티나 메소드가 없다면 프로토타입(<code>[[Prototype]]</code>)이 가리키는 링크, 즉 프로토타입 체인을 따라 자신의 부모 역할을 하는 프로토타입 객체의 프로퍼티나 메소드를 차례대로 검색한다.</p>
+<p>모든 객체의 최상위 프로토타입은 <code>Object.prototype</code>다.</p>
+<pre><code class="language-js">function Person(name) {
+    this.name = name;
+}
+
+const foo = new Person('코드잇');
+const string = 'abc';
+const number = 123;
+const array = [1,2,3];
+const arrowFunction = () => 'arrowFunction';
+const object = {a: 'abc'};
+
+console.log(foo.__proto__ === Person.prototype); // true
+console.log(string.__proto__ === String.prototype); // true
+console.log(number.__proto__ === Number.prototype); // true
+console.log(array.__proto__ === Array.prototype); // true
+console.log(arrowFunction.__proto__ === Function.prototype); // true
+
+console.log(foo.__proto__.__proto__ === Object.prototype); // true
+console.log(string.__proto__.__proto__ === Object.prototype); // true
+console.log(number.__proto__.__proto__ === Object.prototype); // true
+console.log(array.__proto__.__proto__ === Object.prototype); // true
+console.log(arrowFunction.__proto__.__proto__ === Object.prototype); // true
+console.log(object.__proto__ === Object.prototype); // true
+</code></pre>
+<h1>정리</h1>
+<ul>
+<li>this가 가리키는 값, 즉 this 바인딩은 실행 컨텍스트에 따라 달라진다.</li>
+<li>렉시컬 스코프란, 식별자 유효 범위가 함수를 선언할 때 결정된다는 것을 의미한다.</li>
+<li>프로토타입 체인이란, 객체의 상위 프로토타입과의 연결을 의미하며, 이를 통해 상위 프로토타입의 프로퍼티 혹은 메소드에 접근할 수 있다.</li>
+</ul>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","06_data_type"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/06_data_type","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-sage","style":{"left":"36.139735643802176%","top":"35.75248798071837%","width":"211.57130210640423px","height":"211.57130210640423px","animation":"float 18.684758656907828s ease-in-out infinite","animationDelay":"9.375025386669895s"}}],["$","div","1",{"className":"dot dot-sage","style":{"left":"12.071980895638745%","top":"45.38109108743997%","width":"387.78602335974676px","height":"387.78602335974676px","animation":"float 19.071060301418342s ease-in-out infinite","animationDelay":"12.408878489386321s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"99.78100742311324%","top":"46.467832939646094%","width":"223.85526716734412px","height":"223.85526716734412px","animation":"float 18.55833899959841s ease-in-out infinite","animationDelay":"5.31355768102862s"}}],["$","div","3",{"className":"dot dot-mint","style":{"left":"40.06319353183625%","top":"29.86292377219368%","width":"284.72724147527526px","height":"284.72724147527526px","animation":"float 18.81144203885587s ease-in-out infinite","animationDelay":"5.787930768302007s"}}],["$","div","4",{"className":"dot dot-sage","style":{"left":"20.158730140280934%","top":"80.17247009625012%","width":"287.8788484762475px","height":"287.8788484762475px","animation":"float 19.564679503357123s ease-in-out infinite","animationDelay":"5.277614864692302s"}}],["$","div","5",{"className":"dot dot-mint","style":{"left":"53.065430791354196%","top":"50.45149248490755%","width":"217.94805662053713px","height":"217.94805662053713px","animation":"float 19.25025574040306s ease-in-out infinite","animationDelay":"4.690891331753751s"}}],["$","div","6",{"className":"dot dot-coral","style":{"left":"15.695631272966803%","top":"78.58866716798964%","width":"249.02540866686272px","height":"249.02540866686272px","animation":"float 19.26081493389245s ease-in-out infinite","animationDelay":"4.61341212559663s"}}],["$","div","7",{"className":"dot dot-sage","style":{"left":"69.89132932938165%","top":"38.116765457494786%","width":"478.45471783820096px","height":"478.45471783820096px","animation":"float 18.889106917817447s ease-in-out infinite","animationDelay":"4.07585404196398s"}}],["$","div","8",{"className":"dot dot-mint","style":{"left":"15.951352335973645%","top":"57.99688676816896%","width":"436.9884895056303px","height":"436.9884895056303px","animation":"float 16.09734760871963s ease-in-out infinite","animationDelay":"13.236717469198112s"}}],["$","div","9",{"className":"dot dot-peach","style":{"left":"79.2656992556582%","top":"33.901103029644794%","width":"328.692243520828px","height":"328.692243520828px","animation":"float 15.884432859858173s ease-in-out infinite","animationDelay":"13.897167394306432s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"3.1609114773406555%","top":"96.26287013256825%","width":"351.6964970686174px","height":"351.6964970686174px","animation":"float 16.733376416169506s ease-in-out infinite","animationDelay":"16.24127358493907s"}}],["$","div","11",{"className":"dot dot-sage","style":{"left":"90.50126574966684%","top":"37.70273772931656%","width":"252.1452427841176px","height":"252.1452427841176px","animation":"float 18.09576344882365s ease-in-out infinite","animationDelay":"1.0465965605584937s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L5"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T29f3,<h1>6장: 데이터 타입 Data type</h1>
+<ul>
+<li>원시 타입 (primitive type): number, string, boolean, undefined, null, symbol(ES6~)</li>
+<li>객체 타입 (object/reference type): 객체, 함수, 배열 등</li>
+</ul>
+<hr>
+<h2>6.1. 숫자 타입 (number)</h2>
+<p>C 혹은 Java의 경우 int, long, float, double 등 다양한 숫자 타입을 제공한다. 하지만 Javascript는 <strong>하나의 숫자 타입만 존재</strong>하며, 모든 수를 실수로 처리하며 정수만 표현하기 위한 데이터 타입이 별도로 존재하지 않는다.</p>
+<pre><code class="language-js">// 모두 숫자 타입이다.
+var integer = 10; // 정수
+var double = 10.12; // 실수
+var negative = -20; // 음의 정수
+
+// 표기법만 다를 뿐 모두 같은 값이다.
+var binary = 0b01000001; // 2진수
+var octal = 0ol01; // 8 진수
+var hex = 0x41; // 16 진수
+</code></pre>
+<p>숫자 타입의 세 가지 특별한 값 표현</p>
+<ul>
+<li>Infinity: 양의 무한대</li>
+<li>-Infinity: 음의 무한대</li>
+<li>NaN：산술연산불가(not-a-number)
+(자바스크립트는 대소문자를 구별(case-sensitive)하므로 표기에 주의)</li>
+</ul>
+<h2>6.2. 문자열 타입 (string)</h2>
+<p>문자열은 0개 이상의 16비트 유니코드 문자(UTF-16)의 집합으로, 전 세계 대부분의 문자를 표현할 수 있다.</p>
+<p>문자열은 작은따옴표(<code>''</code>, 가장 일반적인 표기법), 큰따옴표(<code>""</code>) 또는 백틱(<code>``</code>)으로 텍스트를 감싼다.
+(이유: 문자열을 따옴표로 감싸지 않으면 자바스크립트 엔진은 키워드나 식별자 같은 토큰으로 인식)</p>
+<p>C는 문자열 타입을 제공하지 않고 문자의 배열로 문자열을 표현하고, Java는 문자열을 객체로 표현한다.
+그러나 <strong>Javascript의 문자열은 원시 타입</strong>(primitive type)이며, <strong>변경 불가능한 값</strong>(immutable value)이다. 즉, 문자열이 생성되면 그 문자열을 변경할 수 없다는 것을 의미한다.</p>
+<p>(<a href="./11_comparing_primitive_value_and_object.md#1112-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EB%B6%88%EB%B3%80%EC%84%B1">11.1.2. 문자열과 불변성</a> 참고)</p>
+<h3>6.3. 템플릿 리터럴 (template literal)</h3>
+<p>백틱(<code>``</code>)을 사용하여 표현하는 템플릿 리터럴은 ES6부터 새로운 문자열 표기법으로서 도입되어,
+멀티라인 문자열(multi-line string), 표현식 삽입(expression interpolation), 태그드 템플릿(tagged template) 등 편리한 문자열 처리 기능을 제공한다.</p>
+<ul>
+<li>멀티라인 문자열: <code>\n</code>, <code>\r</code> 등 이스케이프 시퀀스 사용 없이 줄바꿈(개행) 허용</li>
+<li>표현식 삽입: 표현식을 <code>${}</code>으로 감싸면 문자열로 타입이 강제로 변환되어 삽입됨</li>
+</ul>
+<h2>6.4. 불리언 타입 (boolean)</h2>
+<p>논리적 참, 거짓을 나타낸다.</p>
+<p>(<a href="./08_control_flow_statement.md#82-%EC%A1%B0%EA%B1%B4%EB%AC%B8">8.2. 조건문</a> 참고)</p>
+<h2>6.5. undefined 타입</h2>
+<p>자바스크립트 엔진이 변수를 초기화할 때 사용하는 값이다.
+변수를 선언한 이후 값을 할당하지 않은 변수, 즉 초기화되지 않은 변수를 참조하면 undefined가 반환된다.</p>
+<p>참고: 개발자가 의도적으로 변수에 undefined를 할당하는 경우 본래 취지와 어긋날뿐더러 혼란을 줄 수 있으므로 권장하지 않는다. 변수에 값이 없다는 것을 명시하고 싶을 때는 null을 할당한다.</p>
+<h2>6.6. null 타입</h2>
+<p>변수에 값이 없다는 것을 의도적으로 명시(의도적 부재, intentional absence)할 때 사용한다.
+변수에 null을 할딩하는 것은 변수가 이전에 참조하던 값을 더 이상 참조하지 않겠다는 의미다. 이는 이전에 할당되어 있던 값에 대한 참조를 명시적으로 제거하는 것을 의미하며, 자바스크립트 엔진은 누구도 참조하지 않는 메모리 공간에 대해 가비지 콜렉션을 수행할 것이다.</p>
+<p>함수가 유효한 값을 반환할 수 없는 경우 명시적으로 null을 반환하기도 한다. 예를 들어, HTML 요소를 검색해 반환하는 document.querySelector 메서드는 조건에 부합하는 HTML 요소를 검색할 수 없는 경우 에러 대신 null을 반환한다.</p>
+<h2>6.7. 심벌 타입 (symbol)</h2>
+<p>심벌은 ES6에서 추가된 7번째 타입으로, 변경 불가능한 원시 타입의 값이다. 심벌 값은 다른 값과 중복되지 않는 유일무이한 값이다. 따라서 주로 이름이 충돌할 위험이 없는 객체의 유일한 프로퍼티 키를 만들기 위해 사용한다.</p>
+<pre><code class="language-js">// 심벌 값 생성
+var key = Symbol("key");
+console.log(typeof key); // symbol
+
+// 객체 생성
+var obj = {};
+
+// 이름이 충돌할 위험이 없는 유일무이한 값인 심벌을 프로퍼티 키로 사용한다.
+obj[key] = "value";
+console.log(obj[key]); // value
+</code></pre>
+<p>(<a href="./07_symbol.md">7.Symbol</a> 참고)</p>
+<h2>6.8. 객체 타입 (object/reference type)</h2>
+<p>Javascript는 객체 기반의 언어이며, 자바스크립트를 이루고 있는 거의 모든것이 객체이다.</p>
+<p>(<a href="./11_comparing_primitive_value_and_object.md">11. 원시 값과 객체의 비교</a> 참고)</p>
+<hr>
+<h2>6.9. 데이터 타입의 필요성</h2>
+<h3>6.9.1. 데이터 타입에 의한 메모리 공간의 확보와 참조</h3>
+<p>변수에 할당되는 값의 데이터 타입에 따라 확보해야 할 메모리 공간의 크기가 결정된다.</p>
+<p>이때 값을 참조하려면 한 번에 읽어 들여야 할 메모리 공간의 크기, 즉 메모리 셀의 개수(바이트 수)를 알아야 한다.</p>
+<h3>6.9.2. 데이터 타입에 의한 값의 해석</h3>
+<ul>
+<li>값을 저장할 때확보해야 하는 <strong>메모리 공간의 크기</strong>를 결정하기 위해</li>
+<li>값을 참조할 때 한 번에 읽어 들여야 할 <strong>메모리 공간의 크기</strong>를 결정하기 위해</li>
+<li>메모리에서 읽어들인 <strong>2진수를 어떻게 해석</strong>할지 결정하기 위해</li>
+</ul>
+<h2>6.10. 동적 타이핑</h2>
+<h3>6.10.1. 동적 타입 언어와 정적 타입 언어</h3>
+<h4>1) 정적 타입 (static/strong type) 언어</h4>
+<p>정적 타입 언어(Statically typed language)는 변수를 선언할 때 변수에 할당할 수 있는 값의 종류, 즉 <strong>데이터 타입을 사전에 선언</strong>해야 한다. 이를 <strong>명시적 타입 선언</strong>(explicit type decision)이라 한다.</p>
+<pre><code class="language-c">// c 변수에는 1바이트 정수 타입의 값(-128 ~ 127)만 힐당할 수 있다.
+char c;
+
+// num 변수에는 4바이트 정수 타입의 값(-2,124,483,648 ~ 2,124,483,647)만 할당할 수 있다.
+int num;
+</code></pre>
+<p>변수의 타입을 변경할 수 없으며, 변수에 선언한 타입에 맞는 값만 할당할 수 있다.
+컴파일 시점에 <strong>타입 체크</strong>(선언한 데이터 타입에 맞는 값을 할당했는지 검사하는 처리)를 수행하며, 만약 타입 체크를 통과하지 못했다면 에러를 발생시키고 프로그램의 실행 자체를 막는다.
+이를 통해 타입의 일관성을 강제함으로써 더욱 안정적인 코드의 구현을 통해 런타임에 발생하는 에러를 줄인다.
+ex. C, C++, Java, Kotlin, Go, Haskell, Rust, Scala 등</p>
+<h4>2) 동적 타입 (dynamic/weak type) 언어</h4>
+<p>동적 타입 언어(dynamically typed language)는 변수 선언 시점에 변수의 타입이 결정되고 변수의 타입을 변경할 수 없다. 자바스크립트에서는 값을 할당하는 시점에 변수의 타입이 동적으로 결정되고 변수의 타입을 언제든지 자유롭게 변경할 수 있다.</p>
+<pre><code class="language-js">var foo;
+console.log(typeof foo); // undefined
+
+foo = 3;
+console.log(typeof foo); // number
+
+foo = " Hello";
+console.log(typeof foo); // string
+</code></pre>
+<p>다시 말해, <strong>자바스크립트의 변수는 선언이 아닌 할당에 의해 타입이 결정(타입 추론, type inference)된다. 그리고 재할당에 의해 변수의 타입은 언제든지 동적으로 변할 수 있다.</strong> 이러한 특징을 <strong>동적 타이핑</strong>(dynamic typing)이라 하며, 자바스크립트를 정적 타입 언어와 구별하기 위해 <strong>동적 타입</strong>(dynamic/weak type) 언어라 한다.
+ex. Javascript, Python, PHP, Ruby, Lisp, Perl 등</p>
+<h3>6.10.2. 동적 타입 언어와 변수</h3>
+<p>동적 타입 언어의 변수는 값을 확인하기 전에는 타입을 확신할 수 없다. (변수 값이 언제든지 변경될 수 있어 추적하기 어려울 수 있고, 변수의 타입이 고정되어 있지 않아 타입도 언제든지 변경될 수 있다.) 동적 타입 언어는 유연성(flexibility)은 높지만 신뢰성(reliability)은 떨어진다.</p>
+<p>따라서 변수를 사용할 때 주의할 사항은 다음과 같다.</p>
+<ul>
+<li>변수는 꼭 필요한 경우에 한해 제한적으로 사용한다. 변수의 무분별한 남발은 금물이며, 필요한 만큼 최소한으로 유지하도록 주의해야 한다.</li>
+<li>변수의 유효 범위(스코프)를 최대한 좁게 만들어 변수의 부작용을 억제해야 한다.
+(변수의 유효 범위는 <a href="./13_scope.md">13. 스코프</a> 참고)</li>
+<li>전역 변수는 최대한 사용하지 않도록 한다. 어디서든지 참조/변경 가능기 때문에 의도치 않게 값이 변경될 가능성이 높고 다른 코드에 영향을 줄 가능성도 높아, 프로그램의 복잡성을 증가시키고 처리 흐름을 추적하기 어렵게 만들고 오류가 발생할 경우 오류의 원인을 특정하기 어렵게 만든다.
+(전역 변수의 문제점과 전역 변수의 사용 억제 방법은 <a href="./14_problems_of_global_variable.md">14. 전역 변수의 문제점</a> 참고)</li>
+<li>변수보다는 상수를 사용해 값의 변경을 억제한다.
+(<a href="./15_let_const_and_block_level_scope.md#153-const-%ED%82%A4%EC%9B%8C%EB%93%9C">15.3. const 키워드</a> 참고)</li>
+<li>변수 이름은 변수의 목적이나 의미를 피악할수 있도록 네이밍한다. 변수 이름뿐 아니라 모든 식별자(변수, 함수, 클래스 이름 등)는 존재 이유를 파악할 수 있는 적절한 이름으로 지어야 한다. 특히 식별자의 유효 범위가 넓을수록 명확한 이름을 명명하도록 노력하자.</li>
+</ul>
+<p><strong>가독성이 좋은 코드가 좋은 코드다!</strong></p>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

@@ -1,0 +1,179 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","weekly-paper","week9_css-in-js"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/weekly-paper/week9_css-in-js","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-mint","style":{"left":"3.840783350760102%","top":"52.67808231356099%","width":"346.7527727885114px","height":"346.7527727885114px","animation":"float 19.4491372059883s ease-in-out infinite","animationDelay":"4.202263252489476s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"92.4620273542101%","top":"16.496314353447094%","width":"363.04180514937104px","height":"363.04180514937104px","animation":"float 18.70046614451326s ease-in-out infinite","animationDelay":"13.262565320908681s"}}],["$","div","2",{"className":"dot dot-coral","style":{"left":"4.250239032650693%","top":"45.47553975086376%","width":"367.24924820501656px","height":"367.24924820501656px","animation":"float 15.801013913952737s ease-in-out infinite","animationDelay":"3.3676732624021914s"}}],["$","div","3",{"className":"dot dot-sage","style":{"left":"61.45563477253353%","top":"98.00392755771318%","width":"305.1706758407496px","height":"305.1706758407496px","animation":"float 17.334482448137965s ease-in-out infinite","animationDelay":"10.594223829404475s"}}],["$","div","4",{"className":"dot dot-peach","style":{"left":"13.953064140167747%","top":"35.00733439004973%","width":"388.1749101042198px","height":"388.1749101042198px","animation":"float 16.865230558304s ease-in-out infinite","animationDelay":"12.322853400458431s"}}],["$","div","5",{"className":"dot dot-sage","style":{"left":"61.051173712753304%","top":"86.5886464073483%","width":"303.99904605478304px","height":"303.99904605478304px","animation":"float 16.581383083118066s ease-in-out infinite","animationDelay":"6.201542193514733s"}}],["$","div","6",{"className":"dot dot-peach","style":{"left":"72.30972572355844%","top":"40.25742480953909%","width":"223.0104852968792px","height":"223.0104852968792px","animation":"float 15.919791117732306s ease-in-out infinite","animationDelay":"9.62546647389384s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"8.492796630221644%","top":"95.55089241877309%","width":"408.6195465840758px","height":"408.6195465840758px","animation":"float 17.113026422436707s ease-in-out infinite","animationDelay":"14.201195440017958s"}}],["$","div","8",{"className":"dot dot-coral","style":{"left":"94.68963526245804%","top":"4.014212827063579%","width":"319.2389470357724px","height":"319.2389470357724px","animation":"float 17.61925759403249s ease-in-out infinite","animationDelay":"13.610386819094805s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"71.4583021449152%","top":"80.3818701393283%","width":"265.41926744112084px","height":"265.41926744112084px","animation":"float 16.261731022248686s ease-in-out infinite","animationDelay":"9.205737854725994s"}}],["$","div","10",{"className":"dot dot-sage","style":{"left":"36.389840082045424%","top":"87.63762702793647%","width":"342.70942574945497px","height":"342.70942574945497px","animation":"float 15.525273067236164s ease-in-out infinite","animationDelay":"8.920388119543544s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"10.476584526049049%","top":"35.06617964918377%","width":"434.31769081851655px","height":"434.31769081851655px","animation":"float 18.272232852141286s ease-in-out infinite","animationDelay":"11.73621320005617s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:T1c66,<h1>CSS-in-JS</h1>
+<h2>개념 및 정의</h2>
+<ul>
+<li>Javascript 안에서 CSS 스타일을 작성하고 관리할 수 있는 기법</li>
+<li>React, Vue, Angular 등 컴포넌트 기반 프레임워크에서 컴포넌트 단위로 스타일을 관리하기 위해 도입됨</li>
+<li>Javascript 변수와 로직을 활용하여 동적 스타일링 가능</li>
+</ul>
+<h2>특징 및 동작 방식</h2>
+<ul>
+<li>컴포넌트 단위로 스타일을 캡슐화하여 전역 스타일 충돌을 방지</li>
+<li>Javascript의 모듈 시스템을 사용하여 스타일을 공유하고 재사용할 수 있음</li>
+<li>동적 스타일링과 조건부 스타일링 용이</li>
+<li>JSX 문법과 함께 사용하여 직관적으로 스타일을 관리할 수 있음</li>
+</ul>
+<h2>예시</h2>
+<h3>0. 주요 CSS-in-JS 라이브러리</h3>
+<ul>
+<li>Styled Components</li>
+<li>Emotion</li>
+<li>JSS (Javascript Style Sheets)</li>
+<li>Styled JSX (Next.js 전용)</li>
+<li>Linaria, Panda, VanillaExtract, StyleX... (Zero-runtime CSS-in-JS)</li>
+</ul>
+<h3>1. Styled Components</h3>
+<pre><code class="language-js">import styled from "styled-components";
+
+const Button = styled.button`
+  background-color: ${(props) => (props.primary ? "blue" : "gray")};
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &#x26;:hover {
+    background-color: ${(props) => (props.primary ? "darkblue" : "darkgray")};
+  }
+`;
+
+const App = () => {
+  return (
+    &#x3C;div>
+      &#x3C;Button primary>Primary Button&#x3C;/Button>
+      &#x3C;Button>Secondary Button&#x3C;/Button>
+    &#x3C;/div>
+  );
+};
+export default App;
+</code></pre>
+<h3>2. Emotion</h3>
+<pre><code class="language-js">/** @jsxImportSource @emotion/react */
+import { css } from "@emotion/react";
+
+const buttonStyle = (primary) => css`
+  background-color: ${primary ? "blue" : "gray"};
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &#x26;:hover {
+    background-color: ${primary ? "darkblue" : "darkgray"};
+  }
+`;
+
+const App = () => {
+  return (
+    &#x3C;div>
+      &#x3C;button css={buttonStyle(true)}>Primary Button&#x3C;/button>
+      &#x3C;button css={buttonStyle(false)}>Secondary Button&#x3C;/button>
+    &#x3C;/div>
+  );
+};
+export default App;
+</code></pre>
+<h2>장점</h2>
+<h3>1. 컴포넌트 단위 캡슐화</h3>
+<ul>
+<li>컴포넌트 단위로 스타일이 분리되어 <strong>스타일 유지보수 용이</strong>하다.</li>
+<li>스타일이 컴포넌트 내부에 존재하므로, 전역 스타일 충돌이 없다.</li>
+<li>컴포넌트의 재사용성과 유지보수성이 높다.</li>
+<li>고유한 class명을 생성하여 전역 네임스페이스 오염을 방지한다. (Styled Components)</li>
+</ul>
+<h3>2. 동적 스타일링</h3>
+<ul>
+<li>props를 활용하여 <strong>동적으로 스타일을 변경</strong> 가능하다.</li>
+<li>Javascript의 조건문, 함수 등을 사용하여 복잡한 스타일도 구현할 수 있다.</li>
+</ul>
+<h3>3. 모듈화 및 재사용</h3>
+<ul>
+<li>스타일을 모듈화하고 공유하여 코드 중복을 줄일 수 있다.</li>
+<li>공통 스타일을 유틸리티 함수로 관리하여 유지보수가 용이하다.</li>
+</ul>
+<h3>4. React/JSX 문법과의 호환성</h3>
+<ul>
+<li>JSX와 함께 사용하여 직관적으로 스타일을 작성할 수 있다.</li>
+<li>스타일과 로직을 한곳에서 관리하여 가독성이 높아진다.</li>
+</ul>
+<h2>단점</h2>
+<h3>1. 런타임 성능 저하</h3>
+<ul>
+<li>런타임에 스타일을 생성하고 주입하기 때문에 렌더링 성능이 저하될 수 있다.</li>
+<li>특히 대규모 애플리케이션에서 렌더링 성능에 영향을 미칠 수 있다.</li>
+</ul>
+<h3>2. 복잡한 설정</h3>
+<ul>
+<li>SSR(Server-Side Rendering)을 지원하기 위해 설정이 복잡할 수 있다.</li>
+<li>Next.js등 SSR 프레임워크와 연동 시 설정 작업이 필요하다.</li>
+</ul>
+<h3>3. 빌드 사이즈 증가</h3>
+<ul>
+<li>CSS가 JS에 포함되므로, 번들 크기가 증가할 수 있다.</li>
+<li>스타일 캐싱이 어려워 네트워크 비용이 증가할 수 있다.</li>
+</ul>
+<h3>4. 도구 및 라이브러리 의존성</h3>
+<ul>
+<li>Emotion, Styled Components 등 라이브러리 의존성이 추가된다.</li>
+<li>팀 내에서 통일된 스타일링 규칙을 정의해야 일관성을 유지할 수 있다.</li>
+</ul>
+<h1>Presentational &#x26; Container 디자인 패턴</h1>
+<h2>개념 및 정의</h2>
+<h3>1. Presentational Component</h3>
+<ul>
+<li>UI 렌더링에만 집중하는 컴포넌트로, 스타일링과 마크업만 포함하고 상태관리나 비즈니스 로직이 없다.</li>
+<li>props를 받아서 화면에 표시하고, 이벤트가 발생하면 콜백 함수만 호출한다.</li>
+<li>재사용성이 높고 디자인을 쉽게 변경할 수 있다.</li>
+</ul>
+<pre><code class="language-jsx">const Button = ({ text, onClick }) => {
+  return &#x3C;button onClick={onClick}>{text}&#x3C;/button>;
+};
+</code></pre>
+<h3>2. Container Component</h3>
+<ul>
+<li>상태관리 및 비즈니스 로직을 담당하는 컴포넌트로, 데이터를 조회 및 가공하여 Presentational Component에 전달한다.</li>
+<li>Redux, Context API, API 호출 등의 상태 관리 및 로직 처리를 수행한다.</li>
+<li>UI 로직을 분리하여 유지보수성과 테스트가 용이하다.</li>
+</ul>
+<h2>역할 및 특징</h2>
+<p>| <strong>구분</strong>          | <strong>Presentational Component</strong>             | <strong>Container Component</strong>                           |
+| ----------------- | ---------------------------------------- | ------------------------------------------------- |
+| <strong>역할</strong>          | UI 렌더링                                | 상태관리 및 비즈니스 로직 담당                    |
+| <strong>관심사 분리</strong>   | 디자인 및 스타일링                       | 데이터 처리 및 비스니스 로직                      |
+| <strong>상태 관리</strong>     | 없음 (stateless)                         | 있음 (statefull)                                  |
+| <strong>데이터 소스</strong>   | props를 통해 데이터를 받음               | Redux, Context API, API 호출 등 데이터 관리 |
+| <strong>재사용성</strong>      | 높음 (다양한 컨테이너와 조합 가능) | 낮음 (특정 기능에 의존적)                   |
+| <strong>의존성</strong>        | 독립적                                   | Presentational Component에 족송적                 |
+| <strong>테스트 용이성</strong> | 높음 (UI 스냅샷 테스트)            | 보통 (로직 테스트 필요)                     |</p>
+<h2>사용 이유 및 장점</h2>
+<ul>
+<li>관심사의 분리: UI 렌더링과 비즈니스 로직을 분리하여 가독성 및 유지보수성이 높아진다.</li>
+<li>재사용성 증가: Presentational Component는 다양한 컨테이너에서 재사용 가능하다.</li>
+<li>디자인 변경에 유연: UI와 비즈니스 로직이 분리되어 디자인 변경 시 영향을 최소화할 수 있다.</li>
+<li>테스트 용이성: UI와 비즈니스 로직이 분리되어 스냅샷 테스트와 로직 테스트 각각 집중할 수 있다.</li>
+</ul>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L16","2",{}]]
+f:null
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]

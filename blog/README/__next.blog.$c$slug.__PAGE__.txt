@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T715,<h1>frontend-study-2025</h1>
+<p>2025년 1월부터 진행하는 개인 스터디 자료</p>
+<ul>
+<li>HTML
+<ul>
+<li>🔗 <a href="https://developer.mozilla.org/ko/docs/Web/HTML">MDN</a></li>
+</ul>
+</li>
+<li>CSS
+<ul>
+<li>🔗 <a href="https://developer.mozilla.org/ko/docs/Learn_web_development/Core/Styling_basics">MDN</a></li>
+<li>🔗 <a href="https://www.w3schools.com/css/default.asp">W3Schools</a></li>
+</ul>
+</li>
+<li>Javascript
+<ul>
+<li>🔗 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">MDN</a></li>
+<li>📖 모던 자바스크립트 Deep Dive</li>
+</ul>
+</li>
+<li>Typescript</li>
+<li>React.js
+<ul>
+<li>🔗 <a href="https://ko.legacy.reactjs.org/docs/getting-started.html">React.js Docs</a></li>
+<li>📖모던 리액트 Deep Dive</li>
+</ul>
+</li>
+<li><a href="https://nextjs.org/docs">Next.js</a></li>
+</ul>
+<h2>HTML</h2>
+<ul>
+<li></li>
+</ul>
+<h2>CSS</h2>
+<ul>
+<li></li>
+</ul>
+<h2>Javascript</h2>
+<h3>📖 모던 자바스크립트 Deep Dive</h3>
+<ul>
+<li><a href="./javascript-deep-dive/09_type_conversion_and_short_circuit_evaluation.md">09. 타입 변환과 단축 평가</a> ⭐️</li>
+<li><a href="./javascript-deep-dive/13_scope.md">13. 스코프</a> ⭐️⭐️</li>
+<li><a href="./javascript-deep-dive/19_prototype.md">19. 프로토타입</a> ⭐️⭐️</li>
+<li><a href="./javascript-deep-dive/22_this.md">22. this</a> ⭐️⭐️</li>
+<li><a href="./javascript-deep-dive/23_execution_context.md">23. 실행 컨텍스트</a> ⭐️⭐️</li>
+<li><a href="./javascript-deep-dive/24_closure.md">24. 클로저</a> ⭐️⭐️</li>
+<li><a href="./javascript-deep-dive/25_class.md">25. 클래스</a> ⭐️</li>
+</ul>
+<h2>React.js</h2>
+<h3>📖 모던 리액트 Deep Dive</h3>
+<ul>
+<li><a href="./react-deep-dive/12_core_web_vital.md">12. 핵심 웹 지표</a></li>
+</ul>
+0:{"buildId":"NBOTbsJWgipKuL85VBogm","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L3",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]]}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

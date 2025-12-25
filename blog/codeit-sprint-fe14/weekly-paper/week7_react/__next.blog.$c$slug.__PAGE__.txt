@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+6:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+7:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T10ca,<h1>1. Virtual DOM</h1>
+<h2>Virtual DOM(가상 DOM)이란?</h2>
+<ul>
+<li>리액트에서 사용하는 <strong>메모리 상의 가상 DOM</strong></li>
+<li>실제 DOM을 직접 조작하는 것이 아닌, <strong>가상의 DOM을 먼저 수정하고, 변경된 부분만 실제 DOM에 적용하는 방식</strong>을 사용</li>
+</ul>
+<h2>사용 이유</h2>
+<ul>
+<li>브라우저의 실제 DOM(Document Object Model) 조작은 느린 작업</li>
+</ul>
+<p>✅ <strong>Virtual DOM 없이 직접 DOM 조작</strong></p>
+<p>→ <strong>DOM 전체가 다시 그려져 성능 저하 발생</strong></p>
+<pre><code class="language-js">document.getElementById("title").innerText = "Hello, World!";
+</code></pre>
+<ul>
+<li>리액트는 <strong>Virtual DOM을 이용하여 최소한의 DOM 변경만 수행</strong>해 성능을 최적화</li>
+</ul>
+<p>✅ <strong>Virtual DOM을 사용하는 리액트 방식</strong></p>
+<p>→ <strong>변경된 부분만 업데이트하여 빠른 렌더링 가능</strong></p>
+<pre><code class="language-js">const [text, setText] = useState("Hello");
+
+return &#x3C;h1>{text}&#x3C;/h1>;
+</code></pre>
+<h2>동작 과정</h2>
+<ol>
+<li>리액트가 Virtual DOM을 생성</li>
+<li>상태(state)가 변경되면 새로운 Virtual DOM을 생성</li>
+<li>이전 Virtual DOM과 비교 (= Diffing Algorithm)</li>
+<li>변경된 부분만 실제 DOM에 적용 (= Reconciliation 과정)</li>
+</ol>
+<h1>정리</h1>
+<ul>
+<li>Virtual DOM의 장점
+<ul>
+<li><strong>성능 향상</strong>: 최소한의 DOM 조작만 수행</li>
+<li><strong>효율적인 렌더링</strong>: 변경된 부분만 빠르게 업데이트</li>
+<li><strong>코드 유지보수성 증가</strong>: 직접 DOM을 다루지 않고 상태(state) 기반으로 UI 업데이트 가능</li>
+</ul>
+</li>
+</ul>
+<h1>2. 리액트에서 배열을 렌더링할 때 key를 써야 하는 이유</h1>
+<h2>key란?</h2>
+<ul>
+<li>리액트에서 리스트(map())로 요소를 렌더링할 때 각 항목을 구별하기 위해 사용하는 <strong>고유한 값</strong>
+<ul>
+<li>React는 DOM을 효율적으로 업데이트하기 위해 Diffing 알고리즘을 사용한다. 즉, key를 컴포넌트가 고유한 식별자로서 명시하여 React가 어떤 항목이 변경, 추가, 삭제되었는지 효율적으로 판단하게 한다.</li>
+</ul>
+</li>
+<li>key를 적절히 설정하지 않으면, 불필요한 DOM 업데이트가 발생하거나 렌더링 순서가 꼬일 수 있다</li>
+</ul>
+<p>✅ <strong>예제 (올바른 key 사용)</strong></p>
+<pre><code class="language-js">const items = ["React", "Vue", "Angular"];
+
+return (
+  &#x3C;ul>
+    {items.map((item, index) => (
+      &#x3C;li key={index}>{item}&#x3C;/li>
+    ))}
+  &#x3C;/ul>
+);
+</code></pre>
+<h2>key를 사용하는 이유</h2>
+<ol>
+<li>변경 감지 성능 향상
+<ul>
+<li>Virtual DOM이 이전 리스트와 새로운 리스트를 비교할 때 <strong>각 항목의 고유한 key를 이용하여 변경 사항을 빠르게 찾음</strong>.</li>
+<li>key가 없으면 모든 요소를 다시 렌더링해야 하지만, key가 있으면 <strong>변경된 항목만 업데이트</strong> 가능.</li>
+</ul>
+</li>
+<li>리스트 재배열 시 버그 방지
+<ul>
+<li>key가 없거나 index를 key로 사용하면, 리스트 요소의 순서가 바뀔 때 <strong>잘못된 업데이트가 발생할 수 있음</strong>.</li>
+</ul>
+</li>
+</ol>
+<p>✅ <strong>올바른 key 사용 예시</strong></p>
+<pre><code class="language-js">const items = [
+  { id: 1, text: "React" },
+  { id: 2, text: "Vue" },
+  { id: 3, text: "Angular" },
+];
+
+return (
+  &#x3C;ul>
+    {items.map((item) => (
+      &#x3C;li key={item.id}>{item.text}&#x3C;/li>
+    ))}
+  &#x3C;/ul>
+);
+</code></pre>
+<p>🚫 <strong>잘못된 key 사용 (index 사용)</strong></p>
+<p>→ <strong>요소 순서가 변경될 때 문제 발생 가능</strong></p>
+<pre><code class="language-js">{items.map((item, index) => (
+  &#x3C;li key={index}>{item.text}&#x3C;/li>
+))}
+</code></pre>
+<h2>정리</h2>
+<ul>
+<li>key를 사용하면 <strong>리스트 업데이트 성능이 향상</strong>되고 <strong>불필요한 리렌더링을 방지</strong>할 수 있음.</li>
+<li>리스트가 동적으로 변경될 가능성이 있으면, <strong>고유한 ID 값을 key로 사용해야 함</strong>.</li>
+</ul>
+0:{"buildId":"NBOTbsJWgipKuL85VBogm","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],"$L3"]}]}]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L6",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

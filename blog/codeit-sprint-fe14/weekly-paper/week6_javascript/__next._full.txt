@@ -1,0 +1,290 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","weekly-paper","week6_javascript"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/weekly-paper/week6_javascript","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-coral","style":{"left":"91.15893744185435%","top":"37.18928084617592%","width":"405.95027569329545px","height":"405.95027569329545px","animation":"float 17.919886677333935s ease-in-out infinite","animationDelay":"4.271625096528123s"}}],["$","div","1",{"className":"dot dot-mint","style":{"left":"12.614875904253452%","top":"58.44766053284742%","width":"434.7010311214445px","height":"434.7010311214445px","animation":"float 18.052680149508355s ease-in-out infinite","animationDelay":"8.64829062695006s"}}],["$","div","2",{"className":"dot dot-coral","style":{"left":"72.97254941419342%","top":"45.733050423009416%","width":"227.15156725166318px","height":"227.15156725166318px","animation":"float 19.977608926030985s ease-in-out infinite","animationDelay":"11.678966343164086s"}}],["$","div","3",{"className":"dot dot-sage","style":{"left":"62.195390970412355%","top":"54.91163644183536%","width":"499.66286143003816px","height":"499.66286143003816px","animation":"float 15.118193218048491s ease-in-out infinite","animationDelay":"10.37356611791928s"}}],["$","div","4",{"className":"dot dot-mint","style":{"left":"90.5477796171184%","top":"12.734493676105817%","width":"457.5870196244506px","height":"457.5870196244506px","animation":"float 19.345072600149717s ease-in-out infinite","animationDelay":"9.30415849822778s"}}],["$","div","5",{"className":"dot dot-mint","style":{"left":"1.8625852029060974%","top":"43.83927185735508%","width":"263.1934614488733px","height":"263.1934614488733px","animation":"float 17.904336158812338s ease-in-out infinite","animationDelay":"1.9778157304514636s"}}],["$","div","6",{"className":"dot dot-mint","style":{"left":"56.775130583780054%","top":"58.93414706015869%","width":"325.8747449077083px","height":"325.8747449077083px","animation":"float 16.659808774757416s ease-in-out infinite","animationDelay":"12.65546600251084s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"4.372720833157739%","top":"9.794977626340295%","width":"492.2031731546225px","height":"492.2031731546225px","animation":"float 16.83801500907726s ease-in-out infinite","animationDelay":"8.971450951855386s"}}],["$","div","8",{"className":"dot dot-peach","style":{"left":"54.286277712371266%","top":"83.9768291497085%","width":"234.69023428776117px","height":"234.69023428776117px","animation":"float 18.460602033425s ease-in-out infinite","animationDelay":"17.348936934051316s"}}],["$","div","9",{"className":"dot dot-coral","style":{"left":"30.772454504215485%","top":"7.885216724773558%","width":"245.91825573360802px","height":"245.91825573360802px","animation":"float 15.442291432942753s ease-in-out infinite","animationDelay":"13.184164755700476s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"12.1910912861124%","top":"64.71376028975291%","width":"421.1506732957904px","height":"421.1506732957904px","animation":"float 16.58324369056064s ease-in-out infinite","animationDelay":"1.1907088549457951s"}}],["$","div","11",{"className":"dot dot-peach","style":{"left":"30.280683303615508%","top":"0.24297368152697008%","width":"263.4828978056231px","height":"263.4828978056231px","animation":"float 15.458265793019264s ease-in-out infinite","animationDelay":"7.421072975933747s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:T38cc,<h1>1. HTTP 메소드</h1>
+<p>HTTP 메소드란, 클라이언트가 웹 서버에게 사용자 리퀘스트의 목적이나 종류 등을 알리는 수단</p>
+<ul>
+<li>
+<p><strong>GET</strong>: 데이터를 받기 위해 사용하는 메소드</p>
+<ul>
+<li>리퀘스트 바디 X, 쿼리 스트링 O</li>
+<li>리퀘스트 캐시 O (불필요한 리퀘스트를 제한하기 위함)</li>
+<li>서버의 데이터 변경 X</li>
+<li>멱등성 O (동일한 리퀘스트를 반복하여 전송하더라도 동일한 응답이 돌아온다.)</li>
+</ul>
+</li>
+<li>
+<p><strong>POST</strong>: 새로운 리소스를 생성하거나 기존 리소스를 수정하기 위해 서버에 데이터를 보내는 메소드</p>
+<ul>
+<li>리퀘스트 바디 O</li>
+<li>리퀘스트 캐시 X (일반적으로 캐시되지 않는다)</li>
+<li>서버의 데이터 생성 or 변경 O</li>
+<li>멱등성 X (동일한 리퀘스트를 반복하더라도 동일한 응답을 보장할 수 없다. 리소스 생성할 경우, 이미 리소스가 있더라도 새로운 리소스를 생성하기 때문.)</li>
+</ul>
+</li>
+<li>
+<p><strong>PUT</strong>: 새로운 리소스를 생성하거나 기존 리소스를 수정하기 위해 서버에 데이터를 보내는 메소드</p>
+<ul>
+<li>서버의 데이터 생성 or 변경 O (서버에 리소스가 없으면 생성하고, 있으면 클라이언트가 보낸 데이터로 대체하고 추가로 생성하진 않는다.)</li>
+<li>멱등성 O</li>
+</ul>
+</li>
+<li>
+<p><strong>DELETE</strong>: 지정한 리소스를 삭제하는 메소드입니다.</p>
+<ul>
+<li>서버의 데이터 삭제</li>
+<li>멱등성 O</li>
+</ul>
+</li>
+<li>
+<p>PATCH: 기존 리소스의 부분적인 수정을 위한 메소드</p>
+<ul>
+<li>PUT 리퀘스트는 데이터를 완전히 대체하는 반면, PATCH는 부분 수정을 위한 메소드다.</li>
+<li>예시: id, name, email, password 전체를 생성 또는 변경하는데는 PUT을 사용하고, 기존에 있던 데이터에 name만 변경할 때는 PATCH를 사용
+<pre><code class="language-js">{
+    id: 'codeit',
+    name: '코드잇',
+    email: 'codeit@codeit.com',
+    password: '1234'
+}
+</code></pre>
+</li>
+<li>멱등성 X</li>
+</ul>
+</li>
+<li>
+<p>HEAD: 특정 리소스를 GET 메소드로 요청했을 때 돌아올 헤더를 받기 위한 메소드.</p>
+<ul>
+<li>실제 데이터가 아니라 데이터에 관한 정보만 얻으려고 하는 상황에 활용한다.</li>
+<li>리스폰스 바디 X, 헤드 부분만 받는다.</li>
+<li>리퀘스트가 캐시 O (불필요한 리퀘스트를 제한하기 위해)</li>
+<li>멱등성 O</li>
+</ul>
+</li>
+<li>
+<p>OPTIONS: 주어진 URL 또는 서버에 대해 허용된 통신 옵션을 받기 위한 메소드</p>
+<ul>
+<li>허용된 리퀘스트 메소드를 확인하거나 리소스에 대해 지원하는 옵션을 확인할 때 사용한다.</li>
+<li>멱등성 O</li>
+</ul>
+</li>
+<li>
+<p>CONNECT: 요청한 리소스에 대해 양방향 연결을 시작하는 메소드</p>
+<ul>
+<li>SSL을 사용하는 웹사이트(HTTPS)에 접속하는데 사용될 수 있다.</li>
+</ul>
+</li>
+</ul>
+<h1>2. 자바스크립트의 특징</h1>
+<p>자바스크립트는 싱글 스레드 기반의 언어다. (스레드란, 작은 단위의 실행 흐름을 말한다.)</p>
+<p>자바스크립트는 코드 순서대로 진행되지 않는다. <strong>비동기 처리</strong>(Asynchronous Execution)를 지원하기 때문이다.</p>
+<ul>
+<li>브라우저는 JavaScript를 실행할 때 싱글 스레드(Single Thread) 방식으로 동작하지만, Web API와 이벤트 루프(Event Loop)를 활용해 비동기 작업을 처리할 수 있음.</li>
+<li>비동기 작업 예시: AJAX 요청, 타이머(setTimeout), 이벤트 리스너</li>
+</ul>
+<h2>동기(Synchronous)와 비동기(Asynchronous)</h2>
+<ol>
+<li>
+<p>동기 코드: 순서대로 실행되며, 이전 코드가 끝나야 다음 코드가 실행됨.</p>
+<pre><code class="language-js">console.log("A");
+console.log("B");
+console.log("C");
+// 출력: A B C
+</code></pre>
+</li>
+<li>
+<p>비동기 코드: 특정 코드가 실행될 때, 결과를 기다리지 않고 다음 코드를 실행함.</p>
+<pre><code class="language-js">console.log("A");
+setTimeout(() => console.log("B"), 1000);
+console.log("C");
+// 출력: A C (1초 후) B
+</code></pre>
+</li>
+</ol>
+<h3>자바스크립트의 엔진 구성</h3>
+<ul>
+<li>Memory Heap</li>
+<li>Call Stack
+<ul>
+<li>하나의 스레드에서 하나의 Call Stack으로 함수의 동작 순서 등을 제어한다</li>
+</ul>
+</li>
+</ul>
+<h3>런타임 환경</h3>
+<p>자바스크립트 엔진은 단일 Call Stack으로 요청이 들어온 순서대로 한 가지 일만을 수행하며, <strong>비동기 요청</strong>은 자바스크립트 엔진을 구동하는 <strong>런타임 환경</strong>에서 담당한다.</p>
+<ul>
+<li>예시 1) 브라우저에서 setTimeout 구동
+<ol>
+<li>Call Stack에서 Web API setTimeout 요청 이후 제거됨</li>
+<li>Web API에서 setTimeout이 완료되면, setTimeout callback 함수를 Callback Queue로 옮김</li>
+<li>현재 실행한 자바스크립트 코드를 모두 실행한 뒤, Event Loop가 지속적으로 Call Stack이 비어있는지 확인</li>
+<li>Call Stack이 비어있다면 Callback Queue에 있는 작업 순서대로 Call Stack으로 넘겨 실행</li>
+</ol>
+</li>
+<li>예시 2)
+<pre><code class="language-js">// 1번
+let num = 1;
+	
+// 2번
+setTimeout(() => {
+  num = 2;
+}, 0);
+
+// 3번
+num = 3;
+
+// 4번
+console.log(num); // 3
+</code></pre>
+<ul>
+<li>1번 실행으로 <code>num</code> 에 1이 할당된다.</li>
+<li>2번 실행으로 <code>setTimeout</code> 을 Web API(NodeJS의 경우 Timers 모듈)가 처리하도록 넘긴다. (callback 실행 X)</li>
+<li>2번 실행 완료되면, 즉 <code>setTimeout</code> 작업이 완료되면 Web API에서는 <code>setTimeout</code> callback 함수를 Callback Queue에 등록한다.</li>
+<li>3번 실행으로 <code>num</code> 에 3이 재할당된다.</li>
+<li>4번 실행으로 화면에 3이 출력된다.</li>
+<li>4번까지 모든 실행이 완료된 후, Event Loop가 돌아 callback 함수가 Callback Queue → Call Stack 이동 및 실행되어, <code>num</code> 은 2가 재할당된다.</li>
+</ul>
+</li>
+</ul>
+<h2>정리</h2>
+<ul>
+<li>자바스크립트는 싱글스레드 언어</li>
+<li>비동기 요청은 자바스크립트 엔진을 구동하는 런타임 환경에서 제어</li>
+<li>즉, 비동기 처리 → 이벤트 루프와 콜백 함수로 실행 순서 제어</li>
+</ul>
+<h1>3. AJAX</h1>
+<h2>AJAX (Asynchronous JavaScript And XML)</h2>
+<ul>
+<li>설명: 페이지를 새로고침하지 않고 서버와 데이터를 주고받는 기술입니다.</li>
+<li>특징:
+<ul>
+<li>비동기(Asynchronous) 방식으로 동작 → 페이지가 깜빡이지 않고 업데이트 가능</li>
+<li>백그라운드에서 서버와 통신 → 사용자 경험(UX) 향상</li>
+<li>JSON, XML 등의 데이터를 서버에서 받아와 웹페이지에 적용 가능</li>
+</ul>
+</li>
+<li>사용 예시:
+<pre><code class="language-js">fetch("https://jsonplaceholder.typicode.com/posts/1")
+   .then(response => response.json()) // JSON으로 변환
+   .then(data => console.log(data)) // 데이터 출력
+   .catch(error => console.error("Error:", error));
+</code></pre>
+</li>
+<li>사용 사례:
+<ul>
+<li>검색 자동완성 기능</li>
+<li>실시간 채팅</li>
+<li>무한 스크롤 (Infinite Scroll)</li>
+</ul>
+</li>
+</ul>
+<h2>AJAX 등장 배경</h2>
+<p>초창기의 웹은 일부분만 바뀌면 되는 경우에도 매번 새 페이지가 로드되는 방식이어서 효율적이지 않고 사용자에게도 좋지 않은 경험을 줬다. 그래서 2000년대 초부터는 웹의 이런 단점을 극복하기 위해서 AJAX라는 기술이 도입되었다.</p>
+<h2>AJAX 의미</h2>
+<p>AJAX는 <strong>A</strong>synchronous <strong>J</strong>avaScript <strong>A</strong>nd <strong>X</strong>ML의 줄임말이다. 이는 자바스크립트를 사용해서 <strong>비동기</strong>적으로 리퀘스트를 보내고 리스폰스를 받는데 기반이 되는 <strong>기술들의 집합</strong>을 의미한다. 즉, AJAX는 웹 브라우저가 현재 페이지를 그대로 유지한 채로 서버에 리퀘스트를 보내고 리스폰스를 받아서, 새로운 페이지를 로드하지 않고도 페이지에 변화를 줄 수 있게 해주는 기술이다.</p>
+<p>여기서 XML은 AJAX라는 용어가 생겨난 당시에 가장 많은 인기를 누리던 데이터 타입을 뜻한다. 요즘은 더 가벼운 용량과 JavaScript의 일부라는 장점 때문에 JSON을 많이 사용한다. (JSON과 XML 모두 AJAX에서 정보를 담을 때 사용)</p>
+<h2>AJAX의 활용</h2>
+<ul>
+<li>서버와 통신하기 위해 보내는 <strong>HTTP 리퀘스트</strong>가 AJAX 기술의 핵심이라고 할 수 있는, 이를 위해서는 기능을 제공하는 객체의 인스턴스가 필요했고, <code>XMLHttpRequest</code> 가 대표적으로 사용된 객체이다.</li>
+<li>요즘은 Fetch API나 <code>XMLHttpRequest</code> 를 기반으로 더 쓰기 편하게 만들어진 <strong>axios</strong>와 같은 패키지를 사용해서 AJAX를 활용하고 있다.</li>
+</ul>
+<h2>정리</h2>
+<ul>
+<li>AJAX → 새로고침 없이 서버와 통신 가능</li>
+</ul>
+<h1>4. 실행 컨텍스트</h1>
+<h2>실행 컨텍스트(Execution context)</h2>
+<p>실행 컨텍스트는 <strong>실행 가능한 코드를 형상화하고 구분하는 추상적인 개념</strong>이다. 즉, <strong>실행 가능한 소스 코드를 해석</strong>하고, <strong>실행하기 위해 필요한 환경을 제공</strong>하며, <strong>코드의 실행 결과를 실제로 관리</strong>하는 환경을 말한다.</p>
+<h2>실행 컨텍스트의 종류</h2>
+<ul>
+<li><strong>전역 실행 컨텍스트</strong> (Global Execution Context) : 어떤 함수에도 포함되지 않는 코드는 전역 실행 컨텍스트에 속하며, 자바스크립트 기본이 되는 컨텍스트다. 자바스크립트 프로그램에 하나의 전역 실행 컨텍스트만 있다.</li>
+<li><strong>함수 실행 컨텍스트</strong> (Functional Execution Context) : 함수가 호출될 때마다 해당 함수를 위한 새로운 실행 컨텍스트가 생성된다.</li>
+<li><strong><code>eval</code> 함수 실행 컨텍스트</strong> (Eval Execution Context) : <code>eval</code> 함수내에서 실행된 코드들도 자체 실행 컨텍스트를 가진다.</li>
+</ul>
+<h2>실행 컨텍스트 스택 (=실행 스택, **≈**콜 스택)</h2>
+<p>자바스크립트에서 실행 컨텍스트를 추적하기 위해서 실행 컨텍스트 스택을 사용한다.</p>
+<ul>
+<li>실행 컨텍스트 스택:
+<ul>
+<li>실행 중에 생성된 모든 컨텍스트들을 저장</li>
+<li>Last In, First Out의 스택 자료구조</li>
+</ul>
+</li>
+</ul>
+<p>자바스크립트 엔진이 스크립트를 처음으로 마주하게 되면 전역 실행 컨텍스트를 생성하여 스택에 푸쉬한다. 이후 자바스크립트 엔진이 함수 호출을 발견할 때마다 해당 함수에 대한 실행 컨텍스트를 생성하여 스택의 상단에 푸쉬한다.</p>
+<p>스택의 최상단에 있는 실행 컨텍스트의 함수를 실행하고, 함수 실행을 완료하면 스택에서 제거하고 현재 컨텍스트의 아래에 있는 컨텍스트로 컨트롤이 이동한다.</p>
+<h2>참고</h2>
+<p>모던 자바스크립트 Deep Dive:  <a href="../javascript-deep-dive/23_execution_context.md#234-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%8A%A4%ED%83%9D">23.4. 실행 컨텍스트 스택</a></p>
+<h1>4. 클로저</h1>
+<h2>클로저란</h2>
+<p>클로저(Closure)는 JavaScript 고유 개념이 아니라 함수형 프로그래밍 언어에서 사용되는 중요한 특성이다.</p>
+<ul>
+<li>“클로저는 <strong>함수</strong>(내부함수)와 <strong>그 함수가 선언됐을 때의 렉시컬 환경</strong>과의 조합” (MDN에 정의된 내용)
+<ul>
+<li>함수란, 외부함수와 내부함수가 있을 때 "내부함수"를 의미</li>
+<li>그 함수가 선언될 때의 렉시컬 환경이란, 내부함수가 선언됐을 때의 스코프 범위 안에 있는 변수와 함수를 저장하는 객체를 의미</li>
+</ul>
+</li>
+</ul>
+<p>즉, 클로저는 반환된 내부함수가 <strong>자신이 선언됐을 때의 환경인 스코프를 기억</strong>하여 자신이 선언됐을 때의 환경(스코프) 밖에서 호출되어도 그 환경(스코프)에 접근할 수 있는 함수를 말한다.</p>
+<pre><code class="language-js">function outerFunc() {
+  const x = 7;
+  const innerFunc = function () { console.log(x); };
+  return innerFunc;
+}
+
+/**
+ *  함수 outerFunc를 호출하면 내부 함수 innerFunc 반환
+ *  그리고 함수 outerFunc의 실행 컨텍스트는 소멸
+ */
+var inner = outerFunc();
+inner(); // 7
+</code></pre>
+<p>함수 <code>outerFunc</code>는 내부함수 <code>innerFunc</code>을 반환하고 life-cycle은 종료된다. 하지만 외부함수 실행 컨텍스트 내의 변수는 내부함수에 의해 참조되는 한 유효하여 내부함수가 스코프 체인을 통해 참조할 수 있다.</p>
+<p>즉 외부함수를 이미 반환했더라도 외부함수 내의 변수는 이를 필요로 하는 내부함수가 하나 이상 존재하는 경우 계속 유지된다. 이때 내부함수가 외부함수에 있는 변수의 복사본이 아니라 실제 변수에 접근한다.</p>
+<p>클로저는 자신이 생성될 때의 환경을 기억해야 하므로 메모리 차원에서 손해를 볼 수 있지만, 필요에 따라 유용하게 사용하면 좋다.</p>
+<h2>클로저의 활용</h2>
+<ul>
+<li>현재 상태를 기억하고 변경된 최신 상태를 유지
+<ul>
+<li>참고: <a href="https://poiemaweb.com/js-closure#21-%EC%83%81%ED%83%9C-%EC%9C%A0%EC%A7%80">https://poiemaweb.com/js-closure#21-상태-유지</a></li>
+</ul>
+</li>
+<li><strong>정보의 은닉</strong>
+<ul>
+<li>참고: <a href="https://poiemaweb.com/js-closure#23-%EC%A0%95%EB%B3%B4%EC%9D%98-%EC%9D%80%EB%8B%89">https://poiemaweb.com/js-closure#23-정보의-은닉</a></li>
+</ul>
+</li>
+<li><strong>고차 함수</strong>
+<ul>
+<li>참고: https://poiemaweb.com/js-array-higher-order-function</li>
+</ul>
+</li>
+</ul>
+<h2>참고 자료</h2>
+<ul>
+<li>https://poiemaweb.com/js-closure</li>
+<li>https://ko.javascript.info/closure</li>
+<li>모던 자바스크립트 Deep Dive: <a href="../javascript-deep-dive/24_closure.md">24. 클로저</a></li>
+</ul>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L16","2",{}]]
+f:null
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]

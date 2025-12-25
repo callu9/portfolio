@@ -1,0 +1,284 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","10_object_literal"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/10_object_literal","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"23.663953115453708%","top":"64.57104248280324%","width":"473.8578476580895px","height":"473.8578476580895px","animation":"float 19.970545992992093s ease-in-out infinite","animationDelay":"15.755794846805022s"}}],["$","div","1",{"className":"dot dot-sage","style":{"left":"88.16161641475351%","top":"26.572970850017064%","width":"321.6547641631901px","height":"321.6547641631901px","animation":"float 18.520543145230157s ease-in-out infinite","animationDelay":"1.7386278856592372s"}}],["$","div","2",{"className":"dot dot-coral","style":{"left":"35.492938493905136%","top":"9.039830869176635%","width":"449.58185902860373px","height":"449.58185902860373px","animation":"float 16.29646200876667s ease-in-out infinite","animationDelay":"4.58801830794908s"}}],["$","div","3",{"className":"dot dot-peach","style":{"left":"24.402054879732194%","top":"78.21467761571535%","width":"314.5500157013646px","height":"314.5500157013646px","animation":"float 16.83169448895884s ease-in-out infinite","animationDelay":"1.0966660417905563s"}}],["$","div","4",{"className":"dot dot-mint","style":{"left":"34.01810368732827%","top":"4.250586044479876%","width":"331.607705782004px","height":"331.607705782004px","animation":"float 18.243899934797362s ease-in-out infinite","animationDelay":"9.93160642716952s"}}],["$","div","5",{"className":"dot dot-sage","style":{"left":"35.43718866193644%","top":"84.68707969342712%","width":"480.8818016932254px","height":"480.8818016932254px","animation":"float 17.642130729275266s ease-in-out infinite","animationDelay":"2.959422632455683s"}}],["$","div","6",{"className":"dot dot-mint","style":{"left":"84.31881605987932%","top":"33.72080357779481%","width":"376.29090881500616px","height":"376.29090881500616px","animation":"float 18.90678064837782s ease-in-out infinite","animationDelay":"10.16028578701102s"}}],["$","div","7",{"className":"dot dot-coral","style":{"left":"10.900328038940499%","top":"43.533202845871386%","width":"457.6706892997035px","height":"457.6706892997035px","animation":"float 19.925959101400476s ease-in-out infinite","animationDelay":"10.593169936525392s"}}],["$","div","8",{"className":"dot dot-coral","style":{"left":"47.97677234800679%","top":"62.3094093703586%","width":"421.9349626730264px","height":"421.9349626730264px","animation":"float 16.13275847924861s ease-in-out infinite","animationDelay":"15.431080425647668s"}}],["$","div","9",{"className":"dot dot-mint","style":{"left":"46.26705149715773%","top":"20.947080574318534%","width":"321.09029806166745px","height":"321.09029806166745px","animation":"float 19.589934605216477s ease-in-out infinite","animationDelay":"3.7028418345386327s"}}],["$","div","10",{"className":"dot dot-mint","style":{"left":"70.26054058970304%","top":"48.27485248852557%","width":"347.4074736477726px","height":"347.4074736477726px","animation":"float 18.10122604158204s ease-in-out infinite","animationDelay":"3.5729289985979324s"}}],["$","div","11",{"className":"dot dot-mint","style":{"left":"19.15421068500722%","top":"8.484098057840583%","width":"215.88934044107657px","height":"215.88934044107657px","animation":"float 15.761114499588638s ease-in-out infinite","animationDelay":"9.382926391362194s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T307d,<h1>10. 객체 리터럴</h1>
+<h2>10.1. 객체란?</h2>
+<p>자바스크립트는 객체(object)기반의 프로그래밍 언어이며, 원시 값을 제외한 나머지 값(함수, 배열, 정규 표현식 등)은 모두 객체다.</p>
+<ul>
+<li>원시 값과 객체의 비교
+<ul>
+<li>원시 타입은 단 하나의 값만 나타내지만, 객체 타입(object/reference type)은 다양한 타입의 값(원시 값 또는 다른 객체)를 하나의 단위로 구성한 복합적인 자료구조(data structure)</li>
+<li>원시 타입의 값, 즉 원시 값은 변경 불가능한 값(immutable value)이지만 
+객체 타입의 값, 즉 객체는 변경 가능한 값(mutabel value)이다.</li>
+<li><a href="./11_comparing_primitive_value_and_object.md">11. 원시 값과 객체의 비교</a> 참고</li>
+</ul>
+</li>
+</ul>
+<h3>객체</h3>
+<ul>
+<li>객체 (object): 0개 이상의 프로퍼티로 구성된 집합
+<ul>
+<li>프로퍼티는 키(key)와 값(value)로 구성된다.</li>
+<li>자바스크립트에서 사용할 수 있는 모든 값은 프로퍼티 값이 될 수 있으며, 함수는 일급 객체이므로 값으로 취급할 수 있다.</li>
+<li>프로퍼티 값이 함수일 경우, 일반 함수와 구분하기 위해 <strong>메서드</strong>라 부른다.</li>
+</ul>
+</li>
+<li>객체의 집합으로 프로그램을 표현하려는 프로그래밍 패러다임을 객체지향 프로그래밍이라 한다. (<a href="./19_prototype.md#191-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">19.1. 객체지향 프로그래밍</a> 참고)</li>
+</ul>
+<h4>프로퍼티와 메서드의 역할</h4>
+<p>객체는 프로퍼티와 메서드로 구성된 집합체로, 상태와 동작을 하나의 단위로 구조화할 수 있어 유용하다.</p>
+<ul>
+<li>프로퍼티(property): 객체의 상태를 나타내는 값(data)</li>
+<li>메서드(method): 프로퍼티(상태 데이터)를 참조하고 조작할 수 있는 동작(behavior)</li>
+</ul>
+<h2>10.2. 객체 리터럴에 의한 객체 생성</h2>
+<ul>
+<li>
+<p>클래스 기반 객체지향 언어(ex. C++, Java)는 클래스를 사전에 정의하고 필요한 시점에 <code>new</code> 연산자와 함께 생성자(constructor)를 호출하여 인스턴스를 생성하는 방식으로 객체를 생성한다.</p>
+<ul>
+<li>인스턴스(instance): 클래스에 의해 생성되어 메모리에 저장된 실체.</li>
+<li>객체지향 프로그래밍에서 객체는 클래스와 인스턴스를 포함한 개념</li>
+<li>클래스는 인스턴스를 생성하기 위한 템플릿의 역할</li>
+<li>인스턴스는 객체가 메모리에 저장되어 실제로 존재하는 것에 초점을 맞춘 용어</li>
+</ul>
+</li>
+<li>
+<p>프로토타입 기반 객체지향 언어(ex. Javascript)는 다양한 객체 생성 방법을 지원한다.</p>
+<ul>
+<li>객체 리터럴</li>
+<li><code>Object</code> 생성자 함수</li>
+<li>생성자 함수</li>
+<li><code>Object.create</code> 메서드</li>
+<li>클래스(ES6)</li>
+</ul>
+</li>
+</ul>
+<h3>객체 리터럴</h3>
+<p>객체 리터럴(객체를 생성하기 위한 표기법)을 사용한 객체 생성은 자바스크립트의 유연함과 강력함을 대표하는 객체 생성 방식으로, 가장 일반적이고 간단한 방법이다. (객체 리터럴 외의 객체 생성 방식은 모두 함수를 사용해 객체를 생성한다.)</p>
+<pre><code class="language-js">var person = {
+  name: 'Lee',
+  sayHello: function () {
+    console.log(`Hello! My name is ${this.name}.`);
+  }
+};
+
+console.log(typeof person); // object
+console.log(person); // {name: "Lee", sayHello: ƒ}
+</code></pre>
+<p>중괄호(<code>{...}</code>) 내에 0개 이상의 프로퍼티를 정의한다. 변수에 할당되는 시점에 자바스크립트 엔진은 객체 리터럴을 해석해 객체를 생성한다.</p>
+<ul>
+<li>만약 중괄호 내에 프로퍼티를 정의하지 않으면 빈 객체가 생성된다.</li>
+<li>객체 리터럴의 중괄호는 코드 블록을 의미하지 않으며, 객체 리터럴은 값으로 평가되는 표현식이기 때문에 닫는 중괄호 뒤에는 세미콜론을 붙인다.</li>
+<li>숫자값이나 문자열을 만드는 것과 유사하게 리터럴로 객체를 생성하며, 객체 리터럴에 프로퍼티를 포함시켜 객체를 생성함과 동시에 프로퍼티를 만들 수도 있고, 객체를 생성한 이후에 프로퍼티를 동적으로 추가할 수도 있다.</li>
+</ul>
+<h2>10.3. 프로퍼티</h2>
+<p>객체는 프로퍼티의 집합이며, 프로퍼티는 키와 값으로 구성된다.</p>
+<ul>
+<li>프로퍼티 키와 프로퍼티 값으로 사용할 수 있는 값
+<ul>
+<li>프로퍼티 키: 빈 문자열을 포함하는 모든 문자열 또는 심벌값 
+<ul>
+<li>식별자 네이밍 규칙을 준수하는 프로퍼티 키를 사용할 것을 권장</li>
+<li>빈 문자열도 프로퍼티 키로 사용할 수 있다.</li>
+<li>문자열이나 심벌값 이외의 값을 사용하면 암묵적 타입 변환을 통해 문자열로 변환</li>
+</ul>
+</li>
+<li>프로퍼티 값: 자바스크립트에서 사용할 수 있는 모든 값</li>
+</ul>
+</li>
+</ul>
+<p>프로퍼티를 나열할 때는 쉼표(,)로 구분한다.</p>
+<pre><code class="language-js">var person = {
+  // 프로퍼티 키는 name, 프로퍼티 값은 'Lee'
+  name: 'Lee',
+  // 프로퍼티 키는 age, 프로퍼티 값은 20
+  age: 20
+};
+</code></pre>
+<p>문자열 또는 문자열로 평가할 수 있는 표현식을 사용하여 프로퍼티 키를 동적으로 생성할 수도 있다. 프로퍼티 키로 사용할 표현식을 대괄호(<code>[...]</code>)로 묶어야 한다.</p>
+<pre><code class="language-js">var obj = {};
+var key = 'hello';
+
+// ES5: 프로퍼티 키 동적 생성
+obj[key] = 'world';
+// ES6: 계산된 프로퍼티 이름
+// var obj = { [key]: 'world' };
+
+console.log(obj); // {hello: "world"}
+</code></pre>
+<p>이미 존재하는 프로퍼티 키를 중복 선언하면 나중에 선언한 프로퍼티가 먼저 선언한 프로퍼티를 덮어쓴다.</p>
+<pre><code class="language-js">var foo = {
+  name: 'Lee',
+  name: 'Kim'
+};
+
+console.log(foo); // {name: "Kim"}
+</code></pre>
+<h2>10.4. 메서드</h2>
+<p>프로퍼티 값이 함수일 경우 일반 함수와 구분하기 위해 메서드(method)라 부른다.</p>
+<p>즉, 메서드는 객체에 묶여있는 함수를 의미한다.</p>
+<pre><code class="language-js">var circle = {
+  radius: 5, // ← 프로퍼티
+
+  // 원의 지름
+  getDiameter: function () { // ← 메서드
+    return 2 * this.radius; // this는 circle을 가리킨다.
+  }
+};
+
+console.log(circle.getDiameter()); // 10
+</code></pre>
+<h2>10.5. 프로퍼티 접근</h2>
+<ul>
+<li>마침표 프로퍼티 접근 연산자(<code>.</code>)를 사용하는 마침표 표기법 (dot notation)</li>
+<li>대괄호 프로퍼티 접근 연산자(<code>[...]</code>)를 사용하는 대괄호 표기법 (bracket notation)
+<ul>
+<li>대괄호 프로퍼티 접근 연산자 내부에 지정하는 프로퍼티 키는 반드시 따옴표로 감싼 문자열이어야 한다.</li>
+</ul>
+</li>
+</ul>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+// 따옴표로 감싸지 않은 이름을 프로퍼티 키로 사용하면
+// 자바스크립트 엔진이 식별자로 해석하기 때문에 에러가 발생
+console.log(person[name]); // ReferenceError: name is not defined
+</code></pre>
+<p>객체에 존재하지 않는 프로퍼티에 접근하면 <code>undefined</code>를 반환한다.</p>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+console.log(person.age); // undefined
+</code></pre>
+<p>브라우저 환경과 Node.js 환경에서의 실행결과 차이</p>
+<ul>
+<li>브라우저 환경에서는 <code>name</code>이라는 전역 변수(전역 객체 <code>window</code>의 프로퍼티)가 암묵적으로 존재
+<ul>
+<li><a href="./21_built_in_object.md#214-%EC%A0%84%EC%97%AD%EA%B0%9D%EC%B2%B4">21.4. 전역객체</a> 참고</li>
+</ul>
+</li>
+<li>Node.js 환경에서는 어디에서도 <code>name</code>이라는 식별자(변수, 함수 등의 이름) 선언이 없으므로 <code>ReferenceError: name is not defined</code> 에러</li>
+</ul>
+<pre><code class="language-js">var person = {
+  'last-name': 'Lee',
+  1: 10
+};
+
+person.'last-name';  // -> SyntaxError: Unexpected string
+person.last-name;    // -> 브라우저 환경: NaN
+                     // -> Node.js 환경: ReferenceError: name is not defined
+person[last-name];   // -> ReferenceError: last is not defined
+person['last-name']; // -> Lee
+
+// 프로퍼티 키가 숫자로 이뤄진 문자열인 경우 따옴표를 생략할 수 있다.
+person.1;     // -> SyntaxError: Unexpected number
+person.'1';   // -> SyntaxError: Unexpected string
+person[1];    // -> 10 : person[1] -> person['1']
+person['1'];  // -> 10
+</code></pre>
+<h2>10.6. 프로퍼티 값 갱신</h2>
+<p>이미 존재하는 프로퍼티에 값을 할당하면 프로퍼티 값이 갱신된다.</p>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+// person 객체에 name 프로퍼티가 존재하므로 name 프로퍼티의 값이 갱신된다.
+person.name = 'Kim';
+
+console.log(person);  // {name: "Kim"}
+</code></pre>
+<h2>10.7. 프로퍼티 동적 생성</h2>
+<p>존재하지 않는 프로퍼티에 값을 할당하면 프로퍼티가 동적으로 생성되어 추가되고 프로퍼티 값이 할당된다.</p>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+// person 객체에는 age 프로퍼티가 존재하지 않는다.
+// 따라서 person 객체에 age 프로퍼티가 동적으로 생성되고 값이 할당된다.
+person.age = 20;
+
+console.log(person); // {name: "Lee", age: 20}
+</code></pre>
+<h2>10.8. 프로퍼티 삭제</h2>
+<p><code>delete</code> 연산자는 객체의 프로퍼티를 삭제한다.</p>
+<ul>
+<li><code>delete</code> 연산자의 피연산자는 프로퍼티 값에 접근할 수 있는 표현식이어야 한다.</li>
+<li>존재하지 않는 프로퍼티를 삭제하면 아무런 에러 없이 무시된다.</li>
+</ul>
+<pre><code class="language-js">var person = {
+  name: 'Lee'
+};
+
+// 프로퍼티 동적 생성
+person.age = 20;
+
+// person 객체에 age 프로퍼티가 존재한다.
+// 따라서 delete 연산자로 age 프로퍼티를 삭제할 수 있다.
+delete person.age;
+
+// person 객체에 address 프로퍼티가 존재하지 않는다.
+// 따라서 delete 연산자로 address 프로퍼티를 삭제할 수 없다. 이때 에러가 발생하지 않는다.
+delete person.address;
+
+console.log(person); // {name: "Lee"}
+</code></pre>
+<h2>10.9. ES6에서 추가된 객체 리터럴의 확장 기능</h2>
+<h3>10.9.1. 프로퍼티 축약 표현</h3>
+<p>ES6에서는 프로퍼티 값으로 변수를 사용하는 경우 변수 이름과 프로퍼티 키가 동일한 이름일 때 프로퍼티 키를 생략(property shorthand)할 수 있다. 이때 프로퍼티 키는 변수 이름으로 자동 생성된다.</p>
+<pre><code class="language-js">let x = 1, y = 2;
+
+// 프로퍼티 축약 표현
+const obj = { x, y };
+
+console.log(obj); // {x: 1, y: 2}
+</code></pre>
+<h3>10.9.2. 계산된 프로퍼티 이름</h3>
+<p>문자열 또는 문자열 타입 변환할 수 있는 값으로 평가되는 표현식을 사용해 프로퍼티 키를 동적으로 생성할 수 있다. 단, 프로퍼티 키로 사용할 표현식을 대괄호(<code>[...]</code>)로 묶어야 하며, 이를 계산된 프로퍼티 이름(computed property name)이라 한다.</p>
+<pre><code class="language-js">const prefix = 'prop';
+let i = 0;
+
+// 객체 리터럴 내부에서 계산된 프로퍼티 이름으로 프로퍼티 키 동적 생성
+const obj = {
+  [`${prefix}-${++i}`]: i,
+  [`${prefix}-${++i}`]: i,
+  [`${prefix}-${++i}`]: i
+};
+
+console.log(obj); // {prop-1: 1, prop-2: 2, prop-3: 3}
+</code></pre>
+<h3>10.9.3. 메서드 축약 표현</h3>
+<p><code>function</code> 키워드를 생략한 축약 표현을 사용할 수 있다.</p>
+<pre><code class="language-js">const obj = {
+  name: 'Lee',
+  // 메서드 축약 표현
+  sayHi() {
+    console.log('Hi! ' + this.name);
+  }
+};
+
+obj.sayHi(); // Hi! Lee
+</code></pre>
+<p>ES6의 메서드 축약 표현으로 정의한 메서드는 프로퍼티에 할당한 함수와 다르게 동작한다. (<a href="./26_ES6_additional_function_feature.md#262-%EB%A9%94%EC%86%8C%EB%93%9C">26.2. 메서드</a> 참고)</p>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

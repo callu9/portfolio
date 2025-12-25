@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","15_let_const_and_block_level_scope"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/15_let_const_and_block_level_scope","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-mint","style":{"left":"33.970872413723164%","top":"62.880103123423936%","width":"288.06932230871416px","height":"288.06932230871416px","animation":"float 16.485614291780564s ease-in-out infinite","animationDelay":"4.960830638121887s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"30.937626017846686%","top":"37.1780319167621%","width":"230.9453263600351px","height":"230.9453263600351px","animation":"float 16.26475167328486s ease-in-out infinite","animationDelay":"16.049102596121738s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"58.519145696800344%","top":"0.3151754733423662%","width":"461.2205611418334px","height":"461.2205611418334px","animation":"float 18.84500128162041s ease-in-out infinite","animationDelay":"17.137107777657953s"}}],["$","div","3",{"className":"dot dot-peach","style":{"left":"47.432018270415455%","top":"28.51240585105357%","width":"268.6921611975756px","height":"268.6921611975756px","animation":"float 17.173141857803515s ease-in-out infinite","animationDelay":"3.888178092363781s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"69.87770202668202%","top":"51.393656348583725%","width":"245.62927814417398px","height":"245.62927814417398px","animation":"float 18.10141172638835s ease-in-out infinite","animationDelay":"15.908257498499532s"}}],["$","div","5",{"className":"dot dot-mint","style":{"left":"29.788411923410884%","top":"49.667533379127946%","width":"274.74612174665265px","height":"274.74612174665265px","animation":"float 16.236884690034458s ease-in-out infinite","animationDelay":"4.559320113579997s"}}],["$","div","6",{"className":"dot dot-peach","style":{"left":"6.852031080256715%","top":"68.48731644228833%","width":"418.8689356831708px","height":"418.8689356831708px","animation":"float 18.407668118855632s ease-in-out infinite","animationDelay":"2.7801562863187415s"}}],["$","div","7",{"className":"dot dot-sage","style":{"left":"2.4161080115978395%","top":"16.231519070196263%","width":"272.78267392773466px","height":"272.78267392773466px","animation":"float 19.519531340319134s ease-in-out infinite","animationDelay":"8.316974877303045s"}}],["$","div","8",{"className":"dot dot-peach","style":{"left":"48.444204996239%","top":"77.03083753389188%","width":"496.20032095798877px","height":"496.20032095798877px","animation":"float 16.46286244971527s ease-in-out infinite","animationDelay":"5.036226766975109s"}}],["$","div","9",{"className":"dot dot-sage","style":{"left":"74.73864171570254%","top":"90.75945755081725%","width":"483.2040304294642px","height":"483.2040304294642px","animation":"float 19.095289510879212s ease-in-out infinite","animationDelay":"9.149778461609896s"}}],["$","div","10",{"className":"dot dot-sage","style":{"left":"58.307049394126985%","top":"86.03256460477529%","width":"371.9372460281339px","height":"371.9372460281339px","animation":"float 15.496833402395255s ease-in-out infinite","animationDelay":"12.280747506753242s"}}],["$","div","11",{"className":"dot dot-peach","style":{"left":"76.98009567497373%","top":"82.76966882444063%","width":"462.0049281112532px","height":"462.0049281112532px","animation":"float 17.97014540651263s ease-in-out infinite","animationDelay":"16.68804311234147s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L4","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+c:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+4:["$","$Lc",null,{}]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$@12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$@14"}]}]}],null]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+15:T3251,<h1>15. let, const 키워드와 블록 레벨 스코프</h1>
+<h2>15.1. <code>var</code> 키워드로 선언한 변수의 문제점</h2>
+<h3>15.1.1. 변수 중복 선언 허용</h3>
+<pre><code class="language-js">var x = 1;
+var y = 1;
+
+// var 키워드로 선언된 변수는 같은 스코프 내에서 중복 선언을 허용한다.
+// 초기화문이 있는 변수 선언문은 자바스크립트 엔진에 의해 var 키워드가 없는 것처럼 동작한다.
+var x = 100;
+// 초기화문이 없는 변수 선언문은 무시된다.
+var y;
+
+console.log(x); // 100
+console.log(y); // 1
+</code></pre>
+<h3>15.1.2. 함수 레벨 스코프</h3>
+<p><code>var</code> 키워드로 선언한 변수는 오로지 함수의 코드 블록만을 지역 스코프로 인정한다. 따라서 함수 외부에서 <code>var</code> 키워드로 선언한 변수는 코드 블록 내에서 선언해도 모두 전역 변수가 된다.</p>
+<pre><code class="language-js">var x = 1;
+
+if (true) {
+  // x는 전역 변수다. 이미 선언된 전역 변수 x가 있으므로 x 변수는 중복 선언된다.
+  // 이는 의도치 않게 변수값이 변경되는 부작용을 발생시킨다.
+  var x = 10;
+}
+
+console.log(x); // 10
+</code></pre>
+<pre><code class="language-js">var i = 10;
+
+// for문에서 선언한 i는 전역 변수이다. 이미 선언된 전역 변수 i가 있으므로 중복 선언된다.
+for (var i = 0; i &#x3C; 5; i++) {
+  console.log(i); // 0 1 2 3 4
+}
+
+// 의도치 않게 i 변수의 값이 변경되었다.
+console.log(i); // 5
+</code></pre>
+<p>함수 레벨 스코프는 전역 변수를 남발할 가능성을 높인다. 이로 인해 의도치 않게 전역 변수가 중복 선언되는 경우가 발생한다.</p>
+<h3>15.1.3. 변수 호이스팅</h3>
+<pre><code class="language-js">// 이 시점에는 변수 호이스팅에 의해 이미 foo 변수가 선언되었다 (1. 선언 단계)
+// 변수 foo는 undefined로 초기화된다. (2. 초기화 단계)
+console.log(foo); // undefined
+
+// 변수에 값을 할당 (3. 할당 단계)
+foo = 123;
+
+console.log(foo); // 123
+
+// 변수 선언은 런타임 이전에 자바스크립트 엔진에 의해 암묵적으로 실행된다.
+var foo;
+</code></pre>
+<p>변수 선언문 이전에 변수를 참조하는 것은 변수 호이스팅에 의해 에러를 발생시키지는 않지만 프로그램의 흐름상 맞지 않을뿐더러 가독성을 떨어뜨리고 오류를 발생시킬 여지를 남긴다.</p>
+<h2>15.2. let 키워드</h2>
+<h3>15.2.1. 변수 중복 선언 금지</h3>
+<p><code>var</code> 키워드로 이름이 동일한 변수를 중복 선언하면 아무런 에러가 발생하지 않는다. 이때 변수를 중복 선언하면서 값까지 할당했다면 의도치 않게 먼저 선언된 변수 값이 재할당되어 변경되는 부작용이 발생한다.</p>
+<p>하지만 <code>let</code> 키워드로 이름이 같은 변수를 중복 선언하면 문법 에러(Syntax Error)가 발생한다.</p>
+<pre><code class="language-js">var foo = 123;
+// var 키워드로 선언된 변수는 같은 스코프 내에서 중복 선언을 허용한다.
+// 아래 변수 선언문은 자바스크립트 엔진에 의해 var 키워드가 없는 것처럼 동작한다.
+var foo = 456;
+
+let bar = 123;
+// let이나 const 키워드로 선언된 변수는 같은 스코프 내에서 중복 선언을 허용하지 않는다.
+let bar = 456; // SyntaxError: Identifier 'bar' has already been declared
+</code></pre>
+<h3>15.2.2. 블록 레벨 스코프</h3>
+<p><code>var</code> 키워드로 선언한 변수는 오로지 함수의 코드 블록만을 지역 스코프로 인정하는 함수 레벨 스코프를 따른다.</p>
+<p>하지만 <code>let</code> 키워드로 선언한 변수는 모든 코드 블록(함수, if 문, for 문, while 문, try/catch 문 등)을 지역 스코프로 인정하는 블록 레벨 스코프를 따른다.</p>
+<pre><code class="language-js">let foo = 1; // 전역 변수
+
+{
+  let foo = 2; // 지역 변수
+  let bar = 3; // 지역 변수
+}
+
+console.log(foo); // 1
+console.log(bar); // ReferenceError: bar is not defined
+</code></pre>
+<h3>15.2.3. 변수 호이스팅</h3>
+<p><code>var</code> 키워드로 선언한 변수는 런타임 이전에 자바스크립트 엔진에 의해 암묵적으로 "선언 단계"와 "초기화 단계"가 한번에 진행된다. 즉, 선언 단계에서 스코프(실행 컨텍스트의 렉시컬 환경)에 변수 식별자를 등록해 자바스크립트 엔진에 변수의 존재를 알리고 즉시 초기화 단계에서 undefined로 변수를 초기화한다. 
+따라서 변수 선언문 이전에 변수에 접근해도 스코프에 변수가 존재하기 때문에 에러가 발생하지 않고 undefined를 반환하며 이후 변수 할당문에 도달하면 비로소 값이 할당된다.</p>
+<pre><code class="language-js">// var 키워드로 선언한 변수는 런타임 이전에 선언 단계와 초기화 단계가 실행된다.
+// 따라서 변수 선언문 이전에 변수를 참조할 수 있다.
+console.log(foo); // undefined
+
+var foo;
+console.log(foo); // undefined
+
+foo = 1; // 할당문에서 할당 단계가 실행된다.
+console.log(foo); // 1
+</code></pre>
+<p><strong><code>let</code> 키워드로 선언한 변수는 "선언 단계"와 "초기화 단계"가 분리되어 진행된다.</strong> 즉, 런타임 이전에 자바스크립트 엔진에 의해 암묵적으로 선언 단계가 먼저 실행되지만 초기화 단계는 변수 선언문에 도달했을 때 실행된다.
+만약 초기화 단계가 실행되기 이전에 변수에 접근하려고 하면 참조 에러(Reference Error)가 발생한다. <code>let</code> 키워드로 선언한 변수는 스코프의 시작 지점부터 초기화 단계 시작 지점(변수 선언문)까지 변수를 참조할 수 없다. 스코프의 시작 지점부터 초기화 시작 지점까지 변수를 참조할 수 없는 구간을 <strong>일시적 사각지대</strong>(Temporal Dead Zone, TDZ)라고 부른다.</p>
+<pre><code class="language-js">// 런타임 이전에 선언 단계가 실행된다. 아직 변수가 초기화되지 않았다.
+// 초기화 이전의 일시적 사각 지대에서는 변수를 참조할 수 없다.
+console.log(foo); // ReferenceError: foo is not defined
+
+let foo; // 변수 선언문에서 초기화 단계가 실행된다.
+console.log(foo); // undefined
+
+foo = 1; // 할당문에서 할당 단계가 실행된다.
+console.log(foo); // 1
+</code></pre>
+<p><code>let</code> 키워드로 선언한 변수는 변수 호이스텅이 발생하지 않는 것처럼 보이지만 그렇지 않다.</p>
+<p>자바스크립트는 ES6에서 도입된 let, const를 포함해서 모든 선언(var, let, const, function, function*, class 등)을 호이스팅한다. 단, ES6에서 도입된 let, const, class를 사용한 선언문은 호이스팅이 발생하지 않는 것처럼 동작한다.</p>
+<pre><code class="language-js">let foo = 1; // 전역 변수
+
+{
+  console.log(foo); // ReferenceError: Cannot access 'foo' before initialization
+  let foo = 2; // 지역 변수
+}
+</code></pre>
+<h3>15.2.4. 전역 객체와 let</h3>
+<p><code>var</code> 키워드로 선언한 전역 변수와 전역 함수, 그리고 선언하지 않은 변수에 값을 할당한 암묵적 전역은 전역 객체 window의 프로퍼티가 된다. 전역 객체의 프로퍼티를 참조할 때 window를 생략할 수 있다.</p>
+<pre><code class="language-js">// 이 예제는 브라우저 환경에서 실행해야 한다.
+
+// 전역 변수
+var x = 1;
+// 암묵적 전역
+y = 2;
+// 전역 함수
+function foo() {}
+
+// var 키워드로 선언한 전역 변수는 전역 객체 window의 프로퍼티다.
+console.log(window.x); // 1
+// 전역 객체 window의 프로퍼티는 전역 변수처럼 사용할 수 있다.
+console.log(x); // 1
+
+// 암묵적 전역은 전역 객체 window의 프로퍼티다.
+console.log(window.y); // 2
+console.log(y); // 2
+
+// 함수 선언문으로 정의한 전역 함수는 전역 객체 window의 프로퍼티다.
+console.log(window.foo); // ƒ foo() {}
+// 전역 객체 window의 프로퍼티는 전역 변수처럼 사용할 수 있다.
+console.log(foo); // ƒ foo() {}
+</code></pre>
+<p>그러나 <code>let</code> 키워드로 선언한 전역 변수는 전역 객체의 프로퍼티가 아니다. 즉，window.foo와 같이 접근할 수 없다. let 전역 변수는 보이지 않는 개념적인 블록(전역 렉시컬 환경의 선언적 환경 레코드) 내에 존재하게 된다. (<a href="./23_execution_context.md">23. 실행 컨텍스트</a> 참고)</p>
+<pre><code class="language-js">// 이 예제는 브라우저 환경에서 실행해야 한다.
+let x = 1;
+
+// let, const 키워드로 선언한 전역 변수는 전역 객체 window의 프로퍼티가 아니다.
+console.log(window.x); // undefined
+console.log(x); // 1
+</code></pre>
+<h2>15.3. const 키워드</h2>
+<p><code>const</code> 키워드는 상수(constant)를 선언하기 위해 사용한다. 하지만 반드시 상수만을 위해 사용하지는 않는다.</p>
+<p><code>const</code> 키워드의 특징은 let 키워드와 대부분 동일하나, 아래의 차이점이 있다.</p>
+<h3>15.3.1. 선언과 초기화</h3>
+<p><code>const</code> 키워드로 선언한 변수는 반드시 선언과 동시에 초기화해야 한다. 그렇지 않으면 문법 에러(Syntax Error) 발생한다.</p>
+<pre><code class="language-js">const foo; // SyntaxError: Missing initializer in const declaration
+</code></pre>
+<p><code>const</code> 키워드로 선언한 변수는 let 키워드로 선언한 변수와 마찬가지로 블록 레벨 스코프를 가지며, 변수 호이스팅이 발생하지 않는 것처럼 동작한다.</p>
+<pre><code class="language-js">{
+  // 변수 호이스팅이 발생하지 않는 것처럼 동작한다
+  console.log(foo); // ReferenceError: Cannot access 'foo' before initialization
+  const foo = 1;
+  console.log(foo); // 1
+}
+
+// 블록 레벨 스코프를 갖는다.
+console.log(foo); // ReferenceError: foo is not defined
+</code></pre>
+<h3>15.3.2. 재할당 금지</h3>
+<pre><code class="language-js">const foo = 1;
+foo = 2; // TypeError: Assignment to constant variable.
+</code></pre>
+<p>var 또는 let 키워드로 선언한 변수는 재할당이 자유로우나 <code>const</code> 키워드로 선언한 변수는 재할당이 금지된다.</p>
+<h3>15.3.3. 상수</h3>
+<p><code>const</code> 키워드로 선언한 변수에 원시 값을 할당한 경우 재할당 없이 변수 값을 변경할 수 있는 방법이 없기 때문에 상수를 표현하는 데 사용하기도 한다.</p>
+<ul>
+<li>상수는 재할당이 금지된 변수를 말한다.</li>
+<li>상수는 상태 유지와 가독성, 유지보수의 편의를 위해 사용</li>
+</ul>
+<pre><code class="language-js">// 세율을 의미하는 0.1은 변경할 수 없는 상수로서 사용될 값이다.
+// 변수 이름을 대문자로 선언해 상수임을 명확히 나타낸다.
+const TAX_RATE = 0.1;
+
+// 세전 가격
+let preTaxPrice = 100;
+
+// 세후 가격
+let afterTaxPrice = preTaxPrice + (preTaxPrice * TAX_RATE);
+
+console.log(afterTaxPrice); // 110
+</code></pre>
+<h3>15.3.4. <code>const</code> 키워드와 객체</h3>
+<p><code>const</code> 키워드로 선언된 변수에 객체를 할당한 경우 값을 변경할 수 있다. 재할당을 금지할 뿐 불변을 의미하지는 않기 때문이다.  다시 말해, 새로운 값을 재할당하는 것은 불가능하지만 프로퍼티 동적 생성, 삭제, 프로퍼티 값의 변경을 통해 객체를 변경하는 것은 가능하다. 이때 객체가 변경되더라도 변수에 할당된 참조 값은 변경되지 않는다.</p>
+<pre><code class="language-js">const person = {
+  name: 'Lee'
+};
+
+// 객체는 변경 가능한 값이다. 따라서 재할당없이 변경이 가능하다.
+person.name = 'Kim';
+
+console.log(person); // {name: "Kim"}
+</code></pre>
+<h2>15.4. <code>var</code> vs. <code>let</code> vs. <code>const</code></h2>
+<p>변수 선언에는 기본적으로 <code>const</code>를 사용하고 <code>let</code>은 재할당이 필요한 경우에 한정해 사용하는 것이 좋다. <code>const</code> 키워드를 사용하면 의도치 않은 재할당을 방지하기 때문에 좀 더 안전하다.</p>
+<ul>
+<li>ES6를 시용한다면 <code>var</code> 키워드는 사용하지 않는다.</li>
+<li>재할당이 필요한 경우에 한정해 <code>let</code> 키워드를 사용한다. 이때 변수의 스코프는 최대한 좁게 만든다.</li>
+<li>변경이 발생하지 않고 읽기 전용으로 사용하는(재할당이 필요 없는 상수) 원시 값과 객체에는 <code>const</code> 키워드를 사용한다. const 키워드는 재할당을 금지하므로 <code>var</code>, <code>let</code> 키워드보다 안전하다.</li>
+</ul>
+d:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}],"$L16"]}]}]}]
+14:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+10:null
+18:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+16:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L18",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]

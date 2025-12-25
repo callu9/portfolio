@@ -1,0 +1,231 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","24_closure"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/24_closure","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"45.60718076979453%","top":"90.92008403717631%","width":"434.4552276752664px","height":"434.4552276752664px","animation":"float 15.715908794043388s ease-in-out infinite","animationDelay":"6.939687557938504s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"7.520931908741857%","top":"54.55423278323737%","width":"446.6288432403884px","height":"446.6288432403884px","animation":"float 19.483306041004113s ease-in-out infinite","animationDelay":"11.8044484000247s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"50.189747678922835%","top":"56.65674158325484%","width":"247.8735050664853px","height":"247.8735050664853px","animation":"float 19.065300594762384s ease-in-out infinite","animationDelay":"14.539893016655316s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"31.454299673561216%","top":"57.060576355830904%","width":"350.9463283713558px","height":"350.9463283713558px","animation":"float 17.172020112846884s ease-in-out infinite","animationDelay":"11.598854665042985s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"15.483375288428181%","top":"72.59725263852836%","width":"473.86414293909513px","height":"473.86414293909513px","animation":"float 16.0526371017721s ease-in-out infinite","animationDelay":"13.16471089462958s"}}],["$","div","5",{"className":"dot dot-peach","style":{"left":"74.77462694296632%","top":"32.81934105567819%","width":"412.83819810020935px","height":"412.83819810020935px","animation":"float 16.116482494853592s ease-in-out infinite","animationDelay":"13.828310833232104s"}}],["$","div","6",{"className":"dot dot-coral","style":{"left":"40.526141136384%","top":"99.77637091571813%","width":"479.21063608854877px","height":"479.21063608854877px","animation":"float 15.344477953438764s ease-in-out infinite","animationDelay":"0.6868662285432935s"}}],["$","div","7",{"className":"dot dot-mint","style":{"left":"88.3935581136572%","top":"71.80306037082384%","width":"491.85955551194047px","height":"491.85955551194047px","animation":"float 16.244303459755074s ease-in-out infinite","animationDelay":"7.116330090968677s"}}],["$","div","8",{"className":"dot dot-mint","style":{"left":"82.01235394918531%","top":"67.28412222472411%","width":"298.1197898922328px","height":"298.1197898922328px","animation":"float 17.288261110497658s ease-in-out infinite","animationDelay":"12.892301029474991s"}}],["$","div","9",{"className":"dot dot-sage","style":{"left":"21.297793943592414%","top":"60.98964063257928%","width":"251.45952123763598px","height":"251.45952123763598px","animation":"float 17.11187234308179s ease-in-out infinite","animationDelay":"2.546132450394291s"}}],["$","div","10",{"className":"dot dot-peach","style":{"left":"64.24866128874167%","top":"12.310383834372862%","width":"207.09468395738816px","height":"207.09468395738816px","animation":"float 18.517217529711058s ease-in-out infinite","animationDelay":"7.164504720306102s"}}],["$","div","11",{"className":"dot dot-peach","style":{"left":"20.719014168314654%","top":"16.22720549719339%","width":"280.4709319264924px","height":"280.4709319264924px","animation":"float 19.609678838632902s ease-in-out infinite","animationDelay":"5.715839942951042s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L5"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T28ed,<h1>24. 클로저</h1>
+<p>클로저(closure)는 함수와 그 함수가 선언된 렉시컬 환경과의 조합이다.</p>
+<h2>24.1. 렉시컬 스코프</h2>
+<p>자바스크립트 엔진은 <strong>함수를 어디에 정의했는지에 따라 상위 스코프를 결정</strong>하는데, 이를 렉시컬 스코프(정적 스코프)라 한다.</p>
+<p><strong>스코프</strong>는 즉 실행 컨텍스트의 렉시컬 환경이다. <strong>스코프 체인</strong>은 렉시컬 환경이 "외부 렉시컬 환경에 대한 참조"를 통해 상위 렉시컬 환경과 연결되는 것을 말한다.</p>
+<p>즉, <strong>렉시컬 스코프</strong>는 렉시컬 환경의 "외부 렉시컬 환경에 대한 참조"에 저장할 참조값, 즉 상위 스코프에 대한 참조는 함수 정의가 평가되는 시점에 함수가 정의된 환경(위치)에 의해 결정된다는 것을 의미한다.</p>
+<h2>24.2. 함수 객체의 내부 슬롯 <code>[[Environment]]</code></h2>
+<p>렉시컬 스코프에서 함수가 정의된 환경, 즉 자신의 상위 스코프를 기억하기 위해 <strong>함수는 자신의 내부 슬롯 <code>[[Environment]]</code>에 자신이 정의된 환경(상위 스코프)의 참조를 저장</strong>한다. 이때 저장된 상위 스코프의 참조는 <strong>현재 실행 중인 실행 컨텍스트의 렉시컬 환경</strong>을 가리킨다.</p>
+<pre><code class="language-js">const x = 1;
+
+function foo() {
+  const x = 10;
+
+  // 상위 스코프는 함수 정의 환경(위치)에 따라 결정된다.
+  // 함수 호출 위치와 상위 스코프는 아무런 관계가 없다.
+  bar();
+}
+
+// 함수 bar는 자신의 상위 스코프, 즉 전역 렉시컬 환경을 [[Environment]]에 저장하여 기억한다.
+function bar() {
+  console.log(x);
+}
+
+foo(); // 1
+bar(); // 1
+</code></pre>
+<p>아래의 함수 코드 평가 과정 중, 함수 렉시컬 환경의 구성 요소인 <strong>외부 렉시컬 환경에 대한 참조에는 함수 객체의 내부 슬롯 <code>[[Environment]]</code>에 저장된 렉시컬 환경의 참조가 할당</strong>된다. 즉, 함수 객체의 내부 슬롯 <code>[[Environment]]</code>에 저장된 렉시컬 환경의 참조는 바로 함수의 상위 스코프를 의미한다. 결국 렉시컬 스코프란 함수 정의 위치에 따라 상위 스코프를 결정한다는 것이다.</p>
+<h2>24.3. 클로저와 렉시컬 환경</h2>
+<pre><code class="language-js">const x = 1;
+
+// ① outer 함수 객체의 생성
+function outer() {
+  const x = 10;
+  
+  // ② 중첩 함수 inner의 평가
+  const inner = function () { console.log(x); }; 
+  return inner;
+}
+
+// ③ outer 함수의 호출
+// 중첩 함수 inner를 반환하고, 생명주기를 마감 (outer 함수의 실행 컨텍스트는 실행 컨텍스트 스택에서 팝되어 제거된다.)
+// outer 함수의 렉시컬 환경은 innerFunc에 의해 참조되고 있으므로 소멸하지 않는다.
+const innerFunc = outer();
+
+// ④ innerFunc 함수의 실행
+innerFunc(); // 10
+</code></pre>
+<p>외부 함수보다 중첩 함수가 더 오래 유지되는 경우 <strong>중첩 함수는 이미 생명 주기가 종료한 외부 함수의 변수를 참조할 수 있다.</strong> 이러한 중첩 함수를 <strong>클로저</strong>(closure)라고 한다.
+클로저는 중첩 함수가 상위 스코프의 식별자를 참조하고 있고 중첩 함수가 외부 함수보다 더 오래 유지되는 경우에 한정하는 것이 일반적이다.</p>
+<ul>
+<li>자유 변수 (free variable): 클로저에 의해 참조되는 상위 스코프의 변수</li>
+<li>클로저 (closure): 함수가 자유 변수에 대해 닫혀있다. 즉, <strong>자유 변수에 묶여있는 함수</strong>다.</li>
+</ul>
+<h2>24.4. 클로저의 활용</h2>
+<p>클로저는 <strong>상태를 안전하게 변경하고 유지하기 위해 사용</strong>한다.</p>
+<p>즉, 상태가 의도치 않게 변경되지 않도록 <strong>상태를 안전하게 은닉</strong>(information hiding)하고 <strong>특정 함수에게만 상태 변경을 허용</strong>하기 위해 사용한다.</p>
+<pre><code class="language-js">const counter = (function () {
+  // 카운트 상태 변수
+  let num = 0;
+
+  // 클로저인 메서드를 갖는 객체를 반환한다.
+  // 객체 리터럴은 스코프를 만들지 않는다.
+  // 따라서 아래 메서드들의 상위 스코프는 즉시 실행 함수의 렉시컬 환경이다.
+  return {
+    // num: 0, // 프로퍼티는 public하므로 은닉되지 않는다.
+    increase() {
+      return ++num;
+    },
+    decrease() {
+      return num > 0 ? --num : 0;
+    }
+  };
+}());
+
+console.log(counter.increase()); // 1
+console.log(counter.increase()); // 2
+
+console.log(counter.decrease()); // 1
+console.log(counter.decrease()); // 0
+</code></pre>
+<p>변수 값은 누군가에 의해 언제든지 변경될 수 있어 오류 발생의 근본적 원인이 될 수 있기 때문에, 외부 상태 변경이나 가변(mutable) 데이터를 피하고 불변성(immutable)을 지향하는 함수형 프로그래밍에서 "부수 효과를 최대한 억제하여 오류를 피하고 프로그램의 안정성을 높이기 위해" 클로저가 적극적으로 사용된다.</p>
+<pre><code class="language-js">// 함수를 반환하는 고차 함수
+// 이 함수는 카운트 상태를 유지하기 위한 자유 변수 counter를 기억하는 클로저를 반환한다.
+const counter = (function () {
+  // 카운트 상태를 유지하기 위한 자유 변수
+  let counter = 0;
+
+  // 함수를 인수로 전달받는 클로저를 반환
+  return function (aux) {
+    // 인수로 전달 받은 보조 함수에 상태 변경을 위임한다.
+    counter = aux(counter);
+    return counter;
+  };
+}());
+
+// 보조 함수
+function increase(n) {
+  return ++n;
+}
+
+// 보조 함수
+function decrease(n) {
+  return --n;
+}
+
+// 보조 함수를 전달하여 호출
+console.log(counter(increase)); // 1
+console.log(counter(increase)); // 2
+
+// 자유 변수를 공유한다.
+console.log(counter(decrease)); // 1
+console.log(counter(decrease)); // 0
+</code></pre>
+<h2>24.5. 캡슐화와 정보 은닉</h2>
+<ul>
+<li>캡슐화 (encapsulation): 객체의 상태를 나타내는 프로퍼티와 프로퍼티를 참조하고 조작할 수 있는 동작인 메서드를 하나로 묶는 것. 정보 은닉의 목적으로 사용하기도 한다.</li>
+<li>정보 은닉 (information hiding): 객체의 특정 프로퍼티나 메서드를 감추는 것.
+<ul>
+<li>외부의 접근으로부터 객체의 상태가 변경되는 것을 방지해 정보를 보호하는 효과</li>
+<li>객체 간의 상호 의존성(결합도, coupling)을 낮추는 효과</li>
+</ul>
+</li>
+</ul>
+<pre><code class="language-js">const Person = (function () {
+  let _age = 0; // private
+
+  // 생성자 함수
+  function Person(name, age) {
+    this.name = name; // public
+    _age = age;
+  }
+
+  // 프로토타입 메서드
+  Person.prototype.sayHi = function () {
+    console.log(`Hi! My name is ${this.name}. I am ${_age}.`);
+  };
+
+  // 생성자 함수를 반환
+  return Person;
+}());
+
+const me = new Person('Lee', 20);
+me.sayHi(); // Hi! My name is Lee. I am 20.
+console.log(me.name); // Lee
+console.log(me._age); // undefined
+
+const you = new Person('Kim', 30);
+you.sayHi(); // Hi! My name is Kim. I am 30.
+console.log(you.name); // Kim
+console.log(you._age); // undefined
+</code></pre>
+<p>자바스크립트는 접근 제한자(<code>public</code>, <code>private</code>, <code>protected</code>)를 제공하지 않지만, 자유 변수를 통해 <code>private</code>한 프로퍼티를 흉내낼 수 있다.</p>
+<p>위 예제에서, <code>Person.prototype.sayHi</code> 메서드는 즉시 실행 함수가 종료된 이후에 호출되어 소멸하지만, <code>Person</code> 생성자 함수와 <code>sayHi</code> 메서드가 즉시 실행 함수의 지역 변수 <code>_age</code>를 참조할 수 있는 클로저로서 작용한다.</p>
+<h2>24.6. 자주 발생하는 실수</h2>
+<h3>1) 자주 발생하는 실수의 예시</h3>
+<pre><code class="language-js">var funcs = [];
+
+for (var i = 0; i &#x3C; 3; i++) {
+  funcs[i] = function () { return i; };
+}
+
+for (var j = 0; j &#x3C; funcs.length; j++) {
+  console.log(funcs[j]());
+}
+// 기대한 출력 값 0 1 2
+// 실제 출력 값 3
+// 전역 변수 i를 참조하고 있기 때문이다.
+</code></pre>
+<h3>2) 즉시 실행 함수를 활용한 개선</h3>
+<pre><code class="language-js">var funcs = [];
+
+for (var i = 0; i &#x3C; 3; i++){
+  // 즉시 실행 함수 활용
+  funcs[i] = (function (id) { 
+    return function () {
+      return id;
+    };
+  }(i));
+}
+
+for (var j = 0; j &#x3C; funcs.length; j++) {
+  console.log(funcs[j]()); // 0 1 2
+}
+
+console.log(i) // 3
+</code></pre>
+<h3>3) <code>let</code> 키워드 사용을 통한 개선</h3>
+<pre><code class="language-js">const funcs = [];
+
+for (let i = 0; i &#x3C; 3; i++) {
+  funcs[i] = function () { return i; };
+}
+
+for (let i = 0; i &#x3C; funcs.length; i++) {
+  console.log(funcs[i]()); // 0 1 2
+}
+</code></pre>
+<p><code>let</code> 키워드로 선언한 변수를 사용하여 <code>for</code> 문의 코드 블록이 반복 실행될 때마다 <code>for</code> 문 코드 블록의 새로운 렉시컬 환경(LOOP Lexical Environment)이 생성된다. 따라서 <code>for</code> 문의 코드 블록 내에서 정의한 함수의 함수의 상위 스코프는 <code>for</code> 문의 코드 블록이 반복 실행될 때마다 생성된 <code>for</code> 문 코드 블록의 새로운 렉시컬 환경이다.
+이때 함수의 상위 스코프는 <code>for</code> 문의 코드 블록이 반복 실행될 때마다 식별자(<code>for</code> 문의 변수 선언문에서 선언한 초기화 변수 및 <code>for</code> 문의 코드 블록 내에서 선언한 지역 변수 등)의 값을 유지해야 한다. 이를 위해 for 문이 반복될 때마다 독립적인 렉시컬 환경을 생성하여 식별자의 값을 유지한다.</p>
+<h3>4) 고차 함수 활용을 통한 개선</h3>
+<pre><code class="language-js">// 요소가 3개인 배열을 생성하고 배열의 인덱스를 반환하는 함수를 요소로 추가한다.
+// 배열의 요소로 추가된 함수들은 모두 클로저다.
+const funcs = Array.from(new Array(3), (_, i) => () => i); // (3) [ƒ, ƒ, ƒ]
+
+// 배열의 요소로 추가된 함수 들을 순차적으로 호출한다.
+funcs.forEach(f => console.log(f())); // 0 1 2
+</code></pre>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","14_problems_of_global_variable"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/14_problems_of_global_variable","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-peach","style":{"left":"50.42386866773536%","top":"0.04341804235463709%","width":"306.05843749863527px","height":"306.05843749863527px","animation":"float 19.01354060189646s ease-in-out infinite","animationDelay":"0.19806875736132515s"}}],["$","div","1",{"className":"dot dot-peach","style":{"left":"65.24082716300637%","top":"31.226469834448256%","width":"399.4304035122159px","height":"399.4304035122159px","animation":"float 17.40311126948871s ease-in-out infinite","animationDelay":"10.295186781952518s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"64.6485403504767%","top":"71.9740557852871%","width":"288.7917519569894px","height":"288.7917519569894px","animation":"float 18.853725228641235s ease-in-out infinite","animationDelay":"10.748800023696589s"}}],["$","div","3",{"className":"dot dot-mint","style":{"left":"32.89324126854907%","top":"47.79263637652722%","width":"283.86929323684035px","height":"283.86929323684035px","animation":"float 16.020670813376306s ease-in-out infinite","animationDelay":"10.815765718182334s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"2.11409603637307%","top":"37.32365885064921%","width":"230.11302696657327px","height":"230.11302696657327px","animation":"float 16.617156021220897s ease-in-out infinite","animationDelay":"7.844324347392187s"}}],["$","div","5",{"className":"dot dot-peach","style":{"left":"4.041058090705674%","top":"11.795714807231317%","width":"304.7825444025317px","height":"304.7825444025317px","animation":"float 16.99047052477542s ease-in-out infinite","animationDelay":"12.649372413685635s"}}],["$","div","6",{"className":"dot dot-mint","style":{"left":"7.312884138636644%","top":"96.1572588174535%","width":"371.35930527046617px","height":"371.35930527046617px","animation":"float 16.23123982858257s ease-in-out infinite","animationDelay":"5.289765385293668s"}}],["$","div","7",{"className":"dot dot-peach","style":{"left":"54.886278184618334%","top":"77.68579076076718%","width":"216.9563269386616px","height":"216.9563269386616px","animation":"float 15.115859071729355s ease-in-out infinite","animationDelay":"0.28240877991497937s"}}],["$","div","8",{"className":"dot dot-sage","style":{"left":"10.173968229590113%","top":"37.34656872665549%","width":"278.4486780941782px","height":"278.4486780941782px","animation":"float 16.72116143125254s ease-in-out infinite","animationDelay":"10.892383206842771s"}}],["$","div","9",{"className":"dot dot-coral","style":{"left":"7.008372565587884%","top":"62.20307158434506%","width":"351.9047997085577px","height":"351.9047997085577px","animation":"float 18.130205956229393s ease-in-out infinite","animationDelay":"11.676043855239023s"}}],["$","div","10",{"className":"dot dot-sage","style":{"left":"71.01252977626586%","top":"83.4847539762241%","width":"374.53241189212156px","height":"374.53241189212156px","animation":"float 18.066358907984828s ease-in-out infinite","animationDelay":"12.330278571258862s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"18.358387463754823%","top":"2.1791901243468192%","width":"239.91742266558856px","height":"239.91742266558856px","animation":"float 19.506335305526598s ease-in-out infinite","animationDelay":"12.983647313677604s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+14:T200c,<h1>14. 전역 변수의 문제점</h1>
+<h2>14.1. 변수의생명 주기</h2>
+<h3>14.1.1. 지역 변수의 생명 주기</h3>
+<p>변수는 선언에 의해 생성되고 할당을 통해 값을 갖고 소멸되는 생명 주기(life cycle)가 있다.</p>
+<ul>
+<li>변수의 생명 주기: 메모리 공간이 확보(allocate)된 시점부터 메모리 공간이 해제(release)되어 가용 메모리 풀(memory pool)에 반환되는 시점까지</li>
+</ul>
+<p>함수 내부에서 선언된 지역 변수는 함수가 호출되면 생성되고 함수가 종료하면 소멸한다. 즉, <strong>지역 변수의 생명 주기는 함수의 생명 주기와 일치한다.</strong></p>
+<pre><code class="language-js">function foo() {
+  console.log(x); // undefined
+  var x = 'local';
+  console.log(x); // local
+  return x;
+}
+
+foo();
+console.log(x); // ReferenceError: x is not defined
+</code></pre>
+<p>호이스팅은 스코프를 단위로 동작한다. 지역 변수의 호이스팅은 지역 변수의 선언이 지역 스코프의 선두로 끌어 올려진 것처럼 동작한다. 따라서 지역 변수는 함수 전체에서 유효하다. 즉, 호이스팅은 변수 선언이 스코프의 선두로 끌어 올려진 것처럼 동작하는 자바스크립트 고유의 특징을 말한다.</p>
+<h3>14.1.2. 전역변수의 생명 주기</h3>
+<p>함수와 달리 전역 코드는 명시적인 호출 없이 실행된다.</p>
+<p>var 키워드로 선언한 전역 변수는 전역 객체의 프로퍼티가 된다. 이는 <strong>전역 변수의 생명 주기가 전역 객체의 생명 주기와 일치한다</strong>는 것을 말한다. 
+브라우저 환경에서 전역 객체는 window이므로 브라우저 환경에서 var 키워드로 선언한 전역 변수는 전역 객체 window의 프로퍼티다. 전역 객체 window는 웹페이지를 닫기 전까지 유효하다. 따라서 브라우저 환경에서 var 키워드로 선언한 전역 변수는 웹페이지를 닫을 때까지 유효하다. 즉, var 키워드로 선언한 전역 변수의 생명 주기는 전역 객체의 생명 주기와 일치한다.</p>
+<ul>
+<li>전역 객체(global object): 전역 객체는 코드가 실행되기 이전 단계에 자바스크립트 엔진에 의해 어떤 객체보다도 먼저 생성되는 특수한 객체다. 클라이언트 사이드 환경(브라우저)에서는 <code>window</code>, 서버 사이드 환경(Node.js)에서는 <code>global</code> 객체를 의미한다. 환경에 따라 전역 객체를 가리키는 다양한 식별자(window, self, this, frames, global)가 존재했으나 ES11(ECMAScript 11)에서 <code>globalThis</code>로 통일되었다.
+전역 객체는 표준 빌트인 객체(Object, String, Number, Function, Array...)와 환경에 따른 호스트 객체(클라이언트 Web API 또는 Node.js의 호스트 API), 그리고 <code>var</code> 키워드로 선언한 전역 변수와 전역 함수를 프로퍼티로 갖는다.
+전역 객체와 표준 빌트인 객체에 대해서는 <a href="./21_built_in_object.md">21. 빌트인 객체</a> 참고</li>
+</ul>
+<h2>14.2. 전역변수의 문제점</h2>
+<ul>
+<li><strong>암묵적 결합</strong>: 전역 변수를 선언한 의도는 전역, 즉 코드 어디서든 참조하고 할당할 수 있는 변수를 사용하겠다는 것이다. 이는 모든 코드가 전역 변수를 참조하고 변경할 수 있는 암묵적 결합(implicit coupling)을 허용하는 것이다. 변수의 유효 범위가 크면 클수록 코드의 가독성은 나빠지고 의도치 않게 상태가 변경될 수 있는 위험성도 높아진다.</li>
+<li><strong>긴 생명 주기</strong>: 전역 변수는 생명 주기가 길어 메모리 리소스도 오랜 기간 소비한다. var 키워드는 변수의 중복 선언을 허용하므로 생명 주기가 긴 전역 변수는 변수 이름이 중복될 가능성이 있다. 변수 이름이 중복되면 의도치 않은 재할당이 이뤄진다.</li>
+<li><strong>스코프 체인 상에서 종점에 존재</strong>: 변수를 검색할 때 전역 변수가 가장 마지막에 검색된다는 것을 말한다. 즉, 전역 변수의 검색 속도가 가장 느리다. 검색 속도의 차이는 그다지 크지 않지만 속도의 차이는 분명히 있다.</li>
+<li><strong>네임스페이스 오염</strong>: 자바스크립트의 가장 큰 문제점 중 하나는 파일이 분리되어 있다 해도 하나의 전역 스코프를 공유한다는 것이다. 따라서 다른 파일 내에서 동일한 이름으로 명명된 전역 변수나 전역 함수가 같은 스코프 내에 존재할 경우 예상치 못한 결과를 가져올 수 있다.</li>
+</ul>
+<h2>14.3. 전역 변수의 사용을 억제하는 방법</h2>
+<h3>14.3.1. 즉시 실행 함수</h3>
+<p>함수 정의와 동시에 호출되는 즉시 실행 함수는 단 한 번만 호출된다. 모든 코드를 즉시 실행 함수로 감싸면 모든 변수는 즉시 실행 함수의 지역 변수가 된다.</p>
+<h3>14.3.2. 네임스페이스 객체</h3>
+<p>전역에 네임스페이스(namespace) 역할을 담당할 객체를 생성하고 전역 변수처럼 사용하고 싶은 변수를 프로퍼티로 추가하는 방법이다. 네임스페이스를 분리해서 식별자 충돌을 방지하는 효과는 있으나 네임스페이스 객체 자체가 전역 변수에 할당되므로 그다지 유용해 보이지는 않는다.</p>
+<pre><code class="language-js">var MYAPP = {}; // 전역 네임스페이스 객체
+
+MYAPP.person = {
+  name: 'Lee',
+  address: 'Seoul'
+};
+
+console.log(MYAPP.person.name); // Lee
+</code></pre>
+<h3>14.3.3. 모듈 패턴</h3>
+<p>모듈 패턴은 클래스를 모방해서 관련이 있는 변수와 함수를 모아 즉시 실행 함수로 감싸 하나의 모듈을 만든다. 모듈 패턴은 자바스크립트의 강력한 기능인 클로저를 기반으로 동작한다. 모듈 패턴의 특징은 전역 변수의 억제는 물론 캡슐화까지 구현할 수 있다는 것이다. 전역 네임스페이스의 오염을 막는 기능은 물론 한정적이기는 하지만 정보 은닉을 구현하기 위해 사용한다.</p>
+<ul>
+<li>캡술화(encapsulation): 객체의 상태(state)를 나타내는 프로퍼티와 프로퍼티를 참조하고 조작할 수 있는 동작(behavior)인 메서드를 하나로 묶는 것.</li>
+<li>정보 은닉(information hiding): 객체의 특정 프로퍼티나 메서드를 감추는 것</li>
+</ul>
+<pre><code class="language-js">var Counter = (function () {
+  // private 변수
+  var num = 0;
+
+  // 외부로 공개할 데이터나 메서드를 프로퍼티로 추가한 객체를 반환한다.
+  return {
+    increase() {
+      return ++num;
+    },
+    decrease() {
+      return --num;
+    }
+  };
+}());
+
+// private 변수는 외부로 노출되지 않는다.
+console.log(Counter.num); // undefined
+
+console.log(Counter.increase()); // 1
+console.log(Counter.increase()); // 2
+console.log(Counter.decrease()); // 1
+console.log(Counter.decrease()); // 0
+</code></pre>
+<h3>14.3.4. ES6 모듈</h3>
+<p>ES6 모듈을 사용하면 더는 전역 변수를 사용할 수 없다. ES6 모듈은 파일 자체의 독자적인 모듈 스코프를 제공한다. 따라서 모듈 내에서 var 키워드로 선언한 변수는 더는 전역 변수가 아니며 window 객체의 프로퍼티도 아니다.</p>
+<p>모던 브라우저(Chrome 61, FF 60, SF 10.1, Edge 16 이상)에서는 ES6 모듈을 사용할 수 있다. script 태그에 <code>type="module"</code> 어트리뷰트를 추가하면 로드된 자바스크립트 파일은 모듈로서 동작한다. 모듈의 파일 확장자는 mjs를 권장한다.</p>
+<pre><code class="language-html">&#x3C;script type="module" src="lib.mjs">&#x3C;/script>
+&#x3C;script type="module" src="app.mjs">&#x3C;/script>
+</code></pre>
+<p>ES6 모듈은 IE를 포함한 구형 브라우저에서는 동작하지 않으며, 브라우저의 ES6 모듈 기능을 사용하더라도 트랜스파일링이나 번들링이 필요하기 때문에 아직까지는 브라우저가 지원하는 ES6 모듈 기능보다는 Webpack 등의 모듈 번들러를 사용하는 것이 일반적이다.</p>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L16","2",{}]]
+f:null
+17:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L17",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]

@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","codeit-sprint-fe14","weekly-paper","week3_javascript"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","codeit-sprint-fe14/weekly-paper/week3_javascript","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-mint","style":{"left":"46.70492715285981%","top":"90.60095183682265%","width":"421.1046877509639px","height":"421.1046877509639px","animation":"float 18.210690625602243s ease-in-out infinite","animationDelay":"14.208534487025084s"}}],["$","div","1",{"className":"dot dot-sage","style":{"left":"35.94363796821405%","top":"1.1229393408470845%","width":"377.3962898734868px","height":"377.3962898734868px","animation":"float 16.149520428725136s ease-in-out infinite","animationDelay":"0.5043560102289911s"}}],["$","div","2",{"className":"dot dot-peach","style":{"left":"72.3091619036576%","top":"86.63101634023724%","width":"315.88970509961734px","height":"315.88970509961734px","animation":"float 15.242962879562562s ease-in-out infinite","animationDelay":"1.4476800465759487s"}}],["$","div","3",{"className":"dot dot-mint","style":{"left":"19.2937404702457%","top":"43.46049215356693%","width":"356.13063058560203px","height":"356.13063058560203px","animation":"float 18.794620231966878s ease-in-out infinite","animationDelay":"14.521064845909365s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"11.220893739472416%","top":"13.834679015371654%","width":"239.1933722379598px","height":"239.1933722379598px","animation":"float 17.81616293641729s ease-in-out infinite","animationDelay":"5.196583168800859s"}}],["$","div","5",{"className":"dot dot-peach","style":{"left":"69.2850464535379%","top":"48.99995755952986%","width":"238.90822862049077px","height":"238.90822862049077px","animation":"float 15.418849847147214s ease-in-out infinite","animationDelay":"0.8760380260746371s"}}],["$","div","6",{"className":"dot dot-sage","style":{"left":"8.57251115569484%","top":"32.77473838036722%","width":"446.7877476259249px","height":"446.7877476259249px","animation":"float 19.937246252931452s ease-in-out infinite","animationDelay":"12.154796788394389s"}}],["$","div","7",{"className":"dot dot-sage","style":{"left":"88.59450363232672%","top":"81.99428095903781%","width":"436.8216385931737px","height":"436.8216385931737px","animation":"float 18.35393179393018s ease-in-out infinite","animationDelay":"11.025824311386891s"}}],["$","div","8",{"className":"dot dot-coral","style":{"left":"56.57883333236286%","top":"40.45645431591651%","width":"251.9063897969878px","height":"251.9063897969878px","animation":"float 16.073952289366684s ease-in-out infinite","animationDelay":"13.900835660734689s"}}],["$","div","9",{"className":"dot dot-sage","style":{"left":"37.328189973048254%","top":"90.30090041202024%","width":"323.4953696519508px","height":"323.4953696519508px","animation":"float 19.671604696757313s ease-in-out infinite","animationDelay":"4.925989253282903s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"81.98014067074286%","top":"41.24995877075759%","width":"219.75173921542785px","height":"219.75173921542785px","animation":"float 17.325557851447506s ease-in-out infinite","animationDelay":"2.920292655484052s"}}],["$","div","11",{"className":"dot dot-sage","style":{"left":"61.12251500937715%","top":"53.16746697998005%","width":"405.6547545533689px","height":"405.6547545533689px","animation":"float 16.7324855376901s ease-in-out infinite","animationDelay":"5.501631143692067s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L5","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T207e,<h1>1. <code>==</code>와 <code>===</code>의 차이</h1>
+<p>자바스크립트에서 <code>==</code>와 <code>===</code>는 비교 연산자로, 두 값을 비교할 때 사용되지만, 비교 방식에서 큰 차이가 있다.</p>
+<h2><code>==</code> (동등 연산자)</h2>
+<ul>
+<li>설명: 두 값을 비교할 때, 타입을 자동으로 변환(type coercion) 한 후 값을 비교합니다.</li>
+<li>특징:
+<ul>
+<li>타입이 다르면, 자바스크립트가 자동으로 타입을 일치시킨 후 비교합니다.</li>
+<li>타입 변환으로 인해 예상치 못한 결과가 나올 수 있습니다.</li>
+</ul>
+</li>
+<li>예시:
+<pre><code class="language-js">console.log(1 == '1');   // true (숫자와 문자열을 같은 값으로 간주)
+console.log(true == 1);  // true (불리언을 숫자로 변환)
+console.log(null == undefined); // true (특별 케이스)
+</code></pre>
+</li>
+</ul>
+<h2><code>===</code> (일치 연산자)</h2>
+<ul>
+<li>설명: 두 값을 비교할 때, 타입까지 엄격하게 비교합니다.</li>
+<li>특징:
+<ul>
+<li>타입 변환이 일어나지 않습니다.</li>
+<li>값 뿐만 아니라 타입까지 일치해야 true를 반환합니다.</li>
+</ul>
+</li>
+<li>예시:
+<pre><code class="language-js">console.log(1 === '1');   // false (타입이 다름)
+console.log(true === 1);  // false (타입이 다름)
+console.log(null === undefined); // false (타입이 다름)
+</code></pre>
+</li>
+</ul>
+<h2>차이 요약</h2>
+<p>| 연산자   | 타입 변환     | 비교 조건                         | 비유             |
+| ----- | --------- | ----------------------------- | -------------- |
+| <code>==</code>  | O | 값만 같으면 true(느슨한 비교)       | “둘이 비슷하면 OK!”  |
+| <code>===</code> | X         | 값과 타입 모두 같아야 true(엄격한 비교) | “완전히 똑같아야 OK!” |</p>
+<h2>관련 내용</h2>
+<ul>
+<li><code>==</code> 는 암묵적 형변환이이 일어나는데, 암묵적 형변환이 일어날 것을 모두 기억하거나 예측하는 것이 어렵기 때문에, 의도하지 않은 결과를 얻게 될 가능성이 크고 이로 인해 오류 가능성이 커집니다. 따라서 동등함을 비교하기 위해서 <code>===</code> 를 사용하는 것이 좋습니다.</li>
+<li>비교 연산 중에 ES6(ECMAScript 2015)에 추가된 Object.is 도 있습니다. +0, 0, NaN, 비교 이외에는 <code>===</code> 연산과 동일한 결과를 줍니다.</li>
+<li>객체간 비교할 경우 객체 안의 내용이 같더라도 참조형이기 때문에 <code>==</code>, <code>===</code>, <code>Object.is</code> 로 비교하면 false로 판단합니다. 따라서 <code>JSON.stringify</code> 로 객체 안의 내용을 문자열로 변환한 후 비교 하거나 순서가 보장되지 않는 값이라면, 정렬 후 비교 합니다.</li>
+</ul>
+<h3>참고</h3>
+<p>https://developer.mozilla.org/ko/docs/Web/JavaScript/Equality_comparisons_and_sameness</p>
+<h1>2. 얕은 복사(Shallow Copy)와 깊은 복사(Deep Copy)</h1>
+<h2>자바스크립트 자료형</h2>
+<p>자바스크립트에서 값을 복사할 때, 자료형에 따라 복사하는 값이 달라집니다.</p>
+<ul>
+<li>기본형(Primitive type): Number, String, Boolean, Null, Undefined, Symbol
+<ul>
+<li>데이터 변경이 불가(immutable)합니다.</li>
+<li>변수에 기본형을 할당하면 새로운 메모리 공간에 독립적인 <strong>실제값이 복사</strong>됩니다.</li>
+</ul>
+<pre><code class="language-js">let x = 1;
+let y = x;
+
+x = 123
+
+console.log(x) // 123을 출력
+console.log(y) // 1을 출력 (y에 할당되었던 1이 변경되지 않음)
+</code></pre>
+</li>
+<li>참조형(Reference type): Object(Array, Function, Map 등 기본형을 제외한 모든 것)
+<ul>
+<li>데이터의 내용 변경이 가능(mutable)합니다.</li>
+<li>변수에 참조형을 할당하면 해당 <strong>객체의 메모리 주소값이 복사</strong>됩니다.</li>
+</ul>
+<pre><code class="language-js">let obj1 = {num: 1};
+let obj2 = obj1;
+
+obj1.num = 123
+
+console.log(obj1) // {num: 123}을 출력
+console.log(obj2) // {num: 123}을 출력 (obj2에 할당되었던 {num: 1}의 내용이 obj1을 따라 변경)
+
+// obj2 가 obj1 객체의 메모리 주소값을 복사하기 때문에, 
+// obj1 의 값이 변경되면 obj2 도 동일한 메모리 주소에 있는 값을 가져 변경된 값을 갖게 됩니다.
+</code></pre>
+</li>
+</ul>
+<p>따라서, 얕은 복사와 깊은 복사는 객체 또는 배열을 복사할 때, 데이터 구조와 메모리의 다루는 방식에서 차이가 있다.</p>
+<h2>얕은 복사 (Shallow Copy)</h2>
+<ul>
+<li>설명:
+<ul>
+<li>원본 객체의 1단계 속성만 복사합니다.</li>
+<li>복사된 객체는 원본 객체와 참조 주소를 공유합니다. 즉, 중첩된 객체나 배열의 내용은 복사되지 않고, 같은 메모리를 가리킵니다.</li>
+</ul>
+</li>
+<li>특징:
+<ul>
+<li>원본 객체가 변경되면, 복사본도 영향을 받을 수 있습니다.</li>
+<li>성능이 빠르고 간단한 구조에서는 유용합니다.</li>
+</ul>
+</li>
+<li>예시:
+<pre><code class="language-js">const original = { name: "Alice", details: { age: 25 } };
+const shallowCopy = { ...original }; // 얕은 복사
+
+shallowCopy.details.age = 30;
+console.log(original.details.age); // 30 (원본도 변경됨)
+</code></pre>
+</li>
+</ul>
+<h2>깊은 복사 (Deep Copy)</h2>
+<ul>
+<li>설명:
+<ul>
+<li>원본 객체의 모든 데이터를 재귀적으로 복사합니다.</li>
+<li>복사된 객체는 원본 객체와 완전히 독립적이며, 중첩된 객체나 배열까지 새롭게 복사됩니다.</li>
+</ul>
+</li>
+<li>특징:
+<ul>
+<li>원본 객체가 변경되어도, 복사본에는 영향을 주지 않습니다.</li>
+<li>복사가 복잡하고 성능이 상대적으로 느립니다.</li>
+</ul>
+</li>
+<li>예시:
+<pre><code class="language-js">const original = { name: "Alice", details: { age: 25 } };
+
+const deepCopy = JSON.parse(JSON.stringify(original)); // 깊은 복사
+deepCopy.details.age = 30;
+
+console.log(original.details.age); // 25 (원본은 영향받지 않음)
+</code></pre>
+</li>
+</ul>
+<h2>비교</h2>
+<p>| 비교 항목                    | 복사 범위           | 참조 관계              | 성능  | 사용 예       | 비유                                      |
+| ------------------------ | --------------- | ------------------ | --- | ---------- | --------------------------------------- |
+| 얕은 복사 (Shallow Copy) | 1단계 속성만 복사      | 중첩된 객체는 원본과 참조를 공유 | 빠름  | 간단한 객체     | “겉모습만 복사하는 것.” (옷만 다른데 속은 같음)       |
+| 깊은 복사 (Deep Copy)    | 중첩된 데이터까지 모두 복사 | 모든 데이터가 완전히 독립적    | 느림  | 중첩된 객체나 배열 | “완전히 새로운 사람을 만드는 것.” (겉과 속이 모두 독립적) |</p>
+<h2>참조형의 깊은 복사</h2>
+<ul>
+<li><code>JSON.parse(JSON.stringify(obj))</code>, <code>JSON.stringify()</code>
+<ul>
+<li>객체를 json 문자열로 변환하는데 이 과정에서 원본 객체와의 참조가 모두 끊어지고, 객체를 json 문자열로 변환 후, JSON.parse() 를 이용해 다시 원래 객체로 만들어 줍니다.</li>
+<li>가장 간편하다는 장점이 있습니다.</li>
+<li>function이 있는 경우 undefined 처리한다는 단점이 있습니다.</li>
+<li>다른 방법에 비해 느리다는 단점이 있습니다.</li>
+</ul>
+</li>
+<li>커스텀 재귀 함수를 활용한 복사
+<ul>
+<li>객체의 함수도 제대로 표현할 수 있습니다.</li>
+<li>복잡하다는 단점이 있습니다.</li>
+</ul>
+</li>
+<li>Lodash와 같은 외부 라이브러리 활용
+<ul>
+<li>외부 라이브러리 사용에 제약이 없다면 가장 효과적인 선택지가 될 수 있습니다.</li>
+</ul>
+</li>
+</ul>
+<h3>참고</h3>
+<p>https://choar816.tistory.com/154</p>
+<h3>추가 설명</h3>
+<ul>
+<li>얕은 복사 방법:
+<ul>
+<li><code>Object.assign()</code></li>
+<li>Spread 연산자 <code>{ ...obj }</code></li>
+</ul>
+</li>
+<li>깊은 복사 방법:
+<ul>
+<li><code>JSON.parse(JSON.stringify(obj))</code> (단, 함수나 undefined는 복사되지 않음)</li>
+<li>외부 라이브러리 활용 (ex. Lodash의 cloneDeep)</li>
+</ul>
+</li>
+</ul>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null

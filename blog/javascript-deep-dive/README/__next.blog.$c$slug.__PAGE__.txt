@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T7da,<h1>📖 모던 자바스크립트 Deep Dive</h1>
+<p>: 자바스크립트의 기본 개념과 동작 원리</p>
+<p>이웅모 저 | 위키북스 | 2020년 09월 25일</p>
+<p>https://www.yes24.com/product/goods/92742567</p>
+<h2>참고</h2>
+<p><a href="https://github.com/wikibook/mjs">예제 코드 모음</a></p>
+<h2>목차</h2>
+<ul>
+<li><a href="./02_javascript.md">02. 자바스크립트란?</a></li>
+<li><a href="./04_variable.md">04. 변수</a></li>
+<li><a href="./05_expression_and_statement.md">05. 표현식과 문</a></li>
+<li><a href="./06_data_type.md">06. 데이터 타입</a></li>
+<li><a href="./07_operator.md">07. 연산자</a></li>
+<li><a href="./08_control_flow_statement.md">08. 제어문</a></li>
+<li><a href="./09_type_conversion_and_short_circuit_evaluation.md">09. 타입 변환과 단축 평가</a> ⭐️</li>
+<li><a href="./10_object_literal.md">10. 객체 리터럴</a></li>
+<li><a href="./11_comparing_primitive_value_and_object.md">11. 원시 값과 객체의 비교</a></li>
+<li><a href="./12_function.md">12. 함수</a></li>
+<li><a href="./13_scope.md">13. 스코프</a> ⭐️⭐️</li>
+<li><a href="./14_problems_of_global_variable.md">14. 전역 변수의 문제점</a></li>
+<li><a href="./15_let_const_and_block_level_scope.md">15. let, const 키워드와 블록 레벨 스코프</a></li>
+<li><a href="./16_property_attribute.md">16. 프로퍼티 어트리뷰트</a></li>
+<li><a href="./17_object_by_constructor.md">17. 생성자 함수에 의한 객체 생성</a></li>
+<li><a href="./18_function_and_first_class_object.md">18. 함수와 일급 객체</a></li>
+<li><a href="./19_prototype.md">19. 프로토타입</a> ⭐️⭐️</li>
+<li><a href="./21_built_in_object.md">21. 빌트인 객체</a></li>
+<li><a href="./22_this.md">22. this</a> ⭐️⭐️</li>
+<li><a href="./23_execution_context.md">23. 실행 컨텍스트</a> ⭐️⭐️</li>
+<li><a href="./24_closure.md">24. 클로저</a> ⭐️⭐️</li>
+<li><a href="./25_class.md">25. 클래스</a> ⭐️</li>
+</ul>
+0:{"buildId":"NBOTbsJWgipKuL85VBogm","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L3",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]]}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

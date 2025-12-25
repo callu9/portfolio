@@ -1,0 +1,748 @@
+1:"$Sreact.fragment"
+2:I[88589,["/_next/static/chunks/c425561422a45908.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+b:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/_next/static/chunks/ea3532290a2cb9b8.css","style"]
+0:{"P":null,"b":"NBOTbsJWgipKuL85VBogm","c":["","blog","javascript-deep-dive","25_class"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","javascript-deep-dive/25_class","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ea3532290a2cb9b8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/c425561422a45908.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"bg-primary-light text-text-primary","children":[["$","div",null,{"className":"blurred-dots","children":[["$","div","0",{"className":"dot dot-sage","style":{"left":"92.62556752909512%","top":"35.92675907889995%","width":"328.71455632065636px","height":"328.71455632065636px","animation":"float 16.775009378976097s ease-in-out infinite","animationDelay":"11.927735383913388s"}}],["$","div","1",{"className":"dot dot-coral","style":{"left":"24.595662970130295%","top":"62.00996612470768%","width":"236.56997971558914px","height":"236.56997971558914px","animation":"float 16.305272376553287s ease-in-out infinite","animationDelay":"6.483487557128452s"}}],["$","div","2",{"className":"dot dot-sage","style":{"left":"47.179029091108625%","top":"24.600982894814514%","width":"448.0735630105606px","height":"448.0735630105606px","animation":"float 16.95163914014551s ease-in-out infinite","animationDelay":"9.63501962565023s"}}],["$","div","3",{"className":"dot dot-coral","style":{"left":"13.724885351232397%","top":"78.87528581298866%","width":"462.2963383475497px","height":"462.2963383475497px","animation":"float 19.437647971041827s ease-in-out infinite","animationDelay":"2.3702871793117293s"}}],["$","div","4",{"className":"dot dot-coral","style":{"left":"65.25302689734755%","top":"50.16390999413949%","width":"390.04618599472633px","height":"390.04618599472633px","animation":"float 19.54621273071546s ease-in-out infinite","animationDelay":"17.260994132335348s"}}],["$","div","5",{"className":"dot dot-mint","style":{"left":"66.53925479773991%","top":"37.501908958498966%","width":"457.00047254972236px","height":"457.00047254972236px","animation":"float 18.750836949452353s ease-in-out infinite","animationDelay":"15.635426467243732s"}}],["$","div","6",{"className":"dot dot-coral","style":{"left":"90.25222171482842%","top":"6.5704133275443555%","width":"366.84167890625906px","height":"366.84167890625906px","animation":"float 18.210857995704888s ease-in-out infinite","animationDelay":"13.214012596343517s"}}],["$","div","7",{"className":"dot dot-sage","style":{"left":"65.13426270046926%","top":"5.227041976946389%","width":"245.06034446034255px","height":"245.06034446034255px","animation":"float 18.57339752461911s ease-in-out infinite","animationDelay":"0.9095486695474914s"}}],["$","div","8",{"className":"dot dot-mint","style":{"left":"99.85871239091647%","top":"3.3086807085280334%","width":"314.30246545791704px","height":"314.30246545791704px","animation":"float 18.438845188814287s ease-in-out infinite","animationDelay":"17.92664008076328s"}}],["$","div","9",{"className":"dot dot-sage","style":{"left":"64.98444219611537%","top":"94.19883375153069%","width":"277.7593880606013px","height":"277.7593880606013px","animation":"float 18.58161710868133s ease-in-out infinite","animationDelay":"15.234776465123277s"}}],["$","div","10",{"className":"dot dot-coral","style":{"left":"78.7507523366068%","top":"53.459774988315935%","width":"386.620767204338px","height":"386.620767204338px","animation":"float 18.8425932297212s ease-in-out infinite","animationDelay":"7.309967908243491s"}}],["$","div","11",{"className":"dot dot-coral","style":{"left":"30.58283888606852%","top":"74.11391992580904%","width":"308.04390978491097px","height":"308.04390978491097px","animation":"float 16.292415771347066s ease-in-out infinite","animationDelay":"16.113267173137988s"}}]]}],["$","$L2",null,{}],["$","main",null,{"className":"py-10","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],"$L5"],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]
+6:["$","footer",null,{"className":"bg-secondary-mint/40 border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"section-container","children":[["$","div",null,{"className":"mb-8 grid grid-cols-1 gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-text-primary mb-2 text-2xl font-bold","children":"Portfolio"}],["$","p",null,{"className":"text-text-secondary text-sm","children":"프론트엔드 개발자의 포트폴리오입니다."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"네비게이션"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Home",{"children":["$","a",null,{"href":"#home","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Home"}]}],["$","li","Projects",{"children":["$","a",null,{"href":"#projects","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Projects"}]}],["$","li","Reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Reviews"}]}],["$","li","Blog",{"children":["$","a",null,{"href":"#blog","className":"text-text-secondary hover:text-secondary-coral text-sm transition-colors","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-text-primary mb-4 font-semibold","children":"연락처"}],["$","p",null,{"className":"text-text-secondary mb-2 flex gap-2 text-sm","children":["📧",["$","a",null,{"href":"mailto:callu_9ine@naver.com","className":"hover:text-secondary-coral transition-colors","children":"callu_9ine@naver.com"}]]}],["$","p",null,{"className":"text-text-secondary flex gap-2 text-sm","children":["📍 ",["$","span",null,{"children":"대한민국, 서울"}]]}]]}]]}],["$","div",null,{"className":"border-secondary-peach/30 border-t py-6","children":["$","div",null,{"className":"flex flex-col items-center justify-between gap-4 md:flex-row","children":[["$","p",null,{"className":"text-text-light text-sm","children":["© ",2025," All rights reserved."]}],["$","p",null,{"className":"text-text-light flex gap-2 text-sm","children":["Designed & Built with",["$","span",null,{"className":"text-secondary-coral","children":"callu9"}]]}]]}]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:T84b6,<h1>25. 클래스</h1>
+<h2>25.1. 클래스는 프로토타입의 문법적 설탕인가?</h2>
+<p>ES6에서 도입된 클래스는 클래스 기반 객체지향 프로그래밍 언어와 매우 흡사한 <strong>새로운 객체 생성 매커니즘</strong>을 제시한다. 
+이는 프로토타입 기반 객체지향 모델을 폐지한다는 의미는 아니다. 클래스는 함수이며, 기존 프로토타입 기반 패턴을 클래스 기반 패턴처럼 사용할 수 있도록 하는 문법적 설탕(syntatic sugar)이자 새로운 객체 생성 매커니즘이다.</p>
+<p>클래스와 생성자 함수는 모두 프로토타입 기반의 인스턴스를 생성하지만 정확히 동일하게 동작하지는 않는다.</p>
+<ol>
+<li>클래스를 <code>new</code> 연산자 없이 호출하면 에러가 발생하지만, 생성자 함수의 경우 일반 함수로서 호출된다.</li>
+<li>클래스는 <strong>상속을 지원하는 <code>extends</code>와 <code>super</code> 키워드를 제공</strong>하지만, 생성자 함수는 지원하지 않는다.</li>
+<li>클래스는 호이스팅이 발생하지 않는 것처럼 동작하지만, 함수 선언문으로 정의된 생성자 함수는 함수 호이스팅이, 함수 표현식으로 정의한 생성자 함수는 변수 호이스팅이 발생한다.</li>
+<li>클래스 내의 모든 코드에는 암묵적으로 strict mode가 지정되어 실행되며 해제할 수 없지만, 생성자 함수는 strict mode가 지정되지 않는다.</li>
+<li>클래스의 <code>constructor</code>, 프로토타입 메서드, 정적 메서드는 모두 프로퍼티 어트리뷰트 <code>[[Enumerable]]</code>의 값이 false이므로 열거되지 않는다.</li>
+</ol>
+<h2>25.2. 클래스 정의</h2>
+<p><code>class</code> 키워드를 사용하여 정의하며, 클래스 이름은 파스칼 케이스를 사용하는 것이 일반적이다. 함수와 마찬가지로 표현식으로 클래스를 정의할 수도 있으며, 이는 클래스가 값으로 사용할 수 있는 일급 객체라는 것을 의미한다.</p>
+<ul>
+<li>[참고] 일급객체로서의 클래스 특징
+<ul>
+<li>무명의 리터럴로 생성할 수 있다. 즉, 런타임에 생성이 가능하다.</li>
+<li>변수나 자료구조(객체, 배열 등)에 저장할 수 있다.</li>
+<li>함수의 매개변수에게 전달할 수 있다.</li>
+<li>함수의 반환값으로 사용할 수 있다.</li>
+</ul>
+</li>
+</ul>
+<p>클래스의 몸체에는 0개 이상의 메서드만 정의할 수 있다.</p>
+<ol>
+<li>constructor (생성자)</li>
+<li>프로토타입 메서드</li>
+<li>정적 메서드</li>
+</ol>
+<pre><code class="language-js">class Person { // 클래스 선언문
+  // (1) 생성자
+  constructor(name) { // 인스턴스 생성 및 초기화
+    this.name = name; // name 프로퍼티는 public하다.
+  }
+
+  // (2) 프로토타입 메서드
+  sayHi() {
+    console.log(`Hi! My name is ${this.name}`);
+  }
+
+  // (3) 정적 메서드
+  static sayHello() {
+    console.log('Hello!');
+  }
+}
+
+
+// 인스턴스 생성
+const me = new Person('Lee');
+
+// 인스턴스의 프로퍼티 참조
+console.log(me.name); // Lee
+
+// 프로토타입 메서드 호출
+me.sayHi(); // Hi! My name is Lee
+
+// 정적 메서드 호출
+Person.sayHello(); // Hello!
+</code></pre>
+<h2>25.3. 클래스 호이스팅</h2>
+<pre><code class="language-js">// 클래스 선언문
+class Person {}
+
+console.log(typeof Person); // function
+</code></pre>
+<p>클래스는 함수로 평가되기 때문에, 클래스 선언문으로 정의한 클래스는 함수 선언문과 같이 소스코드 평가 과정, 즉 런타임 이전에 먼저 평가되어 함수 객체를 생성한다. 
+이때 클래스가 평가되어 생성된 함수 객체는 생성자 함수로서 호출할 수 있는 함수, 즉 constructor다. 생성자 함수로서 호출할 수 있는 함수는 함수 정의가 평가되어 함수 객체를 생성하는 시점에 프로토타입도 더불어 생성된다. 프로토타입과 생성자 함수는 단독으로 존재할 수 없고 언제나 쌍(pair)로 존재하기 때문이다.</p>
+<pre><code class="language-js">console.log(Person);
+// ReferenceError: Cannot access 'Person' before initialization
+
+// 클래스 선언문
+class Person {}
+</code></pre>
+<p>클래스는 클래스 정의 이전에 참조할 수 없다.</p>
+<pre><code class="language-js">const Person = '';
+
+{
+  // 호이스팅이 발생하지 않는다면 ''이 출력되어야 한다.
+  console.log(Person);
+  // ReferenceError: Cannot access 'Person' before initialization
+
+  // 클래스 선언문
+  class Person {}
+}
+</code></pre>
+<p>클래스 선언문도 변수 선언, 함수 정의와 마찬가지로 호이스팅이 발생한다. 단, 클래스는 <code>let</code>, <code>const</code> 키워드로 선언한 변수처럼 호이스팅된다. 따라서 클래스 선언문 이전에 일시적 사각지대(TDZ, Temporal Dead Zone)에 빠지기 때문에 호이스팅이 발생하지 않는 것처럼 동작한다.</p>
+<ul>
+<li>[참고] <code>var</code>, <code>let</code>, <code>const</code>, <code>function</code>, <code>function*</code>, <code>class</code> 키워드를 사용하여 선언된 모든 식별자는 호이스팅된다. 모든 선언문은 런타임 이전에 실행되기 때문이다.</li>
+</ul>
+<h2>25.4. 인스턴스 생성</h2>
+<pre><code class="language-js">class Person {}
+
+// 인스턴스 생성
+const me = new Person();
+console.log(me); // Person {}
+
+// 클래스를 new 연산자 없이 호출하면 타입 에러가 발생한다.
+const you = Person(); // TypeError: Class constructor Person cannot be invoked without 'new'
+</code></pre>
+<p>클래스는 생성자 함수이며 <code>new</code> 연산자와 함께 호출되어 인스턴스를 생성한다. 함수는 <code>new</code> 연산자의 사용 여부에 따라 일반 함수로 호출되거나 인스턴스 생성을 위한 생성자 함수로 호출되지만 클래스는 인스턴스를 생성하는 것이 유일한 존재 이유이므로 반드시 <code>new</code> 연산자와 함께 호출해야 한다.</p>
+<pre><code class="language-js">const Person = class MyClass {};
+
+// 함수 표현식과 마찬가지로 클래스를 가리키는 식별자로 인스턴스를 생성해야 한다.
+const me = new Person();
+
+// 클래스 이름 MyClass는 함수와 동일하게 클래스 몸체 내부에서만 유효한 식별자다.
+console.log(MyClass); // ReferenceError: MyClass is not defined
+const you = new MyClass(); // ReferenceError: MyClass is not defined
+</code></pre>
+<p>클래스 표현식으로 정의된 클래스의 경우, 클래스를 가리키는 식별자(Person)을 사용해 인스턴스를 생성하지 않고 기명 클래스 표현식의 클래스 이름(MyClass)를 사용해 인스턴스를 생성하면 에러가 발생한다. 이는 기명 함수 표현식과 마찬가지로 클래스 표현식에서 사용한 클래스 이름은 외부코드에서 접근 불가능하기 때문이다.</p>
+<h2>25.5. 메서드</h2>
+<p>클래스의 몸체에는 0개 이상의 메서드만 선언할 수 있으며, constructor (생성자), 프로토타입 메서드, 정적 메서드 세 가지의 메서드를 정의할 수 있다.</p>
+<h3>25.5.1. constructor</h3>
+<p>constructor는 인스턴스를 생성하고 초기화하기 위한 특수한 메서드다. constructor는 이름을 변경할 수 없다.</p>
+<pre><code class="language-js">class Person {
+  // 생성자
+  constructor(name) {
+    // 인스턴스 생성 및 초기화
+    this.name = name;
+  }
+}
+</code></pre>
+<p>클래스는 평가되어 함수 객체가 되어, 함수 객체 고유의 프로퍼티를 모두 갖고 있다. 함수와 동일하게 프로토타입과 연결되어 있으며 자신의 스코프 체인을 구성한다.</p>
+<p>모든 함수 객체가 가지고 있는 prototype 프로퍼티가 가리키는 프로토타입 객체의 constructor 프로퍼티는 클래스 자신을 가리키고 있다. 이는 클래스가 인스턴스를 생성하는 생성자 함수라는 것을 의미하여, 즉 <code>new</code> 연산자와 함께 클래스를 호출하면 인스턴스를 생성한다.</p>
+<p>이때, constructor는 메서드로 해석되는 것이 아니라, 클래스가 평가되어 생성한 함수 객체 코드의 일부가 된다. 즉, 클래스 정의가 평가되면 constructor의 기술된 동작을 하는 함수 객체가 생성된다.</p>
+<ul>
+<li>
+<p>[참고] 프로토타입의 constructor 프로퍼티</p>
+<ul>
+<li>프로토타입의 constructor 프로퍼티: 모든 프로토타입이 가지고 있는 프로퍼티이며, 생성자 함수를 가리킨다.</li>
+</ul>
+</li>
+<li>
+<p>constructor와 생성자 함수의 차이</p>
+<ul>
+<li>constructor는 클래스 내에 최대 한 개만 존재할 수 있다. (그렇지 않을 시, 문법 에러(Sysntax Error) 발생)</li>
+<li>constructor는 생략할 수 있으며, 빈 constructor가 암묵적으로 정의되어 빈 객체를 생성한다.</li>
+<li>constructor 내부에서 this에 인스턴스 프로퍼티를 추가하면, 프로퍼티가 추가되어 초기화된 인스턴스를 생성할 수 있다.</li>
+<li>constructor에 매개변수를 선언하고 인스턴스를 생성할 때 초기값을 전달하면, 인스턴스를 생성할 때 클래스 외부에서 인스턴스 프로퍼티의 초기값을 전달할 수 있다.</li>
+<li>constructor는 별도의 반환문을 갖지 않아야 한다. (생성자 함수와 동일하게 암묵적으로 this, 즉 인스턴스를 반환하기 때문)</li>
+</ul>
+</li>
+</ul>
+<h3>25.5.2. 프로토타입 메서드</h3>
+<pre><code class="language-js">class Person {
+  // 프로토타입 메서드
+  sayHi() {
+    console.log(`Hi! My name is ${this.name}`);
+  }
+  // 생성자 함수의 경우 Person.prototype.sayHi = function() { ... } 으로 프로토타입 메서드 생성
+}
+
+const me = new Person('Lee');
+
+// me 객체의 프로토타입은 Person.prototype이다.
+Object.getPrototypeOf(me) === Person.prototype; // → true
+me instanceof Person; // → true
+
+// Person.prototype의 프로토타입은 Object.prototype이다.
+Object.getPrototypeOf(Person.prototype) === Object.prototype; // → true
+me instanceof Object; // → true
+
+// me 객체의 constructor는 Person 클래스다.
+me.constructor === Person; // → true
+</code></pre>
+<p>클래스 몸체에 정의한 메서드는 클래스의 prototype 프로퍼티에 메서드를 추가하지 않아도 기본적으로 프로토타입 메서드가 된다.
+클래스가 생성한 인스턴스는 프로토타입 체인의 일원이 되어 인스턴스의 프로토타입에 존재하는 프로토타입 메서드가 된다. 인스턴스는 프로토타입 메스드를 상속받아 사용할 수 있다.</p>
+<h3>25.5.3. 정적 메서드</h3>
+<pre><code class="language-js">class Person {
+  // 생성자
+  constructor(name) {
+    // 인스턴스 생성 및 초기화
+    this.name = name;
+  }
+
+  // 정적 메서드
+  static sayHi() {
+    console.log('Hi!');
+  }
+  // 생성자 함수의 경우 Person.sayHi = function() {...} 으로 정적 메서드 생성
+}
+
+// 정적 메서드는 클래스로 호출한다.
+// 정적 메서드는 인스턴스 없이도 호출할 수 있다.
+Person.sayHi(); // Hi!
+
+// 인스턴스 생성
+const me = new Person('Lee');
+me.sayHi(); // TypeError: me.sayHi is not a function
+</code></pre>
+<p>정적 메서드는 인스턴스를 생성하지 않아도 호출할 수 있는 메서드를 말한다.</p>
+<ul>
+<li><a href="./19_prototype.md#1912-%EC%A0%95%EC%A0%81-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%A9%94%EC%84%9C%EB%93%9C">19.12. 정적 프로퍼티/메서드</a> 참고</li>
+</ul>
+<p>클래스에서는 메서드에 <code>static</code> 키워드를 붙이면 정적 메서드(클래스 메서드)가 된다. 클래스는 함수 객체로 평가되므로 자신의 프로퍼티/메서드를 소유할 수 있기 때문에, 클래스 정의(클래스 선언문, 클래스 표현식)이 평가되는 시점에 인스턴스 생성 없이 정적 메서드를 호출할 수 있ㄷ.</p>
+<p>정적 메서드는 인스턴스로 호출할 수 없다. 정적 메서드가 바인딩된 클래스는 인스턴스의 프로토타입 체인 상에 존재하지 않기 때문이다. 다시 말해, 인스턴스 프로토타입 체인 상에는 클래스가 존재하지 않기 때문에 인스턴스로 클래스의 메서드를 상속받을 수 없다.</p>
+<h3>25.5.4. 정적 메서드와 프로토타입 메서드의 차이</h3>
+<ol>
+<li>정적 메서드와 프로토타입 메서드는 자신이 속해 있는 프로토타입 체인이 다르다.</li>
+<li>정적 메서드는 클래스로 호출하고, 프로토타입 메서드는 인스턴스로 호출한다.</li>
+<li>정적 메서드는 인스턴스 프로퍼티를 참조할 수 없지만, 프로토타입 메서드는 인스턴스 프로퍼티를 참조할 수 있다.</li>
+</ol>
+<pre><code class="language-js">class Square {
+  constructor(width, height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  // 프로토타입 메서드
+  area() {
+    return this.width * this.height;
+  }
+}
+
+const square = new Square(10, 10);
+console.log(square.area()); // 100
+</code></pre>
+<p>메서드 내부에서 인스턴스 프로퍼티를 참조할 필요가 있다면 this를 사용해야 하며, 이러한 경우 프로토타입 메서드로 정의해야 한다.</p>
+<pre><code class="language-js">class Square {
+  // 정적 메서드
+  static area(width, height) {
+    return width * height;
+  }
+}
+
+console.log(Square.area(10, 10)); // 100
+</code></pre>
+<p>this를 사용하지 않는 메서드는 정적 메서드로 정의하는 것이 좋다.</p>
+<pre><code class="language-js">// 표준 빌트인 객체의 정적 메서드
+Math.max(1, 2, 3);          // → 3
+Number.isNaN(NaN);          // → true
+JSON.stringify({ a: 1 });   // → "{"a":1}"
+Object.is({}, {});          // → false
+Reflect.has({ a: 1 }, 'a'); // → true
+</code></pre>
+<h3>25.5.5. 클래스에서 정의한 메서드의 특징</h3>
+<ol>
+<li><code>function</code> 키워드를 생략한 메서드 축약 표현을 사용한다.</li>
+<li>클래스에 메서드를 정의할 때는 콤마가 필요 없다. (객체 리터럴은 필요)</li>
+<li>암묵적으로 strict mode로 실행된다.</li>
+<li><code>for ... in</code> 문이나 <code>Object.keys</code> 메서드 등으로 열거할 수 없다. 즉, 프로퍼티 열거 가능 여부를 나타내는 프로퍼티 어트리뷰트 <code>[[Enumerable]]</code>의 값이 false다.</li>
+<li>내부 메서드 <code>[[Construct]]</code>를 갖지 않는 non-constructor다. 따라서 <code>new</code> 연산자와 함께 호출할 수 없다.</li>
+</ol>
+<h2>25.6. 클래스의 인스턴스 생성 과정</h2>
+<ol>
+<li>
+<p>인스턴스 생성과 this 바인딩</p>
+<ul>
+<li><code>new</code> 연산자와 함께 클래스를 호출하면, 클래스가 생성한 인스턴스로서 빈 객체가 생성된다.</li>
+<li>인스턴스의 프로토타입으로 클래스의 prototype 프로퍼티가 가리키는 객체가 설정된다.</li>
+<li>암묵적으로 생성된 빈 객체, 즉 인스턴스는 this에 바인딩된다. 따라서 constructor 내부의 this는 클래스가 생성한 인스턴스를 가리킨다.</li>
+</ul>
+</li>
+<li>
+<p>인스턴스 초기화</p>
+<ul>
+<li>constructor 내부 코드가 실행되어 this에 바인딩되어 있는 인스턴스를 초기화 한다.
+즉, this에 바인딩된 인스턴스에 프로퍼티를 추가하고, constructor가 인수로 받은 초기값으로 인스턴스의 프로퍼티 값을 초기화 한다.</li>
+<li>constructor가 생략되었다면 이 과정도 생략</li>
+</ul>
+</li>
+<li>
+<p>인스턴스 반환</p>
+<ul>
+<li>클래스의 모든 처리가 끝나 완성된 인스턴스가 바인딩된 this가 암묵적으로 반환된다.</li>
+</ul>
+</li>
+</ol>
+<pre><code class="language-js">class Person {
+  // 생성자
+  constructor(name) {
+    // 1. 암묵적으로 인스턴스가 생성되고 this에 바인딩된다.
+    console.log(this); // Person {}
+    console.log(Object.getPrototypeOf(this) === Person.prototype); // true
+
+    // 2. this에 바인딩되어 있는 인스턴스를 초기화한다.
+    this.name = name;
+
+    // 3. 완성된 인스턴스가 바인딩된 this가 암묵적으로 반환된다.
+  }
+}
+</code></pre>
+<h2>25.7. 프로퍼티</h2>
+<h3>25.7.1. 인스턴스 프로퍼티</h3>
+<p>인스턴스 프로퍼티는 constructor 내부에서 정의해야 한다.</p>
+<pre><code class="language-js">class Person {
+  constructor(name) {
+    // 인스턴스 프로퍼티
+    this.name = name; // name 프로퍼티는 public하다.
+  }
+}
+
+const me = new Person('Lee');
+
+// name은 public하다.
+console.log(me.name); // Lee
+</code></pre>
+<h3>25.7.2. 접근자 프로퍼티</h3>
+<p>접근자 프로퍼티(accessor property)는 값을 갖지 않고 다른 데이터 프로퍼티의 값을 읽거나 저장할 때 사용하는 접근자 함수(accessor function)으로 구성된 프로퍼티다.</p>
+<ul>
+<li><a href="./16_property_attribute.md#1632-%EC%A0%91%EA%B7%BC%EC%9E%90-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0">16.3.2. 접근자 프로퍼티</a> 참고</li>
+</ul>
+<pre><code class="language-js">class Person {
+  constructor(firstName, lastName) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+  }
+
+  // fullName은 접근자 함수로 구성된 접근자 프로퍼티다.
+  // getter 함수
+  get fullName() {
+    return `${this.firstName} ${this.lastName}`;
+  }
+
+  // setter 함수
+  set fullName(name) {
+    [this.firstName, this.lastName] = name.split(' ');
+  }
+}
+
+const me = new Person('Ungmo', 'Lee');
+
+// 데이터 프로퍼티를 통한 프로퍼티 값의 참조.
+console.log(`${me.firstName} ${me.lastName}`); // Ungmo Lee
+
+// 접근자 프로퍼티를 통한 프로퍼티 값의 저장
+// 접근자 프로퍼티 fullName에 값을 저장하면 setter 함수가 호출된다.
+me.fullName = 'Heegun Lee';
+console.log(me); // {firstName: "Heegun", lastName: "Lee"}
+
+// 접근자 프로퍼티를 통한 프로퍼티 값의 참조
+// 접근자 프로퍼티 fullName에 접근하면 getter 함수가 호출된다.
+console.log(me.fullName); // Heegun Lee
+
+// fullName은 접근자 프로퍼티다.
+// 접근자 프로퍼티는 get, set, enumerable, configurable 프로퍼티 어트리뷰트를 갖는다.
+console.log(Object.getOwnPropertyDescriptor(Person.prototype, 'fullName'));
+// {get: ƒ, set: ƒ, enumerable: false, configurable: true}
+</code></pre>
+<p>클래스의 메서드는 기본적으로 프로토타입 메서드가 된다. 따라서 클래스의 접근자 프로퍼티 또한 인스턴스 프로퍼티가 아닌 프로토타입의 프로퍼티가 된다.</p>
+<h3>25.7.3. 클래스 필드 정의 제안</h3>
+<p>클래스 필드(class field)는 클래스 기반 객체지향 언어에서 클래스가 생성할 인스턴스의 프로퍼티를 가리킨다.</p>
+<p>Node.js 12 미만 실행 시 클래스 몸체에 메서드가 아닌 클래스 필드를 선언하면 문법 에러(Syntax Error)가 발생하지만, 최신 브라우저 또는 최신 Node.js(버전 12 이상)에서 실행하면 정상 동작한다.
+단, 클래스 몸체에서 클래스 필드를 정의하는 경우 this에 클래스 필드를 바인딩해서는 안 된다. this는 클래스의 constuctor와 메서드 내에서만 유효하며, 클래스 필드를 참조하는 경우에는 this를 반드시 사용해야 한다.</p>
+<pre><code class="language-js">class Person {
+  // this에 클래스 필드를 바인딩해서는 안된다.
+  this.name = ''; // SyntaxError: Unexpected token '.
+
+  // 클래스 필드 정의 (Class field declarations)
+  // 초기화하지 않으면 undefined를 갖는다.
+  name = 'Lee';
+
+  constructor(initialName) {
+    console.log(name); // ReferenceError: name is not defined
+    
+    // 클래스 필드 초기화.
+    this.name = initialName;
+  }
+
+  // 클래스 필드에 함수를 할당 → 인스턴스 메서드가 된다.
+  getName = function () {
+    return this.name;
+  }
+  // 화살표 함수로 정의할 수도 있다.
+  // getName = () => this.name;
+}
+
+const me = new Person('Kim');
+console.log(me); // Person {name: "Kim", getName: ƒ}
+console.log(me.getName()); // Kim
+</code></pre>
+<p>인스턴스를 생성할 때 외부 초기값으로 클래스 필드를 초기화할 필요가 없다면 기존의 constructor에서 인스턴스 프로퍼티를 정의하는 방식과 클래스 필드 정의 제안 모두 사용할 수 있다.</p>
+<h3>25.7.4. private 필드 정의 제안</h3>
+<p>인스턴스 프로퍼티는 인스턴스를 통해 클래스 외부에서 언제나 참조할 수 있다. 클래스 필드 정의 제안을 사용하더라도 클래스 필드는 기본적으로 public하기 때문에 외부에 그대로 노출된다.</p>
+<pre><code class="language-js">class Person {
+  // private 필드 정의
+  #name = '';
+
+  constructor(name) {
+    // private 필드 참조
+    this.#name = name;
+  }
+
+  // name은 접근자 프로퍼티다.
+  get name() {
+    // private 필드를 참조하여 trim한 다음 반환한다.
+    return this.#name.trim();
+  }
+}
+
+const me = new Person('Lee');
+
+// private 필드 #name은 클래스 외부에서 참조할 수 없다.
+console.log(me.#name); // SyntaxError: Private field '#name' must be declared in an enclosing class
+console.log(me.name); // Lee
+</code></pre>
+<p>private 필드는 반드시 클래스 몸체에 정의해야 하며(constructor에 정의하면 에러 발생), 선두에 <code>#</code>을 붙여주어야 한다. 참조할 때도 <code>#</code>을 붙여야 한다. 단, 클래스 내부에서만 참조할 수 있다.</p>
+<p>| 접근 가능성 | public | private |
+| --- | --- | --- |
+| 클래스 내부 | O | O |
+| 자식 클래스 내부 | O | X |
+| 클래스 인스턴스를 통한 접근 | O | X |</p>
+<h3>25.7.5. static 필드 정의 제안</h3>
+<p>static public/private 필드는 최신 브라우저(Chrome 72 이상)과 최신 Node.js(버전 12 이상)에 구현되어 있다.</p>
+<pre><code class="language-js">class MyMath {
+  // static public 필드 정의
+  static PI = 22 / 7;
+
+  // static private 필드 정의
+  static #num = 10;
+
+  // static 메서드
+  static increment() {
+    return ++MyMath.#num;
+  }
+}
+
+console.log(MyMath.PI); // 3.142857142857143
+console.log(MyMath.increment()); // 11
+</code></pre>
+<h2>25.8. 상속에 의한 클래스 확장</h2>
+<h3>25.8.1. 클래스 상속과 생성자 함수 상속</h3>
+<p>프로토타입 기반 상속은 프로토타입 체인을 통해 다른 객체의 자산을 상속받는 개념이지만, <strong>상속에 의한 클래스 확장은 기존 클래스를 상속받아 새로운 클래스를 확장하여 정의</strong>하는 것이다.</p>
+<pre><code class="language-js">class Animal {
+  constructor(age, weight) {
+    this.age = age;
+    this.weight = weight;
+  }
+
+  eat() { return 'eat'; }
+
+  move() { return 'move'; }
+}
+
+// 상속을 통해 Animal 클래스를 확장한 Bird 클래스
+class Bird extends Animal {
+  fly() { return 'fly'; }
+}
+
+const bird = new Bird(1, 5);
+
+console.log(bird); // Bird {age: 1, weight: 5}
+console.log(bird instanceof Bird); // true
+console.log(bird instanceof Animal); // true
+
+console.log(bird.eat());  // eat
+console.log(bird.move()); // move
+console.log(bird.fly());  // fly
+</code></pre>
+<h3>25.8.2. extends 키워드</h3>
+<p>상속을 통해 클래스를 확장하려면 <code>extends</code> 키워드를 사용하여 상속받을 클래스를 정의한다.</p>
+<pre><code class="language-js">// 수퍼(베이스/부모)클래스
+class Base {}
+
+// 서브(파생/자식)클래스
+class Derived extends Base {}
+</code></pre>
+<ul>
+<li>서브클래스(subclass): 상속을 통해 확장된 클래스. 파생 클래스(derived class) 또는 자식 클래스(child class)라고 부르기도 한다.</li>
+<li>수퍼클래스(superclass): 서브클래스에게 상속된 클래스. 베이스 클래스(base class) 또는 부모 클래스(parent class)라고 부르기도 한다.</li>
+</ul>
+<p>수퍼클래스와 서브클래스는 인스턴스의 프로토타입 체인뿐 아니라 클래스 간의 프로토타입 체인도 생성하기 때문에, 프로토타입 메서드와 정적 메서드 모두 상속 가능하다.</p>
+<h3>25.8.3. 동적 상속</h3>
+<p><code>extends</code> 키워드를 사용해 생성자 함수를 상속받아 클래스를 확장할 수도 있다. 단, <code>extends</code> 키워드 앞에는 반드시 클래스가 와야 한다.</p>
+<pre><code class="language-js">// 생성자 함수
+function Base(a) {
+  this.a = a;
+}
+
+// 생성자 함수를 상속받는 서브클래스
+class Derived extends Base {}
+
+const derived = new Derived(1);
+console.log(derived); // Derived {a: 1}
+</code></pre>
+<p><code>extends</code> 키워드 다음에는 <code>[[Construct]]</code> 내부 메서드를 갖는 함수 객체로 평가될 수 있는 모든 표현식을 사용할 수 있다. 이를 통해 동적으로 상속받을 대상을 결정할 수 있다.</p>
+<pre><code class="language-js">function Base1() {}
+
+class Base2 {}
+
+let condition = true;
+
+// 조건에 따라 동적으로 상속 대상을 결정하는 서브클래스
+class Derived extends (condition ? Base1 : Base2) {}
+
+const derived = new Derived();
+console.log(derived); // Derived {}
+
+console.log(derived instanceof Base1); // true
+console.log(derived instanceof Base2); // false
+</code></pre>
+<h3>25.8.4. 서브클래스의 constructor</h3>
+<p>서브클래스에서 constructor를 생략하면 클래스에 다음과 같은 constructor가 암묵적으로 정의된다.</p>
+<pre><code class="language-js">constructor(...args) { super(...args); }
+</code></pre>
+<p>args는 <code>new</code> 연산자와 함께 클래스를 호출할 때 전달한 인수의 리스트다.
+<code>super()</code>는 수퍼클래스의 constructor(super-constructor)를 호출하여 인스턴스를 생성한다.</p>
+<pre><code class="language-js">// 수퍼클래스
+class Base {
+  constructor() {}
+}
+
+// 서브클래스
+class Derived extends Base {
+  constructor() { super(); }
+}
+
+const derived = new Derived();
+console.log(derived); // Derived {}
+</code></pre>
+<p>프로퍼티를 소유하는 인스턴스를 생성하려면 constructor 내부에서 인스턴스에 프로퍼티를 추가해야 한다.</p>
+<h3>25.8.5. super 키워드</h3>
+<p><code>super</code> 키워드는 함수처럼 호출할 수도 있고, this와 같이 식별자처럼 참조할 수 있는 특수한 키워드다.</p>
+<ul>
+<li><code>super</code> 호출 시 수퍼클래스의 constructor를 호출한다.</li>
+<li><code>super</code> 참조 시 수퍼클래스의 메서드를 호출할 수 있다.</li>
+</ul>
+<pre><code class="language-js">// 수퍼클래스
+class Base {
+  constructor(a, b) { // ④
+    this.a = a;
+    this.b = b;
+  }
+}
+
+// 서브클래스
+class Derived extends Base {
+  constructor(a, b, c) { // ②
+    super(a, b); // ③
+    this.c = c;
+  }
+}
+
+const derived = new Derived(1, 2, 3); // ①
+console.log(derived); // Derived {a: 1, b: 2, c: 3}
+</code></pre>
+<ul>
+<li>
+<p><code>super</code> 호출 시 주의사항</p>
+<ol>
+<li>서브클래스에서 constructor를 생략하지 않는 경우 서브클래스의 constructor에서는 반드시 super를 호출해야 한다.
+<pre><code class="language-js">class Base {}
+
+class Derived extends Base {
+  constructor() {
+    // ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    console.log('constructor call');
+  }
+}
+
+const derived = new Derived();
+</code></pre>
+</li>
+<li>서브클래스의 constructor에서 <code>super</code>를 호출하기 전에는 this를 참조할 수 없다.
+<pre><code class="language-js">class Base {}
+
+class Derived extends Base {
+  constructor() {
+    // ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    this.a = 1;
+    super();
+  }
+}
+
+const derived = new Derived(1);
+</code></pre>
+</li>
+<li><code>super</code>는 반드시 서브클래스의 constructor에서만 호출한다. 서브클래스가 아닌 클래스의 constructor나 함수에서 super를 호출하면 에러가 발생한다.
+<pre><code class="language-js">class Base {
+  constructor() {
+    super(); // SyntaxError: 'super' keyword unexpected here
+  }
+}
+
+function Foo() {
+  super(); // SyntaxError: 'super' keyword unexpected here
+}
+</code></pre>
+</li>
+</ol>
+</li>
+<li>
+<p><code>super</code> 참조: 메서드 내에서 super를 참조하면 수퍼클래스의 메서드를 호출할 수 있다.</p>
+<ul>
+<li>서브클래스의 프로토타입 메서드 내에서 <code>super.~~</code>은 수퍼클래스의 프로토타입 메서드를 가리킨다.</li>
+<li>서브클래스의 정적 메서드 내에서 <code>super.~~</code>은 수퍼클래스의 정적 메서드를 가리킨다.</li>
+</ul>
+</li>
+</ul>
+<pre><code class="language-js">// 수퍼클래스
+class Base {
+  constructor(name) {
+    this.name = name;
+  }
+
+  sayHi() {
+    return `Hi! ${this.name}`;
+  }
+  
+  static sayBye() {
+    return 'Bye!';
+  }
+}
+
+// 서브클래스
+class Derived extends Base {
+  sayHi() {
+    // super.sayHi는 수퍼클래스의 프로토타입 메서드를 가리킨다.
+    return `${super.sayHi()}. how are you doing?`;
+  }
+  static sayBye() {
+    // super.sayBye는 수퍼클래스의 정적 메서드를 가리킨다.
+    return `${super.sayBye()} see you soon.`;
+  }
+}
+
+const derived = new Derived('Lee');
+console.log(derived.sayHi()); // Hi! Lee. how are you doing?
+console.log(Derived.sayBye()); // Bye! see you soon.
+</code></pre>
+<h3>25.8.6. 상속 클래스의 인스턴스 생성 과정</h3>
+<h4>1. 서브클래스의 super 호출</h4>
+<p>서브클래스는 자신이 직접 인스턴스를 생성하지 않고 수퍼클래스에게 인스턴스 생성을 위임하기 때문에, 서브클래스의 constructor에서 반드시 <code>super</code>를 호출해야 한다.</p>
+<h4>2. 수퍼클래스의 인스턴스 생성과 this 바인딩</h4>
+<p>인스턴스는 <code>new.target</code>이 가리키는 서브클래스가 생성한 것으로 처리된다.</p>
+<h4>3. 수퍼클래스의 인스턴스 초기화</h4>
+<h4>4. 서브클래스 constructor로의 복귀와 this 바인딩</h4>
+<p><code>super</code>가 반환한 인스턴스가 this에 바인딩된다. 서브클래스는 별도의 인스턴스를 생성하지 않고 super가 반환한 인스턴스를 this에 바인딩하여 그대로 사용한다.</p>
+<h4>5. 서브클래스의 인스턴스 초기화</h4>
+<h4>6. 인스턴스 반환</h4>
+<pre><code class="language-js">// 수퍼클래스
+class Rectangle {
+  constructor(width, height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  getArea() {
+    return this.width * this.height;
+  }
+
+  toString() {
+    return `width = ${this.width}, height = ${this.height}`;
+  }
+}
+
+// 서브클래스
+class ColorRectangle extends Rectangle {
+  constructor(width, height, color) {
+    super(width, height);
+    this.color = color;
+  }
+
+  // 메서드 오버라이딩
+  toString() {
+    return super.toString() + `, color = ${this.color}`;
+  }
+}
+
+const colorRectangle = new ColorRectangle(2, 4, 'red');
+console.log(colorRectangle); // ColorRectangle {width: 2, height: 4, color: "red"}
+
+// 상속을 통해 getArea 메서드를 호출
+console.log(colorRectangle.getArea()); // 8
+// 오버라이딩된 toString 메서드를 호출
+console.log(colorRectangle.toString()); // width = 2, height = 4, color = red
+</code></pre>
+<h3>25.8.7. 표준 빌트인 생성자 함수 확장</h3>
+<pre><code class="language-js">// Array 생성자 함수를 상속받아 확장한 MyArray
+class MyArray extends Array {
+  // 중복된 배열 요소를 제거하고 반환한다: [1, 1, 2, 3] => [1, 2, 3]
+  uniq() {
+    return this.filter((v, i, self) => self.indexOf(v) === i);
+  }
+
+  // 모든 배열 요소의 평균을 구한다: [1, 2, 3] => 2
+  average() {
+    return this.reduce((pre, cur) => pre + cur, 0) / this.length;
+  }
+}
+
+const myArray = new MyArray(1, 1, 2, 3);
+console.log(myArray); // MyArray(4) [1, 1, 2, 3]
+
+// MyArray.prototype.uniq 호출
+console.log(myArray.uniq()); // MyArray(3) [1, 2, 3]
+
+// MyArray.prototype.average 호출
+console.log(myArray.average()); // 1.75
+
+console.log(myArray.filter(v => v % 2) instanceof MyArray); // true
+
+// 메서드 체이닝
+// [1, 1, 2, 3] => [ 1, 1, 3 ] => [ 1, 3 ] => 2
+console.log(myArray.filter(v => v % 2).uniq().average()); // 2
+</code></pre>
+<p><code>extends</code> 키워드를 사용하여 표준 빌트인 생성자 함수를 확장하였을 때, 새로운 배열을 반환하는 메서드가 Array의 인스턴스가 아닌 MyArray 인스턴스를 반환하기 때문에 메서드 체이닝(method chaining)이 가능하다.</p>
+<p>만약 MyArray 클래스의 매서드가 Array 인스턴스를 반환하게 하려면 다음과 같이 <code>Symbol.species</code>를 사용하여 정적 접근자 프로퍼티를 추가한다.</p>
+<pre><code class="language-js">// Array 생성자 함수를 상속받아 확장한 MyArray
+class MyArray extends Array {
+  // 모든 메서드가 Array 타입의 인스턴스를 반환하도록 한다.
+  static get [Symbol.species]() { return Array; }
+
+  // 중복된 배열 요소를 제거하고 반환한다: [1, 1, 2, 3] => [1, 2, 3]
+  uniq() {
+    return this.filter((v, i, self) => self.indexOf(v) === i);
+  }
+
+  // 모든 배열 요소의 평균을 구한다: [1, 2, 3] => 2
+  average() {
+    return this.reduce((pre, cur) => pre + cur, 0) / this.length;
+  }
+}
+
+const myArray = new MyArray(1, 1, 2, 3);
+
+console.log(myArray.uniq() instanceof MyArray); // false
+console.log(myArray.uniq() instanceof Array); // true
+
+// 메서드 체이닝
+// uniq 메서드는 Array 인스턴스를 반환하므로 average 메서드를 호출할 수 없다.
+console.log(myArray.uniq().average()); // TypeError: myArray.uniq(...).average is not a function
+</code></pre>
+c:["$","div",null,{"className":"min-h-screen pt-32 pb-20","children":["$","div",null,{"className":"section-container max-w-3xl","children":["$","article",null,{"className":"card bg-white/70 p-8 backdrop-blur-sm md:p-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-text-primary mb-4 text-4xl font-bold md:text-5xl","children":"$undefined"}],["$","div",null,{"className":"text-text-secondary flex items-center gap-4","children":[["$","time",null,{"children":"$undefined"}],["$","span",null,{"children":"•"}],["$","span",null,{"children":["읽기 시간: 약 ","-","분"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-headings:text-text-primary prose-p:text-text-secondary prose-a:text-secondary-coral hover:prose-a:text-secondary-peach prose-code:text-secondary-coral prose-code:bg-secondary-mint/20 prose-code:px-2 prose-code:py-1 prose-code:rounded max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]}]
+16:I[22016,["/_next/static/chunks/c425561422a45908.js","/_next/static/chunks/796e69ae18b2784c.js"],""]
+15:["$","footer",null,{"className":"border-secondary-peach/30 mt-12 border-t pt-8","children":["$","$L16",null,{"href":"/blog","className":"text-secondary-coral hover:text-secondary-peach font-medium transition-colors","children":"← 블로그로 돌아가기"}]}]
+17:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+13:[["$","title","0",{"children":"포스트 | 개발 블로그"}],["$","link","1",{"rel":"icon","href":"👨‍💻"}],["$","$L17","2",{}]]
+f:null
