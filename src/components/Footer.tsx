@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Portfolio
             </h3>
             <p className="text-text-secondary text-sm">
-              프론트엔드 개발자의 포트폴리오입니다.
+              Lee Sujeong (Frontend Developer) 포트폴리오입니다.
             </p>
           </div>
 
